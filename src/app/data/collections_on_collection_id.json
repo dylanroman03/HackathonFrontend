@@ -1,0 +1,1402 @@
+{
+    "0n1force": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "0n1force",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/0n1force.png",
+            "contractAddress": [
+                "0x3bf2922f4520a8ba0c2efc3d2a1539678dad5e9d"
+            ],
+            "name": "0N1 Force",
+            "paymentToken": "ETH",
+            "totalSupply": 7775,
+            "websiteURL": ""
+        }
+    },
+    "3landers": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "3landers",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/atari50.jpg",
+            "contractAddress": [
+                "0xb4d06d46a8285f4ec79fd294f78a881799d8ced9"
+            ],
+            "name": "3Landers",
+            "paymentToken": "ETH",
+            "totalSupply": 9992,
+            "websiteURL": ""
+        }
+    },
+    "888-inner-circle": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "888-inner-circle",
+            "collectionImageURL": "https://lh3.googleusercontent.com/h0MhwYG3nIpAP8Pse5MAN8SkpuuB_eshuQpc0g7ShW3G0XgZmIGYfb3nN-qV079TfjDyVl4BpY-ch5xMclDWEMIn6oMZV3CFZfMCVWs=s130",
+            "contractAddress": [
+                "0x36d30b3b85255473d27dd0f7fd8f35e36a9d6f06"
+            ],
+            "name": "888 Inner Circle",
+            "paymentToken": "ETH",
+            "totalSupply": 0,
+            "websiteURL": ""
+        }
+    },
+    "adam-bomb-squad": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "adam-bomb-squad",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/adam-bomb-squad.jpg",
+            "contractAddress": [
+                "0x7ab2352b1d2e185560494d5e577f9d3c238b78c5"
+            ],
+            "name": "Adam Bomb Squad",
+            "paymentToken": "ETH",
+            "totalSupply": 25000,
+            "websiteURL": ""
+        }
+    },
+    "alienfrens": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "alienfrens",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/alienfrens.jpeg",
+            "contractAddress": [
+                "0x123b30e25973fecd8354dd5f41cc45a3065ef88c"
+            ],
+            "name": "ALIENFRENS",
+            "paymentToken": "ETH",
+            "totalSupply": 9998,
+            "websiteURL": ""
+        }
+    },
+    "art-blocks": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "art-blocks",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/resized/art-blocks-logo2_resized.png",
+            "contractAddress": [
+                "0x059edd72cd353df5106d2b9cc5ab83a52287ac3a"
+            ],
+            "name": "Art Blocks",
+            "paymentToken": "ETH",
+            "totalSupply": 0,
+            "websiteURL": "https://artblocks.io/"
+        }
+    },
+    "aurorians": {
+        "data": {
+            "blockchainId": "solana",
+            "collectionId": "aurorians",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/aurorians.png",
+            "contractAddress": [
+                "9vwYtcJsH1MskNaixcjgNBnvBDkTBhyg25umod1rgMQL"
+            ],
+            "name": "Aurorians",
+            "paymentToken": "SOL",
+            "totalSupply": 9999,
+            "websiteURL": "https://aurory.io/"
+        }
+    },
+    "axie-infinity": {
+        "data": {
+            "blockchainId": "ronin",
+            "collectionId": "axie-infinity",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/axieinfinity.png",
+            "contractAddress": [
+                "0x32950db2a7164ae833121501c797d79e7b79d74c"
+            ],
+            "name": "Axie Infinity",
+            "paymentToken": "RON",
+            "totalSupply": 0,
+            "websiteURL": "https://axieinfinity.com/"
+        }
+    },
+    "azuki": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "azuki",
+            "collectionImageURL": "https://i.seadn.io/gae/H8jOCJuQokNqGBpkBN5wk1oZwO7LM8bNnrHCaekV2nKjnCqw6UB5oaH8XyNeBDj6bA_n1mjejzhFQUP3O1NfjFLHr3FOaeHcTOOT?auto=format&w=1920",
+            "contractAddress": [
+                "0xED5AF388653567Af2F388E6224dC7C4b3241C544"
+            ],
+            "name": "Azuki",
+            "paymentToken": "ETH",
+            "totalSupply": 10000,
+            "websiteURL": ""
+        }
+    },
+    "beanz": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "beanz",
+            "collectionImageURL": "https://cryptoslam-token-images.s3.amazonaws.com/beanz.jpg",
+            "contractAddress": [
+                "0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949"
+            ],
+            "name": "Beanz",
+            "paymentToken": "ETH",
+            "totalSupply": 19950,
+            "websiteURL": ""
+        }
+    },
+    "book-games": {
+        "data": {
+            "blockchainId": "immutablex",
+            "collectionId": "book-games",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/Book-Games.jpg",
+            "contractAddress": [
+                "0xac98d8d1bb27a94e79fbf49198210240688bb1ed"
+            ],
+            "name": "Book Games",
+            "paymentToken": "IMX",
+            "totalSupply": 0,
+            "websiteURL": ""
+        }
+    },
+    "bored-ape-kennel-club": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "bored-ape-kennel-club",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/Screen Shot 2022-11-11 at 2.12.31 PM.png",
+            "contractAddress": [
+                "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623"
+            ],
+            "name": "Bored Ape Kennel Club",
+            "paymentToken": "ETH",
+            "totalSupply": 9602,
+            "websiteURL": ""
+        }
+    },
+    "bored-ape-yacht-club": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "bored-ape-yacht-club",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/Screen Shot 2022-11-11 at 2.00.54 PM.png",
+            "contractAddress": [
+                "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d"
+            ],
+            "name": "Bored Ape Yacht Club",
+            "paymentToken": "ETH",
+            "totalSupply": 10000,
+            "websiteURL": "https://www.BoredApeYachtClub.com"
+        }
+    },
+    "capsule": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "capsule",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/capsule.png",
+            "contractAddress": [
+                "0xfcB1315C4273954F74Cb16D5b663DBF479EEC62e"
+            ],
+            "name": "Capsule",
+            "paymentToken": "ETH",
+            "totalSupply": 10000,
+            "websiteURL": ""
+        }
+    },
+    "captainz": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "captainz",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/ethereum/captainz.png",
+            "contractAddress": [
+                "0x769272677fab02575e84945f03eca517acc544cc|0x977c677bd1d3a40e70b5e402a6d040dc055d6333"
+            ],
+            "name": "The Captainz",
+            "paymentToken": "ETH",
+            "totalSupply": 9802,
+            "websiteURL": "http://memeland.com/captainz"
+        }
+    },
+    "chubbies": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "chubbies",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/ethereum/chubbies.png",
+            "contractAddress": [
+                "0x1db61fc42a843bad4d91a2d788789ea4055b8613"
+            ],
+            "name": "Chubbies",
+            "paymentToken": "ETH",
+            "totalSupply": 9988,
+            "websiteURL": ""
+        }
+    },
+    "clonex": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "clonex",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/Screen Shot 2022-11-11 at 2.23.04 PM.png",
+            "contractAddress": [
+                "0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b"
+            ],
+            "name": "CloneX",
+            "paymentToken": "ETH",
+            "totalSupply": 19520,
+            "websiteURL": ""
+        }
+    },
+    "cool-cats": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "cool-cats",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/Screen Shot 2022-11-11 at 1.48.40 PM.png",
+            "contractAddress": [
+                "0x1a92f7381b9f03921564a437210bb9396471050c"
+            ],
+            "name": "Cool Cats",
+            "paymentToken": "ETH",
+            "totalSupply": 9968,
+            "websiteURL": "https://coolcatsnft.com/"
+        }
+    },
+    "cool-pets": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "cool-pets",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/coolpets.png",
+            "contractAddress": [
+                "0x86c10d10eca1fca9daf87a279abccabe0063f247"
+            ],
+            "name": "Cool Pets",
+            "paymentToken": "ETH",
+            "totalSupply": 18487,
+            "websiteURL": ""
+        }
+    },
+    "coolmansuniverse": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "coolmansuniverse",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/coolman.jpeg",
+            "contractAddress": [
+                "0xa5c0bd78d1667c13bfb403e2a3336871396713c5"
+            ],
+            "name": "Coolmans Universe",
+            "paymentToken": "ETH",
+            "totalSupply": 9997,
+            "websiteURL": ""
+        }
+    },
+    "crabada": {
+        "data": {
+            "blockchainId": "avalanche",
+            "collectionId": "crabada",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/crabada2.png",
+            "contractAddress": [
+                "0x1b7966315ef0259de890f38f1bdb95acc03cacdd"
+            ],
+            "name": "Crabada",
+            "paymentToken": "AVAX",
+            "totalSupply": 116684,
+            "websiteURL": ""
+        }
+    },
+    "creature-world-nft": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "creature-world-nft",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/resized/creature-world_resized.png",
+            "contractAddress": [
+                "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+            ],
+            "name": "Creature World NFT",
+            "paymentToken": "ETH",
+            "totalSupply": 0,
+            "websiteURL": "https://www.creature.world/"
+        }
+    },
+    "creatureworld": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "creatureworld",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/creatureworld.png",
+            "contractAddress": [
+                "0xc92ceddfb8dd984a89fb494c376f9a48b999aafc"
+            ],
+            "name": "Creature World",
+            "paymentToken": "ETH",
+            "totalSupply": 9999,
+            "websiteURL": "http://creature.guide/"
+        }
+    },
+    "cryptoadz": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "cryptoadz",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/cryptoadz.png",
+            "contractAddress": [
+                "0x1cb1a5e65610aeff2551a50f76a87a7d3fb649c6"
+            ],
+            "name": "Cryptoadz",
+            "paymentToken": "ETH",
+            "totalSupply": 7022,
+            "websiteURL": "https://cryptoadz.io/"
+        }
+    },
+    "cryptophunksv2": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "cryptophunksv2",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/cryptophunks.ico",
+            "contractAddress": [
+                "0xf07468ead8cf26c752c676e43c814fee9c8cf402"
+            ],
+            "name": "CryptoPhunksV2",
+            "paymentToken": "ETH",
+            "totalSupply": 9973,
+            "websiteURL": ""
+        }
+    },
+    "cryptopunks": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "cryptopunks",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/ethereum/cryptopunks.png",
+            "contractAddress": [
+                "0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb"
+            ],
+            "name": "CryptoPunks",
+            "paymentToken": "ETH",
+            "totalSupply": 4512,
+            "websiteURL": ""
+        }
+    },
+    "cryptoskulls": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "cryptoskulls",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/cryptoskulls.jpeg",
+            "contractAddress": [
+                "0xc1caf0c19a8ac28c41fe59ba6c754e4b9bd54de9"
+            ],
+            "name": "CryptoSkulls",
+            "paymentToken": "ETH",
+            "totalSupply": 10000,
+            "websiteURL": ""
+        }
+    },
+    "curio-cards": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "curio-cards",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/resized/CurioCards_resized.png",
+            "contractAddress": [
+                "0x73da73ef3a6982109c4d5bdb0db9dd3e3783f313"
+            ],
+            "name": "Curio Cards",
+            "paymentToken": "ETH",
+            "totalSupply": 0,
+            "websiteURL": ""
+        }
+    },
+    "cyberbrokers": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "cyberbrokers",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/cyberbroker.png",
+            "contractAddress": [
+                "0x892848074ddea461a15f337250da3ce55580ca85"
+            ],
+            "name": "CyberBrokers",
+            "paymentToken": "ETH",
+            "totalSupply": 10000,
+            "websiteURL": ""
+        }
+    },
+    "cyberkongz": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "cyberkongz",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/CyberKongz.png",
+            "contractAddress": [
+                "0x57a204aa1042f6e66dd7730813f4024114d74f37"
+            ],
+            "name": "CyberKongz",
+            "paymentToken": "ETH",
+            "totalSupply": 5000,
+            "websiteURL": ""
+        }
+    },
+    "cyberkongz-vx-1": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "cyberkongz-vx-1",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/ethereum/cyberkongz-vx-1.png",
+            "contractAddress": [
+                "0x7ea3cca10668b8346aec0bf1844a49e995527c8b"
+            ],
+            "name": "CyberKongz VX",
+            "paymentToken": "ETH",
+            "totalSupply": 14846,
+            "websiteURL": ""
+        }
+    },
+    "deadfellaz": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "deadfellaz",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/deadfellaz.png",
+            "contractAddress": [
+                "0x2acab3dea77832c09420663b0e1cb386031ba17b"
+            ],
+            "name": "DeadFellaz",
+            "paymentToken": "ETH",
+            "totalSupply": 10000,
+            "websiteURL": ""
+        }
+    },
+    "degenerate-ape-academy": {
+        "data": {
+            "blockchainId": "solana",
+            "collectionId": "degenerate-ape-academy",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/cs/degenerate-ape-academy.png",
+            "contractAddress": [
+                "9BKWqDHfHZh9j39xakYVMdr6hXmCLHH5VfCpeq2idU9L"
+            ],
+            "name": "Degenerate Ape Academy",
+            "paymentToken": "SOL",
+            "totalSupply": 8224,
+            "websiteURL": ""
+        }
+    },
+    "degods": {
+        "data": {
+            "blockchainId": "solana",
+            "collectionId": "degods",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/DeGods.png",
+            "contractAddress": [
+                "8RMqBV79p8sb51nMaKMWR94XKjUvD2kuUSAkpEJTmxyx|9MynErYQ5Qi6obp4YwwdoDmXkZ1hYVtPUqYmJJ3rZ9Kn"
+            ],
+            "name": "DeGods Solana",
+            "paymentToken": "SOL",
+            "totalSupply": 9496,
+            "websiteURL": ""
+        }
+    },
+    "degods-ethereum": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "degods-ethereum",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/DeGods.png",
+            "contractAddress": [
+                "0x8821bee2ba0df28761afff119d66390d594cd280"
+            ],
+            "name": "DeGods",
+            "paymentToken": "ETH",
+            "totalSupply": 8954,
+            "websiteURL": "https://degods.com/"
+        }
+    },
+    "dmarket": {
+        "data": {
+            "blockchainId": "mythos",
+            "collectionId": "dmarket",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/cs/dmarket.png",
+            "contractAddress": [
+                "0x1cd2c2fe1805daa5f9016b89634896b3f5c60245"
+            ],
+            "name": "DMarket",
+            "paymentToken": "MYTH",
+            "totalSupply": 20756260,
+            "websiteURL": "https://dmarket.com/"
+        }
+    },
+    "doodles": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "doodles",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/Screen Shot 2022-11-11 at 3.12.58 PM.png",
+            "contractAddress": [
+                "0x8a90cab2b38dba80c64b7734e58ee1db38b8992e"
+            ],
+            "name": "Doodles",
+            "paymentToken": "ETH",
+            "totalSupply": 9998,
+            "websiteURL": ""
+        }
+    },
+    "draft-kings": {
+        "data": {
+            "blockchainId": "polygon",
+            "collectionId": "draft-kings",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/cs/draft-kings.png",
+            "contractAddress": [
+                "08AE41467117483D98A127E80102124B|0D54D6E1EB10468F95963A6C50A9FDAA|0EA10FF5C71B400CA07E81121CF0EF43|137349A68D864DFE8C87CB0DA07C2957|17A8AA1F84C8468A853010A2DAD023D6|24A464E787C44F06AD2B2C3B1C7A40F6|25D301B148EE4F5AA758B4DFE135F1D7|2F48440A2C8E4B3E9D64FEC2434FF5FA|38B54800C76F45C7B1FC10765C011348|3AD705B2470C4305869A2DA6DE333B6D|3D9E84D4C33B4C9FB6B5601B145EA198|45B62D0BDD324DC98160CBF3E8F52D72|45E0244D6FEE486C9A7F752DDCFB1FCA|46E32B366C5743FB98B34914B5DCA83F|51044E62A97E4B08A12B6C3E60EB27D0|5375AB27082F4DC18D1C67A993E0DE7F|5679E69D0174469D9B505139A8B1B114|5AA954920F7D4F408DB2430B74D04C65|5EAE2563006D4FE0AE1405A31567C60C|602780A639344EB9BB25B6B5763FBCBD|60442DF54ADB4160A2E234AF4515463F|616E92C8CB574FDEAFC722D2CEBF5984|675EDD7814B54610B2EC8E1A995E9A75|6972B16D088C41EA860B598B397AED5F|6BC721A515CE4CD8BC1DB530784CE356|6C7E89F7C2594438B67346CA18B95AF8|6CE0B3BFB9254489A0BC55737A07DFD8|70854D27A9F84A899E47E76C7EAE3A25|7317E746245C4FC6946FA489EE31B50D|75598615C03B4D92B040248084D22C67|773B297A31044E8FACEAE15C124F640B|79DEF9BE78494A2485BC236E2B0AEFF0|7D121BF068694EAA9709E10BF747F25A|7DCE519C231F4394AF61E5CD9863D6A1|800239F32D8B49B5BFD5FA5EFFF58A4C|818C689E7ADA40BB95DFE904AB256B3C|870D762BDCB14FD199CCAC1514B14855|8B6DC5F7D703444DA94DFAD20A650B9E|8B8F14FB451944ACA580A1E6BCB95CD4|912D0BEAC3674C8CA4D575A9328BCE28|942C01B253BB4C51A0A8743217596F0B|98190EC949074914B5172DB5C7D16B56|985E4F9575FA420BAE3632D70B373983|A215BD73F21446E9BEA18EC27309B862|A6BFD2935FA246A1A7BDBADCD2F2733C|A9FCAB2B852742DCA81E46A077D38257|B0E3AC9E338E44BFA5AF1EEFDD8EC4AD|B0F73B35EF8B435DAD3A3DBC5FA64BBF|BDDCD84F46C6485FBAAB76ECA79891AC|CC90CB4208D747FF8F5A91D79F3E1725|CE3B1717C91D440DA603058D33ADB1BD|D161E8E2A3BF461D9619713F7AA2846B|D72B7502E75844468A4B5D708406513F|D95A2F1DE665443CA79EAB58BB7CB729|DB57FF08350E4141B248D351C9DFB059|DBC380DA0745413386710B4B80A83795|E373BD6F3DD44F6EAEC53CBA01DFD909|E3BC8069C5B44B17ACC8BE947F719FFA|E6F9AADEC79743A09391718147E132A6|E8B15F0F3D514BDA8916369B6A13697C|EC35CC05EE9B4EDEA3D530F62077456A|EE5B00E60B1C45458232AEF3B6FD43FE|F226CD946F594DE99B5C6AAF2FFCF4A0|F5B0E72826254ED083C4DE79C48D3C8E|F9F878990622413A8DCE1121057587CF|FCEF9D5CD0E24267A1B54A1EF5FCA7EC"
+            ],
+            "name": "DraftKings",
+            "paymentToken": "MATIC",
+            "totalSupply": 0,
+            "websiteURL": "https://www.draftkings.com/reignmakers"
+        }
+    },
+    "emblem-vault-v4": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "emblem-vault-v4",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/emblem-vault.png",
+            "contractAddress": [
+                "0x82c7a8f707110f5fbb16184a5933e9f78a34c6ab"
+            ],
+            "name": "Emblem Vault V4",
+            "paymentToken": "ETH",
+            "totalSupply": 43143,
+            "websiteURL": ""
+        }
+    },
+    "farmers-world": {
+        "data": {
+            "blockchainId": "wax",
+            "collectionId": "farmers-world",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/resized/farmers-world_resized.png",
+            "contractAddress": [
+                "farmersworld"
+            ],
+            "name": "Farmers World",
+            "paymentToken": "WAX",
+            "totalSupply": 0,
+            "websiteURL": ""
+        }
+    },
+    "fluf-world": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "fluf-world",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/resized/fluf-world_resized.webp",
+            "contractAddress": [
+                "0xccc441ac31f02cd96c153db6fd5fe0a2f4e6a68d"
+            ],
+            "name": "FLUF World",
+            "paymentToken": "ETH",
+            "totalSupply": 10000,
+            "websiteURL": ""
+        }
+    },
+    "goblintown": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "goblintown",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/goblin.png",
+            "contractAddress": [
+                "0xbce3781ae7ca1a5e050bd9c4c77369867ebc307e"
+            ],
+            "name": "goblintown",
+            "paymentToken": "ETH",
+            "totalSupply": 9991,
+            "websiteURL": "https://goblintown.wtf/"
+        }
+    },
+    "gods-unchained-cards": {
+        "data": {
+            "blockchainId": "immutablex",
+            "collectionId": "gods-unchained-cards",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/cs/gods-unchained-cards.png",
+            "contractAddress": [
+                "0xacb3c6a43d15b907e8433077b6d38ae40936fe2c"
+            ],
+            "name": "Gods Unchained Cards",
+            "paymentToken": "IMX",
+            "totalSupply": 0,
+            "websiteURL": "https://godsunchained.com/"
+        }
+    },
+    "hape-prime": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "hape-prime",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/hape.png",
+            "contractAddress": [
+                "0x4Db1f25D3d98600140dfc18dEb7515Be5Bd293Af"
+            ],
+            "name": "HAPE PRIME",
+            "paymentToken": "ETH",
+            "totalSupply": 8192,
+            "websiteURL": ""
+        }
+    },
+    "hashmasks": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "hashmasks",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/hashmasks.jpg",
+            "contractAddress": [
+                "0xc2c747e0f7004f9e8817db2ca4997657a7746928"
+            ],
+            "name": "Hashmasks",
+            "paymentToken": "ETH",
+            "totalSupply": 16372,
+            "websiteURL": ""
+        }
+    },
+    "hero": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "hero",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/rp.jpg",
+            "contractAddress": [
+                "0x966731dfd9b9925dd105ff465687f5aa8f54ee9f"
+            ],
+            "name": "Hero",
+            "paymentToken": "ETH",
+            "totalSupply": 5635,
+            "websiteURL": ""
+        }
+    },
+    "ice-poet": {
+        "data": {
+            "blockchainId": "polygon",
+            "collectionId": "ice-poet",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/dcicepoet.png",
+            "contractAddress": [
+                "0x5b2d60db65d80593bd5c5d36fcd99717ef03e850"
+            ],
+            "name": "ICE Poet",
+            "paymentToken": "MATIC",
+            "totalSupply": 1251,
+            "websiteURL": ""
+        }
+    },
+    "impostors-genesis": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "impostors-genesis",
+            "collectionImageURL": "https://cryptoslam-token-images.s3.amazonaws.com/imposters.png",
+            "contractAddress": [
+                "0x3110ef5f612208724ca51f5761a69081809f03b7"
+            ],
+            "name": "Impostors Genesis",
+            "paymentToken": "ETH",
+            "totalSupply": 10413,
+            "websiteURL": ""
+        }
+    },
+    "invisible-friends": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "invisible-friends",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/invisiblefriends.png",
+            "contractAddress": [
+                "0x59468516a8259058bad1ca5f8f4bff190d30e066"
+            ],
+            "name": "Invisible Friends",
+            "paymentToken": "ETH",
+            "totalSupply": 5000,
+            "websiteURL": ""
+        }
+    },
+    "kaiju-kingz": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "kaiju-kingz",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/kaijukingz.png",
+            "contractAddress": [
+                "0x0c2e57efddba8c768147d1fdf9176a0a6ebd5d83"
+            ],
+            "name": "Kaiju Kingz",
+            "paymentToken": "ETH",
+            "totalSupply": 0,
+            "websiteURL": "https://kaijukingz.io/#/"
+        }
+    },
+    "kaijukingz": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "kaijukingz",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/kaijukingz.png",
+            "contractAddress": [
+                "0x0c2e57efddba8c768147d1fdf9176a0a6ebd5d83"
+            ],
+            "name": "KaijuKingz",
+            "paymentToken": "ETH",
+            "totalSupply": 9826,
+            "websiteURL": ""
+        }
+    },
+    "karafuru": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "karafuru",
+            "collectionImageURL": "https://d35vxokfjoq7rk.cloudfront.net/crypto-placeholder.png",
+            "contractAddress": [
+                "0xd2f668a8461d6761115daf8aeb3cdf5f40c532c6|0xe6805e49c850932307bc865ac4413b93a2b2a139"
+            ],
+            "name": "Karafuru",
+            "paymentToken": "ETH",
+            "totalSupply": 5562,
+            "websiteURL": ""
+        }
+    },
+    "loot": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "loot",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/loot.PNG",
+            "contractAddress": [
+                "0xd45ea7b6a430a0543360d96612da56711bf6b9c8|0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7"
+            ],
+            "name": "$LOOT",
+            "paymentToken": "ETH",
+            "totalSupply": 7779,
+            "websiteURL": "https://lootproject.com/"
+        }
+    },
+    "mad-lads-1": {
+        "data": {
+            "blockchainId": "solana",
+            "collectionId": "mad-lads-1",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/madlads.jpeg",
+            "contractAddress": [
+                "5XvhfmRjwXkGp3jHGmaKpqeerNYjkuZZBYLVQYdeVcRv"
+            ],
+            "name": "Mad Lads",
+            "paymentToken": "SOL",
+            "totalSupply": 9965,
+            "websiteURL": "https://www.madlads.com/"
+        }
+    },
+    "meebits": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "meebits",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/resized/meebits_resized.png",
+            "contractAddress": [
+                "0x7bd29408f11d2bfc23c34f18275bbf23bb716bc7"
+            ],
+            "name": "Meebits",
+            "paymentToken": "ETH",
+            "totalSupply": 19999,
+            "websiteURL": ""
+        }
+    },
+    "mekaverse4": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "mekaverse4",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/mekaverse.jpg",
+            "contractAddress": [
+                "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f"
+            ],
+            "name": "MekaVerse",
+            "paymentToken": "ETH",
+            "totalSupply": 295,
+            "websiteURL": "https://themekaverse.com/"
+        }
+    },
+    "mfer": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "mfer",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/mfer.png",
+            "contractAddress": [
+                "0x79fcdef22feed20eddacbb2587640e45491b757f"
+            ],
+            "name": "MFER",
+            "paymentToken": "ETH",
+            "totalSupply": 20040,
+            "websiteURL": ""
+        }
+    },
+    "milady": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "milady",
+            "collectionImageURL": "https://cryptoslam-token-images.s3.amazonaws.com/milday.jpg",
+            "contractAddress": [
+                "0x5af0d9827e0c53e4799bb226655a1de152a425a5"
+            ],
+            "name": "Milady Maker",
+            "paymentToken": "ETH",
+            "totalSupply": 9978,
+            "websiteURL": "https://miladymaker.net/"
+        }
+    },
+    "moonbirds": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "moonbirds",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/Screen Shot 2022-11-11 at 2.44.56 PM.png",
+            "contractAddress": [
+                "0x23581767a106ae21c074b2276d25e5c3e136a68b"
+            ],
+            "name": "Moonbirds",
+            "paymentToken": "ETH",
+            "totalSupply": 10000,
+            "websiteURL": ""
+        }
+    },
+    "mooncats": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "mooncats",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/mooncats-1.png",
+            "contractAddress": [
+                "0x7c40c393dc0f283f318791d746d894ddd3693572"
+            ],
+            "name": "Mooncats",
+            "paymentToken": "ETH",
+            "totalSupply": 0,
+            "websiteURL": "https://mooncatrescue.com/"
+        }
+    },
+    "mutant-ape-yacht-club": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "mutant-ape-yacht-club",
+            "collectionImageURL": "https://i.seadn.io/gae/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI?auto=format&w=1920",
+            "contractAddress": [
+                "0x60e4d786628fea6478f785a6d7e704777c86a7c6"
+            ],
+            "name": "Mutant Ape Yacht Club ",
+            "paymentToken": "ETH",
+            "totalSupply": 19486,
+            "websiteURL": ""
+        }
+    },
+    "nba-top-shot": {
+        "data": {
+            "blockchainId": "flow",
+            "collectionId": "nba-top-shot",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/nba-top-shot-v2-logo.png",
+            "contractAddress": [
+                "A.0b2a3299cc857e29.TopShot"
+            ],
+            "name": "NBA Top Shot",
+            "paymentToken": "Flow",
+            "totalSupply": 35375951,
+            "websiteURL": "https://nbatopshot.com/"
+        }
+    },
+    "neo-tokyo-outer-identities": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "neo-tokyo-outer-identities",
+            "collectionImageURL": "",
+            "contractAddress": [
+                "0x698fbaaca64944376e2cdc4cad86eaa91362cf54"
+            ],
+            "name": "Neo Tokyo: Outer Identities",
+            "paymentToken": "ETH",
+            "totalSupply": 1,
+            "websiteURL": ""
+        }
+    },
+    "nfl-all-day": {
+        "data": {
+            "blockchainId": "flow",
+            "collectionId": "nfl-all-day",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/nflallday.png",
+            "contractAddress": [
+                "A.e4cf4bdc1751c65d.AllDay|A.e4cf4bdc1751c65d.PackNFT"
+            ],
+            "name": "NFL All Day",
+            "paymentToken": "Flow",
+            "totalSupply": 6423690,
+            "websiteURL": ""
+        }
+    },
+    "nft-worlds": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "nft-worlds",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/nftworlds.png",
+            "contractAddress": [
+                "0xbd4455da5929d5639ee098abfaa3241e9ae111af"
+            ],
+            "name": "NFT Worlds",
+            "paymentToken": "ETH",
+            "totalSupply": 9999,
+            "websiteURL": ""
+        }
+    },
+    "okay-bears": {
+        "data": {
+            "blockchainId": "solana",
+            "collectionId": "okay-bears",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/okay-bear.jpeg",
+            "contractAddress": [
+                "3xVDoLaecZwXXtN59o6T3Gfxwjcgf8Hc9RfoqBn995P9"
+            ],
+            "name": "Okay Bears",
+            "paymentToken": "SOL",
+            "totalSupply": 10011,
+            "websiteURL": ""
+        }
+    },
+    "otherdeed": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "otherdeed",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/otherdeed.png",
+            "contractAddress": [
+                "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258"
+            ],
+            "name": "Otherdeed",
+            "paymentToken": "ETH",
+            "totalSupply": 47184,
+            "websiteURL": "https://t.co/X7gsKg2gr5"
+        }
+    },
+    "panini-america": {
+        "data": {
+            "blockchainId": "panini",
+            "collectionId": "panini-america",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/panini-logo.png",
+            "contractAddress": [
+                "panini-baseball"
+            ],
+            "name": "Panini America",
+            "paymentToken": "USD",
+            "totalSupply": 0,
+            "websiteURL": ""
+        }
+    },
+    "pixelmon": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "pixelmon",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/pixelmon.png",
+            "contractAddress": [
+                "0x32973908FaeE0Bf825A343000fE412ebE56F802A"
+            ],
+            "name": "Pixelmon",
+            "paymentToken": "ETH",
+            "totalSupply": 21548,
+            "websiteURL": "https://pixelmon.club/"
+        }
+    },
+    "prime-ape-planet": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "prime-ape-planet",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/PAP.png",
+            "contractAddress": [
+                "0x6632a9d63e142f17a668064d41a21193b49b41a0"
+            ],
+            "name": "Prime Ape Planet",
+            "paymentToken": "ETH",
+            "totalSupply": 7880,
+            "websiteURL": ""
+        }
+    },
+    "projectpxn": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "projectpxn",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/pxn.png",
+            "contractAddress": [
+                "0x160c404b2b49cbc3240055ceaee026df1e8497a0"
+            ],
+            "name": "projectPXN",
+            "paymentToken": "ETH",
+            "totalSupply": 10000,
+            "websiteURL": "http://phantom.sh/"
+        }
+    },
+    "psychedelics-anonymous-genesis": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "psychedelics-anonymous-genesis",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/PAG.png",
+            "contractAddress": [
+                "0x75e95ba5997eb235f40ecf8347cdb11f18ff640b"
+            ],
+            "name": "Psychedelics Anonymous Genesis",
+            "paymentToken": "ETH",
+            "totalSupply": 9595,
+            "websiteURL": ""
+        }
+    },
+    "pudgy-penguins": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "pudgy-penguins",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/pudgypenguins.PNG",
+            "contractAddress": [
+                "0xBd3531dA5CF5857e7CfAA92426877b022e612cf8"
+            ],
+            "name": "Pudgy Penguins",
+            "paymentToken": "ETH",
+            "totalSupply": 8888,
+            "websiteURL": "https://www.pudgypenguins.io/"
+        }
+    },
+    "rats-brc-20-nfts": {
+        "data": {
+            "blockchainId": "bitcoin",
+            "collectionId": "rats-brc-20-nfts",
+            "collectionImageURL": "",
+            "contractAddress": [
+                "bitcoin-ordinals-brc-20-rats"
+            ],
+            "name": "$RATS BRC-20 NFTs",
+            "paymentToken": "BTC",
+            "totalSupply": 495346,
+            "websiteURL": ""
+        }
+    },
+    "rtfkt-clonex-mintvial": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "rtfkt-clonex-mintvial",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/rtfkt-clonex-mintvial.png",
+            "contractAddress": [
+                "0x348fc118bcc65a92dc033a951af153d14d945312"
+            ],
+            "name": "RTFKT CloneX Mintvial",
+            "paymentToken": "ETH",
+            "totalSupply": 0,
+            "websiteURL": "https://rtfkt.com/"
+        }
+    },
+    "sats-brc-20-nfts": {
+        "data": {
+            "blockchainId": "bitcoin",
+            "collectionId": "sats-brc-20-nfts",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/cs/sats-brc-20-nfts.png",
+            "contractAddress": [
+                "bitcoin-ordinals-brc-20-sats"
+            ],
+            "name": "$SATS BRC-20 NFTs",
+            "paymentToken": "BTC",
+            "totalSupply": 7154497,
+            "websiteURL": ""
+        }
+    },
+    "sewerpass": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "sewerpass",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/sewer.PNG",
+            "contractAddress": [
+                "0x764aeebcf425d56800ef2c84f2578689415a2daa"
+            ],
+            "name": "Sewer Pass",
+            "paymentToken": "ETH",
+            "totalSupply": 2470,
+            "websiteURL": "https://mdvmm.xyz/"
+        }
+    },
+    "smb-gen2": {
+        "data": {
+            "blockchainId": "solana",
+            "collectionId": "smb-gen2",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/Solana/smb-gen2.png",
+            "contractAddress": [
+                "9uBX3ASjxWvNBAD1xjbVaKA74mWGZys3RGSF7DdeDD3F|mdaoxg4DVGptU4WSpzGyVpK3zqsgn7Qzx5XNgWTcEA2"
+            ],
+            "name": "Solana Monkey Business",
+            "paymentToken": "SOL",
+            "totalSupply": 8426,
+            "websiteURL": ""
+        }
+    },
+    "sorare": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "sorare",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/resized/sorare-logo-v2_resized.png",
+            "contractAddress": [
+                "0x06bc6bf1432c4f28da6ad2bee7d6e62f91b1b669"
+            ],
+            "name": "Sorare",
+            "paymentToken": "ETH",
+            "totalSupply": 0,
+            "websiteURL": "https://sorare.com"
+        }
+    },
+    "supducks": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "supducks",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/ethereum/supducks.png",
+            "contractAddress": [
+                "0x3fe1a4c1481c8351e91b64d5c398b159de07cbc5"
+            ],
+            "name": "SupDucks",
+            "paymentToken": "ETH",
+            "totalSupply": 10000,
+            "websiteURL": ""
+        }
+    },
+    "supernormalbyzipcy": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "supernormalbyzipcy",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/ZipcysSuperNormal.png",
+            "contractAddress": [
+                "0xd532b88607b1877fe20c181cba2550e3bbd6b31c"
+            ],
+            "name": "SuperNormalbyZipcy",
+            "paymentToken": "ETH",
+            "totalSupply": 8888,
+            "websiteURL": ""
+        }
+    },
+    "superrare": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "superrare",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/ethereum/superrare.png",
+            "contractAddress": [
+                "0x23392b8615d68d8d3bc9cd1b7ea43e715db4512d|0xb932a70A57673d89f4acfFBE830E8ed7f75Fb9e0"
+            ],
+            "name": "SuperRare",
+            "paymentToken": "ETH",
+            "totalSupply": 42360,
+            "websiteURL": ""
+        }
+    },
+    "the-currency-eth": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "the-currency-eth",
+            "collectionImageURL": "https://cryptoslam-token-images.s3.amazonaws.com/thecurrency.jpg",
+            "contractAddress": [
+                "0xaadc2d4261199ce24a4b0a57370c4fcf43bb60aa"
+            ],
+            "name": "The Currency Eth",
+            "paymentToken": "ETH",
+            "totalSupply": 1992,
+            "websiteURL": ""
+        }
+    },
+    "the-doge-pound": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "the-doge-pound",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/resized/the-doge-pound_resized.png",
+            "contractAddress": [
+                "0xf4ee95274741437636e748ddac70818b4ed7d043"
+            ],
+            "name": "The Doge Pound",
+            "paymentToken": "ETH",
+            "totalSupply": 0,
+            "websiteURL": "https://thedogepoundnft.com"
+        }
+    },
+    "the-n-project": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "the-n-project",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/thenproject.png",
+            "contractAddress": [
+                "0x05a46f1e545526fb803ff974c790acea34d1f2d6"
+            ],
+            "name": "The n project",
+            "paymentToken": "ETH",
+            "totalSupply": 0,
+            "websiteURL": "https://www.spiritorbpets.com/"
+        }
+    },
+    "thedogepound": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "thedogepound",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/dogePound.PNG",
+            "contractAddress": [
+                "0xf4ee95274741437636e748ddac70818b4ed7d043"
+            ],
+            "name": "The Doge Pound",
+            "paymentToken": "ETH",
+            "totalSupply": 9998,
+            "websiteURL": "https://thedogepoundnft.com/"
+        }
+    },
+    "uncategorized-ordinals": {
+        "data": {
+            "blockchainId": "bitcoin",
+            "collectionId": "uncategorized-ordinals",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/cs/uncategorized-ordinals.png",
+            "contractAddress": [
+                "unknown-bitcoin-ordinals"
+            ],
+            "name": "Uncategorized Ordinals",
+            "paymentToken": "BTC",
+            "totalSupply": 25133199,
+            "websiteURL": ""
+        }
+    },
+    "v1-cryptopunks-wrapped": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "v1-cryptopunks-wrapped",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/v1wrappedcryptopunk.png",
+            "contractAddress": [
+                "0x282BDD42f4eb70e7A9D9F40c8fEA0825B7f68C5D"
+            ],
+            "name": "V1 Cryptopunks Wrapped",
+            "paymentToken": "ETH",
+            "totalSupply": 4860,
+            "websiteURL": "https://v1punks.io/"
+        }
+    },
+    "veefriends": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "veefriends",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/Screen Shot 2022-11-11 at 3.22.24 PM.png",
+            "contractAddress": [
+                "0xa3aee8bce55beea1951ef834b99f3ac60d1abeeb"
+            ],
+            "name": "VeeFriends",
+            "paymentToken": "ETH",
+            "totalSupply": 10255,
+            "websiteURL": ""
+        }
+    },
+    "veefriends-series-2": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "veefriends-series-2",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/VF2.png",
+            "contractAddress": [
+                "0x9378368ba6b85c1fba5b131b530f5f5bedf21a18"
+            ],
+            "name": "VeeFriends Series 2",
+            "paymentToken": "ETH",
+            "totalSupply": 54776,
+            "websiteURL": ""
+        }
+    },
+    "vox-collectibles": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "vox-collectibles",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/voxcollectibles.png",
+            "contractAddress": [
+                "0xad9fd7cb4fc7a0fbce08d64068f60cbde22ed34c"
+            ],
+            "name": "Vox Collectibles",
+            "paymentToken": "ETH",
+            "totalSupply": 0,
+            "websiteURL": "http://collectvox.com/"
+        }
+    },
+    "vox-series-1": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "vox-series-1",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/ethereum/vox-series-1.png",
+            "contractAddress": [
+                "0xad9fd7cb4fc7a0fbce08d64068f60cbde22ed34c"
+            ],
+            "name": "VOX Series 1",
+            "paymentToken": "ETH",
+            "totalSupply": -2,
+            "websiteURL": ""
+        }
+    },
+    "webbland": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "webbland",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/WWWL.png",
+            "contractAddress": [
+                "0xa1d4657e0e6507d5a94d06da93e94dc7c8c44b51"
+            ],
+            "name": "WebbLand",
+            "paymentToken": "ETH",
+            "totalSupply": 9344,
+            "websiteURL": ""
+        }
+    },
+    "webbland1": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "webbland1",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/ethereum/webbland1.png",
+            "contractAddress": [
+                "0xa1d4657e0e6507d5a94d06da93e94dc7c8c44b51"
+            ],
+            "name": "WebbLand",
+            "paymentToken": "ETH",
+            "totalSupply": 439,
+            "websiteURL": ""
+        }
+    },
+    "wolf-game": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "wolf-game",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/wolfgame.jpg",
+            "contractAddress": [
+                "0x7f36182dee28c45de6072a34d29855bae76dbe2f|0xeb834ae72b30866af20a6ce5440fa598bfad3a42"
+            ],
+            "name": "Wolf Game",
+            "paymentToken": "ETH",
+            "totalSupply": 26246,
+            "websiteURL": ""
+        }
+    },
+    "world-of-women": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "world-of-women",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/resized/world-of-women_resized.png",
+            "contractAddress": [
+                "0xe785e82358879f061bc3dcac6f0444462d4b5330"
+            ],
+            "name": "World Of Women",
+            "paymentToken": "ETH",
+            "totalSupply": 10000,
+            "websiteURL": ""
+        }
+    },
+    "world-of-women-galaxy": {
+        "data": {
+            "blockchainId": "ethereum",
+            "collectionId": "world-of-women-galaxy",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/resized/world-of-women_resized.png",
+            "contractAddress": [
+                "0xf61f24c2d93bf2de187546b14425bf631f28d6dc"
+            ],
+            "name": "World Of Women Galaxy",
+            "paymentToken": "ETH",
+            "totalSupply": 21347,
+            "websiteURL": ""
+        }
+    },
+    "y00ts": {
+        "data": {
+            "blockchainId": "solana",
+            "collectionId": "y00ts",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/Solana/y00ts.png",
+            "contractAddress": [
+                "A4FM6h8T5Fmh9z2g3fKUrKfZn6BNFEgByR8QGpdbQhk1|J7YMPcyhWyhDrnxpZvGxGBCTrmZCnhJNa98RqaNFAFMe"
+            ],
+            "name": "y00ts Solana",
+            "paymentToken": "SOL",
+            "totalSupply": 15307,
+            "websiteURL": ""
+        }
+    },
+    "yield-hunt": {
+        "data": {
+            "blockchainId": "avalanche",
+            "collectionId": "yield-hunt",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/JoC7H4pd_400x400.png",
+            "contractAddress": [
+                "0xeab33f781ada4ee7e91fd63ad87c5bb47ffb8a83"
+            ],
+            "name": "Yield Hunt Hunters",
+            "paymentToken": "AVAX",
+            "totalSupply": 49995,
+            "websiteURL": ""
+        }
+    },
+    "zed-run-legacy": {
+        "data": {
+            "blockchainId": "polygon",
+            "collectionId": "zed-run-legacy",
+            "collectionImageURL": "https://cdn04.cryptoslam.io/zed.png",
+            "contractAddress": [
+                "0x67f4732266c7300cca593c814d46bee72e40659f|0xa5f1ea7df861952863df2e8d1312f7305dabf215"
+            ],
+            "name": "ZED RUN Legacy",
+            "paymentToken": "MATIC",
+            "totalSupply": 371269,
+            "websiteURL": "https://zed.run/"
+        }
+    }
+}

@@ -1,0 +1,1919 @@
+{
+    "0n1force": {
+        "data": {
+            "buyerCount": 8,
+            "buyerCountChangePercentage": 14.285714285714285,
+            "collectionName": "0N1 Force",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 8.10595011711121,
+                    "salesVolumeChangePercentage": 12.3361243992658
+                },
+                "USD": {
+                    "salesVolume": 18706.74,
+                    "salesVolumeChangePercentage": 9.47770444178881
+                }
+            },
+            "sellerCount": 10,
+            "sellerCountChangePercentage": 25,
+            "transactionCount": 10
+        }
+    },
+    "3landers": {
+        "data": {
+            "buyerCount": 0,
+            "buyerCountChangePercentage": 0,
+            "collectionName": "",
+            "paymentToken": "",
+            "quote": {},
+            "sellerCount": 0,
+            "sellerCountChangePercentage": 0,
+            "transactionCount": 0
+        }
+    },
+    "888-inner-circle": {
+        "data": {
+            "buyerCount": 0,
+            "buyerCountChangePercentage": null,
+            "collectionName": "888 Inner Circle",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0,
+                    "salesVolumeChangePercentage": null
+                },
+                "USD": {
+                    "salesVolume": 0,
+                    "salesVolumeChangePercentage": null
+                }
+            },
+            "sellerCount": 0,
+            "sellerCountChangePercentage": null,
+            "transactionCount": 0
+        }
+    },
+    "adam-bomb-squad": {
+        "data": {
+            "buyerCount": 16,
+            "buyerCountChangePercentage": 433.3333333333333,
+            "collectionName": "Adam Bomb Squad",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.404379999032244,
+                    "salesVolumeChangePercentage": 36.7534666081455
+                },
+                "USD": {
+                    "salesVolume": 937.59,
+                    "salesVolumeChangePercentage": 35.768484462336
+                }
+            },
+            "sellerCount": 5,
+            "sellerCountChangePercentage": 25,
+            "transactionCount": 26
+        }
+    },
+    "alienfrens": {
+        "data": {
+            "buyerCount": 22,
+            "buyerCountChangePercentage": 100,
+            "collectionName": "ALIENFRENS",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 6.75036802887917,
+                    "salesVolumeChangePercentage": 307.803540987179
+                },
+                "USD": {
+                    "salesVolume": 15694.75,
+                    "salesVolumeChangePercentage": 299.906996891403
+                }
+            },
+            "sellerCount": 35,
+            "sellerCountChangePercentage": 288.88888888888886,
+            "transactionCount": 43
+        }
+    },
+    "art-blocks": {
+        "data": {
+            "buyerCount": 70,
+            "buyerCountChangePercentage": 9.375,
+            "collectionName": "Art Blocks",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 74.46084302,
+                    "salesVolumeChangePercentage": -83.68988589676012
+                },
+                "USD": {
+                    "salesVolume": 172510.79374423277,
+                    "salesVolumeChangePercentage": -83.97141892530853
+                }
+            },
+            "sellerCount": 71,
+            "sellerCountChangePercentage": -1.3888888888888888,
+            "transactionCount": 121
+        }
+    },
+    "aurorians": {
+        "data": {
+            "buyerCount": 15,
+            "buyerCountChangePercentage": -11.76470588235294,
+            "collectionName": "Aurorians",
+            "paymentToken": "SOL",
+            "quote": {
+                "SOL": {
+                    "salesVolume": 290.115257683,
+                    "salesVolumeChangePercentage": 7.89752051917532
+                },
+                "USD": {
+                    "salesVolume": 30953.92,
+                    "salesVolumeChangePercentage": 12.6271215425669
+                }
+            },
+            "sellerCount": 17,
+            "sellerCountChangePercentage": -5.555555555555555,
+            "transactionCount": 26
+        }
+    },
+    "axie-infinity": {
+        "data": {
+            "buyerCount": 3192,
+            "buyerCountChangePercentage": 22.43958573072497,
+            "collectionName": "Axie Infinity",
+            "paymentToken": "RON",
+            "quote": {
+                "RON": {
+                    "salesVolume": 50.6919789308,
+                    "salesVolumeChangePercentage": 58.22869991261026
+                },
+                "USD": {
+                    "salesVolume": 118002.39584743086,
+                    "salesVolumeChangePercentage": 55.344083284923585
+                }
+            },
+            "sellerCount": 3528,
+            "sellerCountChangePercentage": 36.11111111111111,
+            "transactionCount": 7901
+        }
+    },
+    "azuki": {
+        "data": {
+            "buyerCount": 40,
+            "buyerCountChangePercentage": 11.11111111111111,
+            "collectionName": "Azuki",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 74.9004497528076,
+                    "salesVolumeChangePercentage": -31.7151554419411
+                },
+                "USD": {
+                    "salesVolume": 174704.63,
+                    "salesVolumeChangePercentage": -32.8090436707335
+                }
+            },
+            "sellerCount": 43,
+            "sellerCountChangePercentage": -12.244897959183673,
+            "transactionCount": 13
+        }
+    },
+    "beanz": {
+        "data": {
+            "buyerCount": 23,
+            "buyerCountChangePercentage": 64.28571428571429,
+            "collectionName": "Beanz",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 14.1197420656681,
+                    "salesVolumeChangePercentage": 58.18845727312
+                },
+                "USD": {
+                    "salesVolume": 32778.63,
+                    "salesVolumeChangePercentage": 54.6995126620094
+                }
+            },
+            "sellerCount": 24,
+            "sellerCountChangePercentage": 14.285714285714285,
+            "transactionCount": 24
+        }
+    },
+    "book-games": {
+        "data": {
+            "buyerCount": 4,
+            "buyerCountChangePercentage": -20,
+            "collectionName": "Book Games",
+            "paymentToken": "IMX",
+            "quote": {
+                "IMX": {
+                    "salesVolume": 0.8682195225,
+                    "salesVolumeChangePercentage": 59.83928026894078
+                },
+                "USD": {
+                    "salesVolume": 1999.5510628223367,
+                    "salesVolumeChangePercentage": 56.65777212675392
+                }
+            },
+            "sellerCount": 6,
+            "sellerCountChangePercentage": 200,
+            "transactionCount": 10
+        }
+    },
+    "bored-ape-kennel-club": {
+        "data": {
+            "buyerCount": 20,
+            "buyerCountChangePercentage": -13.043478260869565,
+            "collectionName": "Bored Ape Kennel Club",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 35.6639490127564,
+                    "salesVolumeChangePercentage": 6.95594049568136
+                },
+                "USD": {
+                    "salesVolume": 83490.08,
+                    "salesVolumeChangePercentage": 5.36093436344402
+                }
+            },
+            "sellerCount": 24,
+            "sellerCountChangePercentage": 33.33333333333333,
+            "transactionCount": 23
+        }
+    },
+    "bored-ape-yacht-club": {
+        "data": {
+            "buyerCount": 9,
+            "buyerCountChangePercentage": -18.181818181818183,
+            "collectionName": "Bored Ape Yacht Club",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 184.860000610352,
+                    "salesVolumeChangePercentage": 40.5077456300148
+                },
+                "USD": {
+                    "salesVolume": 465758.88,
+                    "salesVolumeChangePercentage": 20.395314063316
+                }
+            },
+            "sellerCount": 10,
+            "sellerCountChangePercentage": -37.5,
+            "transactionCount": 9
+        }
+    },
+    "capsule": {
+        "detail": "An internal server error has occurred. If this problem continues, contact support with the traceId in this response.",
+        "status": 500,
+        "title": "An internal server error has occurred.",
+        "traceId": "00-f9e131720b6f57ae3a0ee94b2e4e1a15-8eedf7703656c281-00",
+        "type": "https://tools.ietf.org/html/rfc7231#section-6.6.1"
+    },
+    "captainz": {
+        "data": {
+            "buyerCount": 14,
+            "buyerCountChangePercentage": 16.666666666666664,
+            "collectionName": "Captainz",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 91.9360070228577,
+                    "salesVolumeChangePercentage": 40.3328705745088
+                },
+                "USD": {
+                    "salesVolume": 212825.12,
+                    "salesVolumeChangePercentage": 37.1630387952216
+                }
+            },
+            "sellerCount": 14,
+            "sellerCountChangePercentage": -6.666666666666667,
+            "transactionCount": 26
+        }
+    },
+    "chubbies": {
+        "detail": "An internal server error has occurred. If this problem continues, contact support with the traceId in this response.",
+        "status": 500,
+        "title": "An internal server error has occurred.",
+        "traceId": "00-213c82d1257631b409d131cef9cfa1c1-60775a274bc065fc-00",
+        "type": "https://tools.ietf.org/html/rfc7231#section-6.6.1"
+    },
+    "clonex": {
+        "data": {
+            "buyerCount": 46,
+            "buyerCountChangePercentage": 48.38709677419355,
+            "collectionName": "CloneX",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 70.4560998901725,
+                    "salesVolumeChangePercentage": 18.5011860437269
+                },
+                "USD": {
+                    "salesVolume": 164219.81,
+                    "salesVolumeChangePercentage": 16.9088958859654
+                }
+            },
+            "sellerCount": 50,
+            "sellerCountChangePercentage": 16.27906976744186,
+            "transactionCount": 52
+        }
+    },
+    "cool-cats": {
+        "data": {
+            "buyerCount": 9,
+            "buyerCountChangePercentage": -43.75,
+            "collectionName": "Cool Cats",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 8.27840000391006,
+                    "salesVolumeChangePercentage": -50.7689379869028
+                },
+                "USD": {
+                    "salesVolume": 19255.1,
+                    "salesVolumeChangePercentage": -51.5882637788564
+                }
+            },
+            "sellerCount": 8,
+            "sellerCountChangePercentage": -46.666666666666664,
+            "transactionCount": 9
+        }
+    },
+    "cool-pets": {
+        "data": {
+            "buyerCount": 30,
+            "buyerCountChangePercentage": 500,
+            "collectionName": "Cool Pets",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.850199967855588,
+                    "salesVolumeChangePercentage": 426.113837730182
+                },
+                "USD": {
+                    "salesVolume": 1969.21,
+                    "salesVolumeChangePercentage": 413.34984358707
+                }
+            },
+            "sellerCount": 10,
+            "sellerCountChangePercentage": 100,
+            "transactionCount": 47
+        }
+    },
+    "coolmansuniverse": {
+        "data": {
+            "buyerCount": 5,
+            "buyerCountChangePercentage": -16.666666666666664,
+            "collectionName": "CoolmansUniverse",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.207798004150391,
+                    "salesVolumeChangePercentage": -69.9560652777762
+                },
+                "USD": {
+                    "salesVolume": 483.8,
+                    "salesVolumeChangePercentage": -70.2732428463462
+                }
+            },
+            "sellerCount": 4,
+            "sellerCountChangePercentage": -66.66666666666666,
+            "transactionCount": 4
+        }
+    },
+    "crabada": {
+        "data": {
+            "buyerCount": 0,
+            "buyerCountChangePercentage": 0,
+            "collectionName": "",
+            "paymentToken": "",
+            "quote": {},
+            "sellerCount": 0,
+            "sellerCountChangePercentage": 0,
+            "transactionCount": 0
+        }
+    },
+    "creature-world-nft": {
+        "data": {
+            "buyerCount": 3,
+            "buyerCountChangePercentage": 0,
+            "collectionName": "Creature World NFT",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.2493,
+                    "salesVolumeChangePercentage": 33.60128617363344
+                },
+                "USD": {
+                    "salesVolume": 574.2531624271262,
+                    "salesVolumeChangePercentage": 30.3660647399045
+                }
+            },
+            "sellerCount": 5,
+            "sellerCountChangePercentage": 66.66666666666666,
+            "transactionCount": 5
+        }
+    },
+    "creatureworld": {
+        "data": {
+            "buyerCount": 4,
+            "buyerCountChangePercentage": -20,
+            "collectionName": "Creature World",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.349299999885261,
+                    "salesVolumeChangePercentage": 39.7765238628475
+                },
+                "USD": {
+                    "salesVolume": 804.97,
+                    "salesVolumeChangePercentage": 36.3131424313752
+                }
+            },
+            "sellerCount": 6,
+            "sellerCountChangePercentage": 20,
+            "transactionCount": 6
+        }
+    },
+    "cryptoadz": {
+        "data": {
+            "buyerCount": 7,
+            "buyerCountChangePercentage": 16.666666666666664,
+            "collectionName": "Cryptoadz",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 6.5789989233017,
+                    "salesVolumeChangePercentage": 23.1759330583162
+                },
+                "USD": {
+                    "salesVolume": 15383.47,
+                    "salesVolumeChangePercentage": 21.817233012784
+                }
+            },
+            "sellerCount": 9,
+            "sellerCountChangePercentage": 0,
+            "transactionCount": 9
+        }
+    },
+    "cryptophunksv2": {
+        "data": {
+            "buyerCount": 5,
+            "buyerCountChangePercentage": -16.666666666666664,
+            "collectionName": "CryptoPhunksV2",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 1.22219999879599,
+                    "salesVolumeChangePercentage": 111.106675973635
+                },
+                "USD": {
+                    "salesVolume": 2806.76,
+                    "salesVolumeChangePercentage": 103.597905090746
+                }
+            },
+            "sellerCount": 4,
+            "sellerCountChangePercentage": -33.33333333333333,
+            "transactionCount": 5
+        }
+    },
+    "cryptopunks": {
+        "data": {
+            "buyerCount": 1,
+            "buyerCountChangePercentage": -66.66666666666666,
+            "collectionName": "CRYPTOPUNKS",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 65.6900024414062,
+                    "salesVolumeChangePercentage": -63.2266903709555
+                },
+                "USD": {
+                    "salesVolume": 150665.38,
+                    "salesVolumeChangePercentage": -64.0898130660982
+                }
+            },
+            "sellerCount": 1,
+            "sellerCountChangePercentage": -66.66666666666666,
+            "transactionCount": 1
+        }
+    },
+    "cryptoskulls": {
+        "data": {
+            "buyerCount": 1,
+            "buyerCountChangePercentage": -66.66666666666666,
+            "collectionName": "CryptoSkulls",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.114000000059605,
+                    "salesVolumeChangePercentage": -84.0871024440878
+                },
+                "USD": {
+                    "salesVolume": 262.97,
+                    "salesVolumeChangePercentage": -84.484355732298
+                }
+            },
+            "sellerCount": 1,
+            "sellerCountChangePercentage": -66.66666666666666,
+            "transactionCount": 1
+        }
+    },
+    "curio-cards": {
+        "data": {
+            "buyerCount": 1,
+            "buyerCountChangePercentage": -75,
+            "collectionName": "Curio Cards",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.276,
+                    "salesVolumeChangePercentage": -93.34971808587538
+                },
+                "USD": {
+                    "salesVolume": 651.5528000052932,
+                    "salesVolumeChangePercentage": -93.399532820941
+                }
+            },
+            "sellerCount": 2,
+            "sellerCountChangePercentage": -83.33333333333334,
+            "transactionCount": 2
+        }
+    },
+    "cyberbrokers": {
+        "data": {
+            "buyerCount": 8,
+            "buyerCountChangePercentage": 700,
+            "collectionName": "CyberBrokers",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 2.542799025774,
+                    "salesVolumeChangePercentage": 1114.90638717318
+                },
+                "USD": {
+                    "salesVolume": 5968.1,
+                    "salesVolumeChangePercentage": 1091.28508124077
+                }
+            },
+            "sellerCount": 9,
+            "sellerCountChangePercentage": 800,
+            "transactionCount": 12
+        }
+    },
+    "cyberkongz": {
+        "data": {
+            "buyerCount": 5,
+            "buyerCountChangePercentage": 25,
+            "collectionName": "CyberKongz",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 14.7596498727798,
+                    "salesVolumeChangePercentage": 24.2917927693947
+                },
+                "USD": {
+                    "salesVolume": 34792.26,
+                    "salesVolumeChangePercentage": 21.0900950629495
+                }
+            },
+            "sellerCount": 7,
+            "sellerCountChangePercentage": 75,
+            "transactionCount": 7
+        }
+    },
+    "cyberkongz-vx-1": {
+        "data": {
+            "buyerCount": 7,
+            "buyerCountChangePercentage": -12.5,
+            "collectionName": "CyberKongz VX",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 1.36131949722767,
+                    "salesVolumeChangePercentage": 5.8157408223238
+                },
+                "USD": {
+                    "salesVolume": 3174.12,
+                    "salesVolumeChangePercentage": 3.55580350588718
+                }
+            },
+            "sellerCount": 7,
+            "sellerCountChangePercentage": -12.5,
+            "transactionCount": 7
+        }
+    },
+    "deadfellaz": {
+        "data": {
+            "buyerCount": 12,
+            "buyerCountChangePercentage": 300,
+            "collectionName": "DeadFellaz",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 2.25579892098904,
+                    "salesVolumeChangePercentage": 120.890386503342
+                },
+                "USD": {
+                    "salesVolume": 5208.06,
+                    "salesVolumeChangePercentage": 116.335465647587
+                }
+            },
+            "sellerCount": 12,
+            "sellerCountChangePercentage": 500,
+            "transactionCount": 13
+        }
+    },
+    "degenerate-ape-academy": {
+        "data": {
+            "buyerCount": 15,
+            "buyerCountChangePercentage": 87.5,
+            "collectionName": "Degenerate Ape Academy",
+            "paymentToken": "SOL",
+            "quote": {
+                "SOL": {
+                    "salesVolume": 368.473756788,
+                    "salesVolumeChangePercentage": 44.6900009374813
+                },
+                "USD": {
+                    "salesVolume": 39283.3,
+                    "salesVolumeChangePercentage": 51.0777034887634
+                }
+            },
+            "sellerCount": 14,
+            "sellerCountChangePercentage": 55.55555555555556,
+            "transactionCount": 19
+        }
+    },
+    "degods": {
+        "data": {
+            "buyerCount": 0,
+            "buyerCountChangePercentage": 0,
+            "collectionName": "",
+            "paymentToken": "",
+            "quote": {},
+            "sellerCount": 0,
+            "sellerCountChangePercentage": 0,
+            "transactionCount": 0
+        }
+    },
+    "degods-ethereum": {
+        "data": {
+            "buyerCount": 35,
+            "buyerCountChangePercentage": -22.22222222222222,
+            "collectionName": "DeGods Ethereum",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 43.3636403083801,
+                    "salesVolumeChangePercentage": -24.2495749124322
+                },
+                "USD": {
+                    "salesVolume": 101068.55,
+                    "salesVolumeChangePercentage": -25.3915578380589
+                }
+            },
+            "sellerCount": 41,
+            "sellerCountChangePercentage": -16.3265306122449,
+            "transactionCount": 13
+        }
+    },
+    "dmarket": {
+        "data": {
+            "buyerCount": 4393,
+            "buyerCountChangePercentage": -1.3695554557700944,
+            "collectionName": "DMarket",
+            "paymentToken": "MYTH",
+            "quote": {
+                "MYTH": {
+                    "salesVolume": 0,
+                    "salesVolumeChangePercentage": null
+                },
+                "USD": {
+                    "salesVolume": 764929.44,
+                    "salesVolumeChangePercentage": 7.50756185185406
+                }
+            },
+            "sellerCount": 3926,
+            "sellerCountChangePercentage": -1.99700449326011,
+            "transactionCount": 36508
+        }
+    },
+    "doodles": {
+        "data": {
+            "buyerCount": 11,
+            "buyerCountChangePercentage": 57.14285714285714,
+            "collectionName": "Doodles",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 18.761561870575,
+                    "salesVolumeChangePercentage": 93.8463267239727
+                },
+                "USD": {
+                    "salesVolume": 43547.26,
+                    "salesVolumeChangePercentage": 90.4689548872904
+                }
+            },
+            "sellerCount": 13,
+            "sellerCountChangePercentage": 85.71428571428571,
+            "transactionCount": 11
+        }
+    },
+    "draft-kings": {
+        "data": {
+            "buyerCount": 2078,
+            "buyerCountChangePercentage": -21.40695915279879,
+            "collectionName": "Draft Kings",
+            "paymentToken": "MATIC",
+            "quote": {
+                "MATIC": {
+                    "salesVolume": 0,
+                    "salesVolumeChangePercentage": null
+                },
+                "USD": {
+                    "salesVolume": 106013.08,
+                    "salesVolumeChangePercentage": -23.6943281146453
+                }
+            },
+            "sellerCount": 1,
+            "sellerCountChangePercentage": 0,
+            "transactionCount": 12714
+        }
+    },
+    "emblem-vault-v4": {
+        "data": {
+            "buyerCount": 0,
+            "buyerCountChangePercentage": 0,
+            "collectionName": "",
+            "paymentToken": "",
+            "quote": {},
+            "sellerCount": 0,
+            "sellerCountChangePercentage": 0,
+            "transactionCount": 0
+        }
+    },
+    "farmers-world": {
+        "data": {
+            "buyerCount": 137,
+            "buyerCountChangePercentage": -2.142857142857143,
+            "collectionName": "Farmers World",
+            "paymentToken": "WAX",
+            "quote": {
+                "USD": {
+                    "salesVolume": 13.677119907340613,
+                    "salesVolumeChangePercentage": 78.50560732917472
+                },
+                "WAX": {
+                    "salesVolume": 189.45908587,
+                    "salesVolumeChangePercentage": 82.75881092726273
+                }
+            },
+            "sellerCount": 39,
+            "sellerCountChangePercentage": 0,
+            "transactionCount": 387
+        }
+    },
+    "fluf-world": {
+        "data": {
+            "buyerCount": 5,
+            "buyerCountChangePercentage": 0,
+            "collectionName": "FLUF World",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 3.93589901924133,
+                    "salesVolumeChangePercentage": 3.68270061592462
+                },
+                "USD": {
+                    "salesVolume": 9156.31,
+                    "salesVolumeChangePercentage": 1.12720545600132
+                }
+            },
+            "sellerCount": 4,
+            "sellerCountChangePercentage": -33.33333333333333,
+            "transactionCount": 5
+        }
+    },
+    "goblintown": {
+        "data": {
+            "buyerCount": 0,
+            "buyerCountChangePercentage": 0,
+            "collectionName": "",
+            "paymentToken": "",
+            "quote": {},
+            "sellerCount": 0,
+            "sellerCountChangePercentage": 0,
+            "transactionCount": 0
+        }
+    },
+    "gods-unchained-cards": {
+        "data": {
+            "buyerCount": 1281,
+            "buyerCountChangePercentage": 5.172413793103448,
+            "collectionName": "Gods Unchained Cards",
+            "paymentToken": "IMX",
+            "quote": {
+                "IMX": {
+                    "salesVolume": 295369.5142491904,
+                    "salesVolumeChangePercentage": 2.9595599719660606
+                },
+                "USD": {
+                    "salesVolume": 669692.8794129886,
+                    "salesVolumeChangePercentage": 2.0013397990537993
+                }
+            },
+            "sellerCount": 1806,
+            "sellerCountChangePercentage": -4.847207586933614,
+            "transactionCount": 11079
+        }
+    },
+    "hape-prime": {
+        "data": {
+            "buyerCount": 5,
+            "buyerCountChangePercentage": -28.57142857142857,
+            "collectionName": "HAPE PRIME",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 1.09376402199268,
+                    "salesVolumeChangePercentage": 7.77167866790386
+                },
+                "USD": {
+                    "salesVolume": 2542.59,
+                    "salesVolumeChangePercentage": 5.758816042327
+                }
+            },
+            "sellerCount": 5,
+            "sellerCountChangePercentage": -28.57142857142857,
+            "transactionCount": 7
+        }
+    },
+    "hashmasks": {
+        "data": {
+            "buyerCount": 3,
+            "buyerCountChangePercentage": -57.14285714285714,
+            "collectionName": "Hashmasks",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.431696385145187,
+                    "salesVolumeChangePercentage": -72.5505861994607
+                },
+                "USD": {
+                    "salesVolume": 995.52,
+                    "salesVolumeChangePercentage": -73.2351122462696
+                }
+            },
+            "sellerCount": 3,
+            "sellerCountChangePercentage": -50,
+            "transactionCount": 3
+        }
+    },
+    "hero": {
+        "detail": "An internal server error has occurred. If this problem continues, contact support with the traceId in this response.",
+        "status": 500,
+        "title": "An internal server error has occurred.",
+        "traceId": "00-f7b808ba25f798b0ddf2e78a980a238f-d787e43d08fe09f5-00",
+        "type": "https://tools.ietf.org/html/rfc7231#section-6.6.1"
+    },
+    "ice-poet": {
+        "data": {
+            "buyerCount": 0,
+            "buyerCountChangePercentage": 0,
+            "collectionName": "",
+            "paymentToken": "",
+            "quote": {},
+            "sellerCount": 0,
+            "sellerCountChangePercentage": 0,
+            "transactionCount": 0
+        }
+    },
+    "impostors-genesis": {
+        "data": {
+            "buyerCount": 4,
+            "buyerCountChangePercentage": -66.66666666666666,
+            "collectionName": "Impostors Genesis",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 2.13609898090363,
+                    "salesVolumeChangePercentage": -77.6297238472846
+                },
+                "USD": {
+                    "salesVolume": 4951,
+                    "salesVolumeChangePercentage": -78.0213340885956
+                }
+            },
+            "sellerCount": 3,
+            "sellerCountChangePercentage": -72.72727272727273,
+            "transactionCount": 4
+        }
+    },
+    "invisible-friends": {
+        "data": {
+            "buyerCount": 7,
+            "buyerCountChangePercentage": -41.66666666666667,
+            "collectionName": "Invisible Friends",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 2.24800002574921,
+                    "salesVolumeChangePercentage": -74.4240256837557
+                },
+                "USD": {
+                    "salesVolume": 5273.43,
+                    "salesVolumeChangePercentage": -74.7301914368546
+                }
+            },
+            "sellerCount": 7,
+            "sellerCountChangePercentage": -36.36363636363637,
+            "transactionCount": 6
+        }
+    },
+    "kaiju-kingz": {
+        "data": {
+            "buyerCount": 2,
+            "buyerCountChangePercentage": -50,
+            "collectionName": "Kaiju Kingz",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.189,
+                    "salesVolumeChangePercentage": -79.16207299711056
+                },
+                "USD": {
+                    "salesVolume": 440.19209658545293,
+                    "salesVolumeChangePercentage": -79.4700276533802
+                }
+            },
+            "sellerCount": 2,
+            "sellerCountChangePercentage": -66.66666666666666,
+            "transactionCount": 2
+        }
+    },
+    "kaijukingz": {
+        "data": {
+            "buyerCount": 7,
+            "buyerCountChangePercentage": -30,
+            "collectionName": "KaijuKingz",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 1.15220001339912,
+                    "salesVolumeChangePercentage": -30.9646486780277
+                },
+                "USD": {
+                    "salesVolume": 2664.68,
+                    "salesVolumeChangePercentage": -32.4717056679895
+                }
+            },
+            "sellerCount": 7,
+            "sellerCountChangePercentage": -41.66666666666667,
+            "transactionCount": 7
+        }
+    },
+    "karafuru": {
+        "data": {
+            "buyerCount": 1,
+            "buyerCountChangePercentage": -66.66666666666666,
+            "collectionName": "Karafuru",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.0763899981975556,
+                    "salesVolumeChangePercentage": -64.311409535954
+                },
+                "USD": {
+                    "salesVolume": 176.24,
+                    "salesVolumeChangePercentage": -65.1651414227265
+                }
+            },
+            "sellerCount": 1,
+            "sellerCountChangePercentage": -66.66666666666666,
+            "transactionCount": 1
+        }
+    },
+    "loot": {
+        "data": {
+            "buyerCount": 4,
+            "buyerCountChangePercentage": -20,
+            "collectionName": "Loot",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 1.3815969824791,
+                    "salesVolumeChangePercentage": -41.3633409988956
+                },
+                "USD": {
+                    "salesVolume": 3258.42,
+                    "salesVolumeChangePercentage": -41.7745223999814
+                }
+            },
+            "sellerCount": 4,
+            "sellerCountChangePercentage": 33.33333333333333,
+            "transactionCount": 4
+        }
+    },
+    "mad-lads-1": {
+        "data": {
+            "buyerCount": 21,
+            "buyerCountChangePercentage": 5,
+            "collectionName": "Mad Lads",
+            "paymentToken": "SOL",
+            "quote": {
+                "SOL": {
+                    "salesVolume": 3379.949834174,
+                    "salesVolumeChangePercentage": -7.51498109030098
+                },
+                "USD": {
+                    "salesVolume": 357458.14,
+                    "salesVolumeChangePercentage": -4.58201440892219
+                }
+            },
+            "sellerCount": 18,
+            "sellerCountChangePercentage": -10,
+            "transactionCount": 21
+        }
+    },
+    "meebits": {
+        "data": {
+            "buyerCount": 5,
+            "buyerCountChangePercentage": -73.68421052631578,
+            "collectionName": "Meebits",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 6.36619997024536,
+                    "salesVolumeChangePercentage": -74.3128929123144
+                },
+                "USD": {
+                    "salesVolume": 14739.06,
+                    "salesVolumeChangePercentage": -74.8881095111814
+                }
+            },
+            "sellerCount": 6,
+            "sellerCountChangePercentage": -53.84615384615385,
+            "transactionCount": 6
+        }
+    },
+    "mekaverse4": {
+        "data": {
+            "buyerCount": 1,
+            "buyerCountChangePercentage": -50,
+            "collectionName": "MekaVerse",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.108999997377396,
+                    "salesVolumeChangePercentage": -49.7232494263259
+                },
+                "USD": {
+                    "salesVolume": 250.21,
+                    "salesVolumeChangePercentage": -51.6754543523186
+                }
+            },
+            "sellerCount": 1,
+            "sellerCountChangePercentage": -50,
+            "transactionCount": 1
+        }
+    },
+    "mfer": {
+        "data": {
+            "buyerCount": 10,
+            "buyerCountChangePercentage": 25,
+            "collectionName": "mfer",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 8.452358096838,
+                    "salesVolumeChangePercentage": 25.8671700026661
+                },
+                "USD": {
+                    "salesVolume": 19620.01,
+                    "salesVolumeChangePercentage": 23.946643587249
+                }
+            },
+            "sellerCount": 14,
+            "sellerCountChangePercentage": 40,
+            "transactionCount": 15
+        }
+    },
+    "milady": {
+        "data": {
+            "buyerCount": 31,
+            "buyerCountChangePercentage": 158.33333333333331,
+            "collectionName": "Milady",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 71.9316991567612,
+                    "salesVolumeChangePercentage": 167.815418925907
+                },
+                "USD": {
+                    "salesVolume": 167816.64,
+                    "salesVolumeChangePercentage": 163.579666358193
+                }
+            },
+            "sellerCount": 27,
+            "sellerCountChangePercentage": 68.75,
+            "transactionCount": 25
+        }
+    },
+    "moonbirds": {
+        "data": {
+            "buyerCount": 22,
+            "buyerCountChangePercentage": -33.33333333333333,
+            "collectionName": "Moonbirds",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 32.7620500326157,
+                    "salesVolumeChangePercentage": -66.6183537408825
+                },
+                "USD": {
+                    "salesVolume": 76189.92,
+                    "salesVolumeChangePercentage": -67.2479013207763
+                }
+            },
+            "sellerCount": 27,
+            "sellerCountChangePercentage": -22.857142857142858,
+            "transactionCount": 25
+        }
+    },
+    "mooncats": {
+        "data": {
+            "buyerCount": 5,
+            "buyerCountChangePercentage": 150,
+            "collectionName": "Mooncats",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 1.7916,
+                    "salesVolumeChangePercentage": 371.4736842105263
+                },
+                "USD": {
+                    "salesVolume": 4183.684824160783,
+                    "salesVolumeChangePercentage": 369.1378908310848
+                }
+            },
+            "sellerCount": 5,
+            "sellerCountChangePercentage": 150,
+            "transactionCount": 5
+        }
+    },
+    "mutant-ape-yacht-club": {
+        "data": {
+            "buyerCount": 46,
+            "buyerCountChangePercentage": 6.976744186046512,
+            "collectionName": "Mutant Ape Yacht Club",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 148.307233333588,
+                    "salesVolumeChangePercentage": -25.6737048880214
+                },
+                "USD": {
+                    "salesVolume": 353162.12,
+                    "salesVolumeChangePercentage": -27.9661781656835
+                }
+            },
+            "sellerCount": 50,
+            "sellerCountChangePercentage": -5.660377358490567,
+            "transactionCount": 30
+        }
+    },
+    "nba-top-shot": {
+        "data": {
+            "buyerCount": 902,
+            "buyerCountChangePercentage": -9.25553319919517,
+            "collectionName": "TopShot",
+            "paymentToken": "Flow",
+            "quote": {
+                "FLOW": {
+                    "salesVolume": 16,
+                    "salesVolumeChangePercentage": -30.1004805591962
+                },
+                "USD": {
+                    "salesVolume": 60884.57,
+                    "salesVolumeChangePercentage": 30.9907302185066
+                }
+            },
+            "sellerCount": 1124,
+            "sellerCountChangePercentage": -6.876553438276719,
+            "transactionCount": 3294
+        }
+    },
+    "neo-tokyo-outer-identities": {
+        "data": {
+            "buyerCount": 0,
+            "buyerCountChangePercentage": 0,
+            "collectionName": "",
+            "paymentToken": "",
+            "quote": {},
+            "sellerCount": 0,
+            "sellerCountChangePercentage": 0,
+            "transactionCount": 0
+        }
+    },
+    "nfl-all-day": {
+        "data": {
+            "buyerCount": 700,
+            "buyerCountChangePercentage": -32.95019157088122,
+            "collectionName": "AllDay",
+            "paymentToken": "Flow",
+            "quote": {
+                "FLOW": {
+                    "salesVolume": 0,
+                    "salesVolumeChangePercentage": null
+                },
+                "USD": {
+                    "salesVolume": 78812.6,
+                    "salesVolumeChangePercentage": 29.570791389852
+                }
+            },
+            "sellerCount": 749,
+            "sellerCountChangePercentage": -17.601760176017603,
+            "transactionCount": 2592
+        }
+    },
+    "nft-worlds": {
+        "data": {
+            "buyerCount": 0,
+            "buyerCountChangePercentage": 0,
+            "collectionName": "",
+            "paymentToken": "",
+            "quote": {},
+            "sellerCount": 0,
+            "sellerCountChangePercentage": 0,
+            "transactionCount": 0
+        }
+    },
+    "okay-bears": {
+        "data": {
+            "buyerCount": 26,
+            "buyerCountChangePercentage": -3.7037037037037033,
+            "collectionName": "Okay Bears",
+            "paymentToken": "SOL",
+            "quote": {
+                "SOL": {
+                    "salesVolume": 582.860362521,
+                    "salesVolumeChangePercentage": 8.46893528128415
+                },
+                "USD": {
+                    "salesVolume": 61999.05,
+                    "salesVolumeChangePercentage": 12.54112124985
+                }
+            },
+            "sellerCount": 27,
+            "sellerCountChangePercentage": 0,
+            "transactionCount": 32
+        }
+    },
+    "otherdeed": {
+        "data": {
+            "buyerCount": 9,
+            "buyerCountChangePercentage": -57.14285714285714,
+            "collectionName": "Otherdeed",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 9.27829977869988,
+                    "salesVolumeChangePercentage": -79.9347214125796
+                },
+                "USD": {
+                    "salesVolume": 21839.13,
+                    "salesVolumeChangePercentage": -79.9773874822331
+                }
+            },
+            "sellerCount": 9,
+            "sellerCountChangePercentage": -59.09090909090909,
+            "transactionCount": 22
+        }
+    },
+    "panini-america": {
+        "detail": "An internal server error has occurred. If this problem continues, contact support with the traceId in this response.",
+        "status": 500,
+        "title": "An internal server error has occurred.",
+        "traceId": "00-85e17d25ad7a248b295c65af2ebeedb2-bdf7e6bd79c2b824-00",
+        "type": "https://tools.ietf.org/html/rfc7231#section-6.6.1"
+    },
+    "pixelmon": {
+        "data": {
+            "buyerCount": 11,
+            "buyerCountChangePercentage": -8.333333333333332,
+            "collectionName": "Pixelmon",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 19.4899998903275,
+                    "salesVolumeChangePercentage": -46.5366070046711
+                },
+                "USD": {
+                    "salesVolume": 45386.11,
+                    "salesVolumeChangePercentage": -47.3256327849035
+                }
+            },
+            "sellerCount": 9,
+            "sellerCountChangePercentage": -43.75,
+            "transactionCount": 10
+        }
+    },
+    "prime-ape-planet": {
+        "detail": "An internal server error has occurred. If this problem continues, contact support with the traceId in this response.",
+        "status": 500,
+        "title": "An internal server error has occurred.",
+        "traceId": "00-11c7089e1860b9b3c4d6fffd42c1b670-ad78b742cbd77d88-00",
+        "type": "https://tools.ietf.org/html/rfc7231#section-6.6.1"
+    },
+    "projectpxn": {
+        "data": {
+            "buyerCount": 5,
+            "buyerCountChangePercentage": -37.5,
+            "collectionName": "projectPXN",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.43019500374794,
+                    "salesVolumeChangePercentage": 31.5991569419165
+                },
+                "USD": {
+                    "salesVolume": 1001.83,
+                    "salesVolumeChangePercentage": 29.1151149603052
+                }
+            },
+            "sellerCount": 6,
+            "sellerCountChangePercentage": -14.285714285714285,
+            "transactionCount": 8
+        }
+    },
+    "psychedelics-anonymous-genesis": {
+        "data": {
+            "buyerCount": 21,
+            "buyerCountChangePercentage": 110.00000000000001,
+            "collectionName": "Psychedelics Anonymous Genesis",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 2.63842187728733,
+                    "salesVolumeChangePercentage": 265.255275429503
+                },
+                "USD": {
+                    "salesVolume": 6083.9,
+                    "salesVolumeChangePercentage": 253.396648369202
+                }
+            },
+            "sellerCount": 11,
+            "sellerCountChangePercentage": 10,
+            "transactionCount": 26
+        }
+    },
+    "pudgy-penguins": {
+        "data": {
+            "buyerCount": 44,
+            "buyerCountChangePercentage": 25.71428571428571,
+            "collectionName": "PudgyPenguins",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 291.241030693054,
+                    "salesVolumeChangePercentage": 160.80063896031
+                },
+                "USD": {
+                    "salesVolume": 674130.01,
+                    "salesVolumeChangePercentage": 154.162890461613
+                }
+            },
+            "sellerCount": 42,
+            "sellerCountChangePercentage": -10.638297872340425,
+            "transactionCount": 27
+        }
+    },
+    "rats-brc-20-nfts": {
+        "data": {
+            "buyerCount": 121,
+            "buyerCountChangePercentage": -6.2015503875969,
+            "collectionName": "$RATS BRC-20 NFTs",
+            "paymentToken": "BTC",
+            "quote": {
+                "BTC": {
+                    "salesVolume": 12.29458685,
+                    "salesVolumeChangePercentage": -3.90422829687288
+                },
+                "USD": {
+                    "salesVolume": 522135.08,
+                    "salesVolumeChangePercentage": -4.9068190415663
+                }
+            },
+            "sellerCount": 100,
+            "sellerCountChangePercentage": -5.660377358490567,
+            "transactionCount": 147
+        }
+    },
+    "rtfkt-clonex-mintvial": {
+        "data": {
+            "buyerCount": 0,
+            "buyerCountChangePercentage": null,
+            "collectionName": "RTFKT CloneX Mintvial",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0,
+                    "salesVolumeChangePercentage": null
+                },
+                "USD": {
+                    "salesVolume": 0,
+                    "salesVolumeChangePercentage": null
+                }
+            },
+            "sellerCount": 0,
+            "sellerCountChangePercentage": null,
+            "transactionCount": 0
+        }
+    },
+    "sats-brc-20-nfts": {
+        "data": {
+            "buyerCount": 125,
+            "buyerCountChangePercentage": -40.758293838862556,
+            "collectionName": "$SATS BRC-20 NFTs",
+            "paymentToken": "BTC",
+            "quote": {
+                "BTC": {
+                    "salesVolume": 27.78589784,
+                    "salesVolumeChangePercentage": 146.704963374331
+                },
+                "USD": {
+                    "salesVolume": 1174753.69,
+                    "salesVolumeChangePercentage": 144.070607083084
+                }
+            },
+            "sellerCount": 159,
+            "sellerCountChangePercentage": -14.054054054054054,
+            "transactionCount": 240
+        }
+    },
+    "sewerpass": {
+        "data": {
+            "buyerCount": 0,
+            "buyerCountChangePercentage": 0,
+            "collectionName": "",
+            "paymentToken": "",
+            "quote": {},
+            "sellerCount": 0,
+            "sellerCountChangePercentage": 0,
+            "transactionCount": 0
+        }
+    },
+    "smb-gen2": {
+        "data": {
+            "buyerCount": 1,
+            "buyerCountChangePercentage": -83.33333333333334,
+            "collectionName": "SMB Gen2",
+            "paymentToken": "SOL",
+            "quote": {
+                "SOL": {
+                    "salesVolume": 112.62375,
+                    "salesVolumeChangePercentage": -87.3117059500704
+                },
+                "USD": {
+                    "salesVolume": 11837.74,
+                    "salesVolumeChangePercentage": -86.8037142596925
+                }
+            },
+            "sellerCount": 1,
+            "sellerCountChangePercentage": -85.71428571428571,
+            "transactionCount": 1
+        }
+    },
+    "sorare": {
+        "data": {
+            "buyerCount": 6200,
+            "buyerCountChangePercentage": 13.490755994874611,
+            "collectionName": "Sorare",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 169.274500337,
+                    "salesVolumeChangePercentage": 11.464680039919097
+                },
+                "USD": {
+                    "salesVolume": 396004.19941862795,
+                    "salesVolumeChangePercentage": 9.99303819137767
+                }
+            },
+            "sellerCount": 4783,
+            "sellerCountChangePercentage": 13.88095238095238,
+            "transactionCount": 16376
+        }
+    },
+    "supducks": {
+        "data": {
+            "buyerCount": 6,
+            "buyerCountChangePercentage": 20,
+            "collectionName": "SupDucks",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.902872055768967,
+                    "salesVolumeChangePercentage": 162.733174012853
+                },
+                "USD": {
+                    "salesVolume": 2119.09,
+                    "salesVolumeChangePercentage": 161.988007665204
+                }
+            },
+            "sellerCount": 6,
+            "sellerCountChangePercentage": 20,
+            "transactionCount": 6
+        }
+    },
+    "supernormalbyzipcy": {
+        "data": {
+            "buyerCount": 2,
+            "buyerCountChangePercentage": -50,
+            "collectionName": "SuperNormalbyZipcy",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.117500003427267,
+                    "salesVolumeChangePercentage": -19.520545056668
+                },
+                "USD": {
+                    "salesVolume": 274.73,
+                    "salesVolumeChangePercentage": -20.7013999134074
+                }
+            },
+            "sellerCount": 2,
+            "sellerCountChangePercentage": -50,
+            "transactionCount": 2
+        }
+    },
+    "superrare": {
+        "data": {
+            "buyerCount": 1,
+            "buyerCountChangePercentage": -66.66666666666666,
+            "collectionName": "SuperRare",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.0399999991059303,
+                    "salesVolumeChangePercentage": -98.1008631761728
+                },
+                "USD": {
+                    "salesVolume": 94.74,
+                    "salesVolumeChangePercentage": -98.0915046372771
+                }
+            },
+            "sellerCount": 1,
+            "sellerCountChangePercentage": -80,
+            "transactionCount": 1
+        }
+    },
+    "the-currency-eth": {
+        "data": {
+            "buyerCount": 2,
+            "buyerCountChangePercentage": 100,
+            "collectionName": "The Currency Eth",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 2.38950002193451,
+                    "salesVolumeChangePercentage": 121.229505627482
+                },
+                "USD": {
+                    "salesVolume": 5532.27,
+                    "salesVolumeChangePercentage": 116.4873780557
+                }
+            },
+            "sellerCount": 2,
+            "sellerCountChangePercentage": 100,
+            "transactionCount": 2
+        }
+    },
+    "the-doge-pound": {
+        "data": {
+            "buyerCount": 5,
+            "buyerCountChangePercentage": 25,
+            "collectionName": "The Doge Pound",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 1.32539596,
+                    "salesVolumeChangePercentage": 189.45159838142908
+                },
+                "USD": {
+                    "salesVolume": 3107.423702381246,
+                    "salesVolumeChangePercentage": 187.83284608171655
+                }
+            },
+            "sellerCount": 10,
+            "sellerCountChangePercentage": 233.33333333333334,
+            "transactionCount": 12
+        }
+    },
+    "the-n-project": {
+        "data": {
+            "buyerCount": 2,
+            "buyerCountChangePercentage": null,
+            "collectionName": "The n project",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.004,
+                    "salesVolumeChangePercentage": null
+                },
+                "USD": {
+                    "salesVolume": 9.2548461516477,
+                    "salesVolumeChangePercentage": null
+                }
+            },
+            "sellerCount": 2,
+            "sellerCountChangePercentage": null,
+            "transactionCount": 2
+        }
+    },
+    "thedogepound": {
+        "data": {
+            "buyerCount": 7,
+            "buyerCountChangePercentage": 40,
+            "collectionName": "The Doge Pound",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 1.53539500385523,
+                    "salesVolumeChangePercentage": 105.294435159902
+                },
+                "USD": {
+                    "salesVolume": 3589.05,
+                    "salesVolumeChangePercentage": 103.033868677555
+                }
+            },
+            "sellerCount": 12,
+            "sellerCountChangePercentage": 200,
+            "transactionCount": 14
+        }
+    },
+    "uncategorized-ordinals": {
+        "data": {
+            "buyerCount": 4656,
+            "buyerCountChangePercentage": 161.42616507580013,
+            "collectionName": "Uncategorized Ordinals",
+            "paymentToken": "BTC",
+            "quote": {
+                "BTC": {
+                    "salesVolume": 143.00053945,
+                    "salesVolumeChangePercentage": 132.408865359724
+                },
+                "USD": {
+                    "salesVolume": 6055238.02,
+                    "salesVolumeChangePercentage": 129.664154921017
+                }
+            },
+            "sellerCount": 3142,
+            "sellerCountChangePercentage": 105.22534291312869,
+            "transactionCount": 10974
+        }
+    },
+    "v1-cryptopunks-wrapped": {
+        "detail": "An internal server error has occurred. If this problem continues, contact support with the traceId in this response.",
+        "status": 500,
+        "title": "An internal server error has occurred.",
+        "traceId": "00-6c6c50d72bb7eb15cde5a51fc6d043ee-e8817431b0bc79b6-00",
+        "type": "https://tools.ietf.org/html/rfc7231#section-6.6.1"
+    },
+    "veefriends": {
+        "data": {
+            "buyerCount": 8,
+            "buyerCountChangePercentage": 700,
+            "collectionName": "VeeFriends",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 63.9261885881424,
+                    "salesVolumeChangePercentage": 2136.74554556435
+                },
+                "USD": {
+                    "salesVolume": 149909.6,
+                    "salesVolumeChangePercentage": 2117.68292863335
+                }
+            },
+            "sellerCount": 24,
+            "sellerCountChangePercentage": 1100,
+            "transactionCount": 35
+        }
+    },
+    "veefriends-series-2": {
+        "data": {
+            "buyerCount": 38,
+            "buyerCountChangePercentage": -22.448979591836736,
+            "collectionName": "VeeFriends Series 2",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 10.4563904739916,
+                    "salesVolumeChangePercentage": -19.8049613053344
+                },
+                "USD": {
+                    "salesVolume": 24408.86,
+                    "salesVolumeChangePercentage": -20.9361262982094
+                }
+            },
+            "sellerCount": 44,
+            "sellerCountChangePercentage": -31.25,
+            "transactionCount": 66
+        }
+    },
+    "vox-collectibles": {
+        "data": {
+            "buyerCount": 6,
+            "buyerCountChangePercentage": 500,
+            "collectionName": "Vox Collectibles",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.46164799,
+                    "salesVolumeChangePercentage": 693.2096048109966
+                },
+                "USD": {
+                    "salesVolume": 1073.5935586114358,
+                    "salesVolumeChangePercentage": 682.1676335584086
+                }
+            },
+            "sellerCount": 3,
+            "sellerCountChangePercentage": 200,
+            "transactionCount": 7
+        }
+    },
+    "vox-series-1": {
+        "data": {
+            "buyerCount": 8,
+            "buyerCountChangePercentage": 300,
+            "collectionName": "VOX Series 1",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.461649999022484,
+                    "salesVolumeChangePercentage": 111.573886200151
+                },
+                "USD": {
+                    "salesVolume": 3217.09,
+                    "salesVolumeChangePercentage": 526.234135326637
+                }
+            },
+            "sellerCount": 5,
+            "sellerCountChangePercentage": 400,
+            "transactionCount": 8
+        }
+    },
+    "webbland": {
+        "data": {
+            "buyerCount": 3,
+            "buyerCountChangePercentage": -40,
+            "collectionName": "WebbLand",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.435700014233589,
+                    "salesVolumeChangePercentage": -41.5632121396522
+                },
+                "USD": {
+                    "salesVolume": 1016.28,
+                    "salesVolumeChangePercentage": -42.7238143545524
+                }
+            },
+            "sellerCount": 3,
+            "sellerCountChangePercentage": -50,
+            "transactionCount": 3
+        }
+    },
+    "webbland1": {
+        "data": {
+            "buyerCount": 3,
+            "buyerCountChangePercentage": -40,
+            "collectionName": "WebbLand",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.577700018882752,
+                    "salesVolumeChangePercentage": -22.5179427415137
+                },
+                "USD": {
+                    "salesVolume": 1337.84,
+                    "salesVolumeChangePercentage": -24.5483923727236
+                }
+            },
+            "sellerCount": 4,
+            "sellerCountChangePercentage": -33.33333333333333,
+            "transactionCount": 4
+        }
+    },
+    "wolf-game": {
+        "data": {
+            "buyerCount": 3,
+            "buyerCountChangePercentage": -57.14285714285714,
+            "collectionName": "Wolf Game",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 0.133500002324581,
+                    "salesVolumeChangePercentage": -82.1105048493899
+                },
+                "USD": {
+                    "salesVolume": 307.04,
+                    "salesVolumeChangePercentage": -82.4762861415184
+                }
+            },
+            "sellerCount": 2,
+            "sellerCountChangePercentage": -71.42857142857143,
+            "transactionCount": 3
+        }
+    },
+    "world-of-women": {
+        "data": {
+            "buyerCount": 5,
+            "buyerCountChangePercentage": -16.666666666666664,
+            "collectionName": "World Of Women",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 8.73517906665802,
+                    "salesVolumeChangePercentage": 3.32125716556344
+                },
+                "USD": {
+                    "salesVolume": 20347.13,
+                    "salesVolumeChangePercentage": 1.68180948187935
+                }
+            },
+            "sellerCount": 5,
+            "sellerCountChangePercentage": -37.5,
+            "transactionCount": 7
+        }
+    },
+    "world-of-women-galaxy": {
+        "data": {
+            "buyerCount": 6,
+            "buyerCountChangePercentage": -33.33333333333333,
+            "collectionName": "World Of Women Galaxy",
+            "paymentToken": "ETH",
+            "quote": {
+                "ETH": {
+                    "salesVolume": 1.18114999681711,
+                    "salesVolumeChangePercentage": -47.938291740982
+                },
+                "USD": {
+                    "salesVolume": 2743.25,
+                    "salesVolumeChangePercentage": -48.7612675714344
+                }
+            },
+            "sellerCount": 12,
+            "sellerCountChangePercentage": 9.090909090909092,
+            "transactionCount": 12
+        }
+    },
+    "y00ts": {
+        "data": {
+            "buyerCount": 0,
+            "buyerCountChangePercentage": 0,
+            "collectionName": "",
+            "paymentToken": "",
+            "quote": {},
+            "sellerCount": 0,
+            "sellerCountChangePercentage": 0,
+            "transactionCount": 0
+        }
+    },
+    "yield-hunt": {
+        "data": {
+            "buyerCount": 0,
+            "buyerCountChangePercentage": 0,
+            "collectionName": "",
+            "paymentToken": "",
+            "quote": {},
+            "sellerCount": 0,
+            "sellerCountChangePercentage": 0,
+            "transactionCount": 0
+        }
+    },
+    "zed-run-legacy": {
+        "data": {
+            "buyerCount": 69,
+            "buyerCountChangePercentage": -23.333333333333332,
+            "collectionName": "ZED RUN Legacy",
+            "paymentToken": "MATIC",
+            "quote": {
+                "MATIC": {
+                    "salesVolume": 2.8692499960307,
+                    "salesVolumeChangePercentage": -47.7707913351648
+                },
+                "USD": {
+                    "salesVolume": 7961.59,
+                    "salesVolumeChangePercentage": -43.2253404016504
+                }
+            },
+            "sellerCount": 65,
+            "sellerCountChangePercentage": 10.16949152542373,
+            "transactionCount": 126
+        }
+    }
+}

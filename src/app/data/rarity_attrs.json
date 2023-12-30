@@ -1,0 +1,2347 @@
+[
+  {
+    "collectionId": "bored-ape-yacht-club",
+    "tokenId": 2794,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/bored-ape-yacht-club/tokens/2794/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":1,\"attributes\":[{\"mouth\":{\"value\":\"Bored Unshaven Pizza\",\"count\":26}},{\"clothes\":{\"value\":\"Cowboy Shirt\",\"count\":119}},{\"eyes\":{\"value\":\"Cyborg\",\"count\":108}},{\"fur\":{\"value\":\"Robot\",\"count\":265}},{\"background\":{\"value\":\"Aquamarine\",\"count\":1266}}]}}"
+  },
+  {
+    "collectionId": "bored-ape-yacht-club",
+    "tokenId": 3953,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/bored-ape-yacht-club/tokens/3953/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":2,\"attributes\":[{\"mouth\":{\"value\":\"Bored Unshaven Pizza\",\"count\":26}},{\"eyes\":{\"value\":\"Crazy\",\"count\":407}},{\"fur\":{\"value\":\"Cream\",\"count\":636}},{\"background\":{\"value\":\"Gray\",\"count\":1170}}]}}"
+  },
+  {
+    "collectionId": "bored-ape-yacht-club",
+    "tokenId": 9606,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/bored-ape-yacht-club/tokens/9606/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":3,\"attributes\":[{\"eyes\":{\"value\":\"Wide Eyed\",\"count\":549}},{\"mouth\":{\"value\":\"Bored Unshaven Pizza\",\"count\":26}},{\"fur\":{\"value\":\"black\",\"count\":1229}},{\"background\":{\"value\":\"Army Green\",\"count\":1243}}]}}"
+  },
+  {
+    "collectionId": "bored-ape-yacht-club",
+    "tokenId": 7678,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/bored-ape-yacht-club/tokens/7678/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":4,\"attributes\":[{\"clothes\":{\"value\":\"Sailor shirt\",\"count\":284}},{\"mouth\":{\"value\":\"Bored Unshaven Pizza\",\"count\":26}},{\"eyes\":{\"value\":\"Robot\",\"count\":350}},{\"hat\":{\"value\":\"King's Crown\",\"count\":77}},{\"fur\":{\"value\":\"Cheetah\",\"count\":406}},{\"background\":{\"value\":\"Purple\",\"count\":1291}}]}}"
+  },
+  {
+    "collectionId": "bored-ape-yacht-club",
+    "tokenId": 3609,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/bored-ape-yacht-club/tokens/3609/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":5,\"attributes\":[{\"mouth\":{\"value\":\"Bored Unshaven Dagger\",\"count\":28}},{\"background\":{\"value\":\"New Punk Blue\",\"count\":1232}},{\"eyes\":{\"value\":\"Robot\",\"count\":350}},{\"hat\":{\"value\":\"Ww2 Pilot Helm\",\"count\":110}},{\"fur\":{\"value\":\"Blue\",\"count\":490}}]}}"
+  },
+  {
+    "collectionId": "cryptopunks",
+    "tokenId": 8348,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cryptopunks/tokens/8348/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":1,\"attributes\":[{\"eyes\":{\"value\":\"Classic Shades\",\"count\":501}},{\"face\":{\"value\":\"Mole\",\"count\":643}},{\"beard\":{\"value\":\"Big Beard\",\"count\":146}},{\"gender\":{\"value\":\"Male\",\"count\":6032}},{\"teeth\":{\"value\":\"Buck Teeth\",\"count\":78}},{\"mouth\":{\"value\":\"Cigarette\",\"count\":956}},{\"ears\":{\"value\":\"Earring\",\"count\":2453}},{\"hair\":{\"value\":\"Top Hat\",\"count\":115}}]}}"
+  },
+  {
+    "collectionId": "cryptopunks",
+    "tokenId": 641,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cryptopunks/tokens/641/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":2,\"attributes\":[{\"gender\":{\"value\":\"Female\",\"count\":3832}}]}}"
+  },
+  {
+    "collectionId": "cryptopunks",
+    "tokenId": 1050,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cryptopunks/tokens/1050/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":3,\"attributes\":[{\"gender\":{\"value\":\"Female\",\"count\":3832}}]}}"
+  },
+  {
+    "collectionId": "cryptopunks",
+    "tokenId": 6238,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cryptopunks/tokens/6238/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":5577,\"attributes\":[{\"beard\":{\"value\":\"mustache\",\"count\":288}},{\"gender\":{\"value\":\"Male\",\"count\":6032}},{\"hair\":{\"value\":\"CAP\",\"count\":351}}]}}"
+  },
+  {
+    "collectionId": "cryptopunks",
+    "tokenId": 7983,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cryptopunks/tokens/7983/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":6176,\"attributes\":[{\"eyes\":{\"value\":\"Green Eye Shadow\",\"count\":270}},{\"gender\":{\"value\":\"Female\",\"count\":3832}},{\"lips\":{\"value\":\"Black Lipstick\",\"count\":616}},{\"hair\":{\"value\":\"Frumpy Hair\",\"count\":442}}]}}"
+  },
+  {
+    "collectionId": "mutant-ape-yacht-club",
+    "tokenId": 27256,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mutant-ape-yacht-club/tokens/27256/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":19487,\"rarityRank\":17116,\"attributes\":[{\"clothes\":{\"value\":\"M1 Navy Striped Tee\",\"count\":471}},{\"fur\":{\"value\":\"M1 Brown\",\"count\":1955}},{\"eyes\":{\"value\":\"M1 Closed\",\"count\":1034}},{\"hat\":{\"value\":\"M1 Beanie\",\"count\":841}},{\"mouth\":{\"value\":\"M1 Rage\",\"count\":383}},{\"background\":{\"value\":\"M1 Aquamarine\",\"count\":1876}}]}}"
+  },
+  {
+    "collectionId": "mutant-ape-yacht-club",
+    "tokenId": 3765,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mutant-ape-yacht-club/tokens/3765/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":19487,\"rarityRank\":8097,\"attributes\":[{\"background\":{\"value\":\"M1 Gray\",\"count\":1752}},{\"clothes\":{\"value\":\"M1 Lab Coat\",\"count\":210}},{\"eyes\":{\"value\":\"M1 Coins\",\"count\":704}},{\"hat\":{\"value\":\"M1 Girl's Hair Pink\",\"count\":154}},{\"fur\":{\"value\":\"M1 Brown\",\"count\":1955}},{\"mouth\":{\"value\":\"M1 Bored\",\"count\":3320}}]}}"
+  },
+  {
+    "collectionId": "mutant-ape-yacht-club",
+    "tokenId": 814,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mutant-ape-yacht-club/tokens/814/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":19487,\"rarityRank\":18640,\"attributes\":[{\"fur\":{\"value\":\"M1 Gray\",\"count\":732}},{\"earring\":{\"value\":\"M1 Silver Hoop\",\"count\":1256}},{\"clothes\":{\"value\":\"M1 Toga\",\"count\":323}},{\"eyes\":{\"value\":\"M1 Bored\",\"count\":2522}},{\"mouth\":{\"value\":\"M1 Bored Unshaven\",\"count\":2262}},{\"background\":{\"value\":\"M1 Aquamarine\",\"count\":1876}}]}}"
+  },
+  {
+    "collectionId": "mutant-ape-yacht-club",
+    "tokenId": 27256,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mutant-ape-yacht-club/tokens/27256/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":19487,\"rarityRank\":17116,\"attributes\":[{\"clothes\":{\"value\":\"M1 Navy Striped Tee\",\"count\":471}},{\"fur\":{\"value\":\"M1 Brown\",\"count\":1955}},{\"eyes\":{\"value\":\"M1 Closed\",\"count\":1034}},{\"hat\":{\"value\":\"M1 Beanie\",\"count\":841}},{\"mouth\":{\"value\":\"M1 Rage\",\"count\":383}},{\"background\":{\"value\":\"M1 Aquamarine\",\"count\":1876}}]}}"
+  },
+  {
+    "collectionId": "mutant-ape-yacht-club",
+    "tokenId": 1763,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mutant-ape-yacht-club/tokens/1763/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":19487,\"rarityRank\":9925,\"attributes\":[{\"clothes\":{\"value\":\"M1 Cowboy Shirt\",\"count\":186}},{\"eyes\":{\"value\":\"M1 3d\",\"count\":691}},{\"hat\":{\"value\":\"M1 Bayc Hat Black\",\"count\":361}},{\"fur\":{\"value\":\"M1 Brown\",\"count\":1955}},{\"mouth\":{\"value\":\"M1 Bored Unshaven Cigarette\",\"count\":612}},{\"background\":{\"value\":\"M1 Purple\",\"count\":1875}}]}}"
+  },
+  {
+    "collectionId": "art-blocks",
+    "tokenId": 139000060,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/art-blocks/tokens/139000060/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-28c9cc70d55d76b9a38bde00fa528970-1f0da076db32eda0-00\"}"
+  },
+  {
+    "collectionId": "art-blocks",
+    "tokenId": 214000713,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/art-blocks/tokens/214000713/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-9a56fbd83fa7eb1569b4b8fb9857d848-58bccc9d6f4ddf90-00\"}"
+  },
+  {
+    "collectionId": "art-blocks",
+    "tokenId": 214000421,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/art-blocks/tokens/214000421/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-44317f09e23a2f6daa3d22efe218d0eb-01faf6e6a431862a-00\"}"
+  },
+  {
+    "collectionId": "art-blocks",
+    "tokenId": 162000773,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/art-blocks/tokens/162000773/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-d61a03f29abff1d8e1f369915e765406-18444e78861f0aae-00\"}"
+  },
+  {
+    "collectionId": "art-blocks",
+    "tokenId": 296000308,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/art-blocks/tokens/296000308/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-141437af889669da0b463f793a1d3726-fb769b348d759be9-00\"}"
+  },
+  {
+    "collectionId": "otherdeed",
+    "tokenId": 10771,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/otherdeed/tokens/10771/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":100000,\"rarityRank\":8726,\"attributes\":[{\"western resource\":{\"value\":\"Lumileaf\",\"count\":2830}},{\"category\":{\"value\":\"mineral\",\"count\":12153}},{\"sediment\":{\"value\":\"Chemical Goo\",\"count\":19902}},{\"northern resource\":{\"value\":\"Etheria\",\"count\":71}},{\"eastern resource\":{\"value\":\"Brimstone\",\"count\":2853}},{\"environment\":{\"value\":\"Crystal\",\"count\":2623}},{\"southern resource\":{\"value\":\"Brimstone\",\"count\":2835}}]}}"
+  },
+  {
+    "collectionId": "otherdeed",
+    "tokenId": 1935,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/otherdeed/tokens/1935/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":100000,\"rarityRank\":59738,\"attributes\":[{\"northern resource\":{\"value\":\"Spikeweed\",\"count\":2717}},{\"environment\":{\"value\":\"Wastes\",\"count\":3969}},{\"sediment\":{\"value\":\"Biogenic Swamp\",\"count\":9967}},{\"category\":{\"value\":\"Harsh\",\"count\":17922}},{\"eastern resource\":{\"value\":\"Lunarian\",\"count\":2787}}]}}"
+  },
+  {
+    "collectionId": "otherdeed",
+    "tokenId": 98995,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/otherdeed/tokens/98995/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":100000,\"rarityRank\":13076,\"attributes\":[{\"sediment\":{\"value\":\"Cosmic Dream\",\"count\":23000}},{\"western resource\":{\"value\":\"Nebula\",\"count\":184}},{\"southern resource\":{\"value\":\"Psychosilk\",\"count\":2811}},{\"category\":{\"value\":\"Spirit\",\"count\":16027}},{\"northern resource\":{\"value\":\"Lumileaf\",\"count\":2845}},{\"eastern resource\":{\"value\":\"Nebula\",\"count\":159}},{\"environment\":{\"value\":\"Steppes\",\"count\":5777}}]}}"
+  },
+  {
+    "collectionId": "otherdeed",
+    "tokenId": 16736,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/otherdeed/tokens/16736/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":100000,\"rarityRank\":13890,\"attributes\":[{\"category\":{\"value\":\"Spirit\",\"count\":16027}},{\"environment\":{\"value\":\"Steppes\",\"count\":5777}},{\"sediment\":{\"value\":\"Chemical Goo\",\"count\":19902}},{\"southern resource\":{\"value\":\"Luster\",\"count\":2847}},{\"western resource\":{\"value\":\"Nebula\",\"count\":184}},{\"northern resource\":{\"value\":\"Vaporhaze\",\"count\":171}},{\"eastern resource\":{\"value\":\"Luster\",\"count\":2828}}]}}"
+  },
+  {
+    "collectionId": "otherdeed",
+    "tokenId": 69570,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/otherdeed/tokens/69570/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":100000,\"rarityRank\":7303,\"attributes\":[{\"sediment\":{\"value\":\"Rainbow Atmos\",\"count\":22000}},{\"eastern resource\":{\"value\":\"Tanglevine\",\"count\":84}},{\"category\":{\"value\":\"Growth\",\"count\":10703}},{\"northern resource\":{\"value\":\"Psychosilk\",\"count\":2862}},{\"artifact\":{\"value\":\"Celestial Orb\",\"count\":524}},{\"environment\":{\"value\":\"Jungle\",\"count\":2965}}]}}"
+  },
+  {
+    "collectionId": "azuki",
+    "tokenId": 1367,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/azuki/tokens/1367/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":7233,\"attributes\":[{\"type\":{\"value\":\"Human\",\"count\":9018}},{\"clothing\":{\"value\":\"Blue Kimono\",\"count\":212}},{\"eyes\":{\"value\":\"Indifferent\",\"count\":355}},{\"background\":{\"value\":\"Red\",\"count\":1006}},{\"hair\":{\"value\":\"Powder Blue Disheveled\",\"count\":89}},{\"offhand\":{\"value\":\"Hand Wrap\",\"count\":120}},{\"mouth\":{\"value\":\"Not Bad\",\"count\":416}}]}}"
+  },
+  {
+    "collectionId": "azuki",
+    "tokenId": 2602,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/azuki/tokens/2602/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":7821,\"attributes\":[{\"type\":{\"value\":\"Red\",\"count\":441}},{\"eyes\":{\"value\":\"Curious\",\"count\":354}},{\"clothing\":{\"value\":\"Light Kimono\",\"count\":311}},{\"mouth\":{\"value\":\"Meh\",\"count\":380}},{\"background\":{\"value\":\"Off White B\",\"count\":1758}},{\"hair\":{\"value\":\"Maroon Fluffy\",\"count\":76}}]}}"
+  },
+  {
+    "collectionId": "azuki",
+    "tokenId": 9992,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/azuki/tokens/9992/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":3154,\"attributes\":[{\"type\":{\"value\":\"Red\",\"count\":441}},{\"clothing\":{\"value\":\"Tank Top\",\"count\":137}},{\"eyes\":{\"value\":\"Pierced Eyebrow\",\"count\":289}},{\"background\":{\"value\":\"Off White B\",\"count\":1758}},{\"hair\":{\"value\":\"Silver Short Spiky\",\"count\":90}},{\"offhand\":{\"value\":\"Hand Seal\",\"count\":121}},{\"mouth\":{\"value\":\"Gaiter\",\"count\":109}}]}}"
+  },
+  {
+    "collectionId": "azuki",
+    "tokenId": 637,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/azuki/tokens/637/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":2658,\"attributes\":[{\"type\":{\"value\":\"Human\",\"count\":9018}},{\"eyes\":{\"value\":\"Careless\",\"count\":381}},{\"clothing\":{\"value\":\"White Yukata\",\"count\":167}},{\"mouth\":{\"value\":\"Smirk\",\"count\":726}},{\"hair\":{\"value\":\"Brown Blonde Long\",\"count\":34}},{\"offhand\":{\"value\":\"Fan\",\"count\":236}},{\"background\":{\"value\":\"Off White A\",\"count\":1814}}]}}"
+  },
+  {
+    "collectionId": "azuki",
+    "tokenId": 1333,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/azuki/tokens/1333/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":7997,\"attributes\":[{\"type\":{\"value\":\"Human\",\"count\":9018}},{\"hair\":{\"value\":\"Black Pigtails\",\"count\":99}},{\"clothing\":{\"value\":\"Frog T-Shirt\",\"count\":94}},{\"mouth\":{\"value\":\"Smile\",\"count\":371}},{\"headgear\":{\"value\":\"IKZ Baseball Cap\",\"count\":265}},{\"offhand\":{\"value\":\"bat\",\"count\":392}},{\"eyes\":{\"value\":\"closed\",\"count\":1551}},{\"background\":{\"value\":\"dark blue\",\"count\":524}}]}}"
+  },
+  {
+    "collectionId": "nba-top-shot",
+    "tokenId": 96896,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/nba-top-shot/tokens/96896/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-827eb5a655e96786dc20bf71be5067bd-42fba8439a8bf55e-00\"}"
+  },
+  {
+    "collectionId": "nba-top-shot",
+    "tokenId": 45164558,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/nba-top-shot/tokens/45164558/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":45195505,\"rarityRank\":965856,\"attributes\":[{\"awayteamname\":{\"value\":\"Boston Celtics\",\"count\":52668}},{\"birthdate\":{\"value\":\"2001-08-05\",\"count\":19162}},{\"birthplace\":{\"value\":\"Atlanta, GA, USA\",\"count\":49087}},{\"dateofmoment\":{\"value\":\"2023-11-07 01:00:00 +0000 UTC\",\"count\":545}},{\"draftteam\":{\"value\":\"Minnesota Timberwolves\",\"count\":67904}},{\"firstname\":{\"value\":\"Anthony\",\"count\":28410}},{\"mediatype\":{\"value\":\"image/png\",\"count\":1729405}},{\"httpfile.mediatype\":{\"value\":\"image/svg+xml\",\"count\":1729255}},{\"nftcollectiondisplay.name\":{\"value\":\"NBA-Top-Shot\",\"count\":1729742}},{\"royalties.description\":{\"value\":\"NBATopShot marketplace royalty\",\"count\":1730065}},{\"primaryposition\":{\"value\":\"SG\",\"count\":408100}},{\"hometeamname\":{\"value\":\"Minnesota Timberwolves\",\"count\":67338}},{\"setname\":{\"value\":\"Holo Icon\",\"count\":221}},{\"playtype\":{\"value\":\"Mid-Range\",\"count\":215049}},{\"playcategory\":{\"value\":\"Jump Shot\",\"count\":195304}},{\"fullname\":{\"value\":\"Anthony Edwards\",\"count\":19164}},{\"lastname\":{\"value\":\"Edwards\",\"count\":19162}},{\"nbaseason\":{\"value\":\"2023-24\",\"count\":131575}},{\"traits.value\":{\"value\":\"G\",\"count\":111480}},{\"traits.name\":{\"value\":\"PlayerPosition\",\"count\":403197}}]}}"
+  },
+  {
+    "collectionId": "nba-top-shot",
+    "tokenId": 45164563,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/nba-top-shot/tokens/45164563/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":45195505,\"rarityRank\":965858,\"attributes\":[{\"awayteamname\":{\"value\":\"Boston Celtics\",\"count\":52668}},{\"birthdate\":{\"value\":\"2001-08-05\",\"count\":19162}},{\"birthplace\":{\"value\":\"Atlanta, GA, USA\",\"count\":49087}},{\"dateofmoment\":{\"value\":\"2023-11-07 01:00:00 +0000 UTC\",\"count\":545}},{\"draftteam\":{\"value\":\"Minnesota Timberwolves\",\"count\":67904}},{\"firstname\":{\"value\":\"Anthony\",\"count\":28410}},{\"mediatype\":{\"value\":\"image/png\",\"count\":1729405}},{\"httpfile.mediatype\":{\"value\":\"image/svg+xml\",\"count\":1729255}},{\"nftcollectiondisplay.name\":{\"value\":\"NBA-Top-Shot\",\"count\":1729742}},{\"royalties.description\":{\"value\":\"NBATopShot marketplace royalty\",\"count\":1730065}},{\"primaryposition\":{\"value\":\"SG\",\"count\":408100}},{\"hometeamname\":{\"value\":\"Minnesota Timberwolves\",\"count\":67338}},{\"setname\":{\"value\":\"Holo Icon\",\"count\":221}},{\"playtype\":{\"value\":\"Mid-Range\",\"count\":215049}},{\"playcategory\":{\"value\":\"Jump Shot\",\"count\":195304}},{\"fullname\":{\"value\":\"Anthony Edwards\",\"count\":19164}},{\"lastname\":{\"value\":\"Edwards\",\"count\":19162}},{\"nbaseason\":{\"value\":\"2023-24\",\"count\":131575}},{\"traits.value\":{\"value\":\"G\",\"count\":111480}},{\"traits.name\":{\"value\":\"PlayerPosition\",\"count\":403197}}]}}"
+  },
+  {
+    "collectionId": "nba-top-shot",
+    "tokenId": 45164579,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/nba-top-shot/tokens/45164579/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":45195505,\"rarityRank\":965852,\"attributes\":[{\"awayteamname\":{\"value\":\"Boston Celtics\",\"count\":52668}},{\"birthdate\":{\"value\":\"2001-08-05\",\"count\":19162}},{\"birthplace\":{\"value\":\"Atlanta, GA, USA\",\"count\":49087}},{\"dateofmoment\":{\"value\":\"2023-11-07 01:00:00 +0000 UTC\",\"count\":545}},{\"draftteam\":{\"value\":\"Minnesota Timberwolves\",\"count\":67904}},{\"firstname\":{\"value\":\"Anthony\",\"count\":28410}},{\"mediatype\":{\"value\":\"image/png\",\"count\":1729405}},{\"httpfile.mediatype\":{\"value\":\"image/svg+xml\",\"count\":1729255}},{\"nftcollectiondisplay.name\":{\"value\":\"NBA-Top-Shot\",\"count\":1729742}},{\"royalties.description\":{\"value\":\"NBATopShot marketplace royalty\",\"count\":1730065}},{\"primaryposition\":{\"value\":\"SG\",\"count\":408100}},{\"hometeamname\":{\"value\":\"Minnesota Timberwolves\",\"count\":67338}},{\"setname\":{\"value\":\"Holo Icon\",\"count\":221}},{\"playtype\":{\"value\":\"Mid-Range\",\"count\":215049}},{\"playcategory\":{\"value\":\"Jump Shot\",\"count\":195304}},{\"fullname\":{\"value\":\"Anthony Edwards\",\"count\":19164}},{\"lastname\":{\"value\":\"Edwards\",\"count\":19162}},{\"nbaseason\":{\"value\":\"2023-24\",\"count\":131575}},{\"traits.value\":{\"value\":\"G\",\"count\":111480}},{\"traits.name\":{\"value\":\"PlayerPosition\",\"count\":403197}}]}}"
+  },
+  {
+    "collectionId": "nba-top-shot",
+    "tokenId": 45164270,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/nba-top-shot/tokens/45164270/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":45195505,\"rarityRank\":973125,\"attributes\":[{\"awayteamname\":{\"value\":\"Chicago Bulls\",\"count\":32658}},{\"birthdate\":{\"value\":\"1989-09-14\",\"count\":25021}},{\"birthplace\":{\"value\":\"Houston, TX, USA\",\"count\":41440}},{\"dateofmoment\":{\"value\":\"2023-12-17 01:00:00 +0000 UTC\",\"count\":24}},{\"draftteam\":{\"value\":\"Chicago Bulls\",\"count\":85973}},{\"firstname\":{\"value\":\"Jimmy\",\"count\":25033}},{\"mediatype\":{\"value\":\"image/png\",\"count\":1729405}},{\"httpfile.mediatype\":{\"value\":\"image/svg+xml\",\"count\":1729255}},{\"nftcollectiondisplay.name\":{\"value\":\"NBA-Top-Shot\",\"count\":1729742}},{\"royalties.description\":{\"value\":\"NBATopShot marketplace royalty\",\"count\":1730065}},{\"primaryposition\":{\"value\":\"SF\",\"count\":334270}},{\"hometeamname\":{\"value\":\"Miami Heat\",\"count\":52195}},{\"setname\":{\"value\":\"Holo Icon\",\"count\":221}},{\"playtype\":{\"value\":\"Mid-Range\",\"count\":215049}},{\"playcategory\":{\"value\":\"Jump Shot\",\"count\":195304}},{\"lastname\":{\"value\":\"Butler\",\"count\":25032}},{\"fullname\":{\"value\":\"Jimmy Butler\",\"count\":25037}},{\"nbaseason\":{\"value\":\"2023-24\",\"count\":131575}},{\"traits.name\":{\"value\":\"PlayerPosition\",\"count\":403197}},{\"traits.value\":{\"value\":\"F\",\"count\":68750}}]}}"
+  },
+  {
+    "collectionId": "degods",
+    "tokenId": 8421,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/degods/tokens/8421/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-7c57a243a56c174ad193f31f3fee41ea-73d332ce555896f0-00\"}"
+  },
+  {
+    "collectionId": "degods",
+    "tokenId": 4418,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/degods/tokens/4418/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-f090c6f51e814f3e316a672a92b5e144-b65e92e2d0940731-00\"}"
+  },
+  {
+    "collectionId": "degods",
+    "tokenId": 8275,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/degods/tokens/8275/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-50c178397ed9e05fa15c38dc18e9b6e1-37aa8dd0d146b3aa-00\"}"
+  },
+  {
+    "collectionId": "degods",
+    "tokenId": 8332,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/degods/tokens/8332/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-b0597ba4d9d62c17ede24c0bfd687414-5dbc7168eb1b0a17-00\"}"
+  },
+  {
+    "collectionId": "degods",
+    "tokenId": 4924,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/degods/tokens/4924/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-aef333b4ae2e248055dc92dab2e9c0d1-18685105d5c7e4df-00\"}"
+  },
+  {
+    "collectionId": "mekaverse4",
+    "tokenId": 2919,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mekaverse4/tokens/2919/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-60e49e5281bc5455f3dac2772c517c93-41de96c40ce9ad83-00\"}"
+  },
+  {
+    "collectionId": "mekaverse4",
+    "tokenId": 7415,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mekaverse4/tokens/7415/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-8f22747d6b05ca8cf57440b227557310-1a46c6e05a872f66-00\"}"
+  },
+  {
+    "collectionId": "mekaverse4",
+    "tokenId": 5632,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mekaverse4/tokens/5632/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-8034af39c727d665bb296626fd3b7cdc-c138dcb0c4f6b454-00\"}"
+  },
+  {
+    "collectionId": "mekaverse4",
+    "tokenId": 866,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mekaverse4/tokens/866/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-71b3c235aadf1ef6f0e56113d509f58b-124bf9be45bbd30a-00\"}"
+  },
+  {
+    "collectionId": "mekaverse4",
+    "tokenId": 6625,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mekaverse4/tokens/6625/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-6b635504923083543d98f48b42541876-7701be71765c2257-00\"}"
+  },
+  {
+    "collectionId": "nft-worlds",
+    "tokenId": 9692,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/nft-worlds/tokens/9692/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":6284,\"attributes\":[{\"aquatic life density\":{\"value\":\"Low\",\"count\":5980}},{\"wildlife density\":{\"value\":\"High\",\"count\":6025}},{\"foliage density\":{\"value\":\"High\",\"count\":1788}}]}}"
+  },
+  {
+    "collectionId": "nft-worlds",
+    "tokenId": 4925,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/nft-worlds/tokens/4925/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":1833,\"attributes\":[{\"foliage density\":{\"value\":\"Low\",\"count\":1999}},{\"wildlife density\":{\"value\":\"Low\",\"count\":1182}},{\"aquatic life density\":{\"value\":\"High\",\"count\":1176}}]}}"
+  },
+  {
+    "collectionId": "nft-worlds",
+    "tokenId": 6546,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/nft-worlds/tokens/6546/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":4009,\"attributes\":[{\"aquatic life density\":{\"value\":\"Low\",\"count\":5980}},{\"foliage density\":{\"value\":\"Very High\",\"count\":713}},{\"wildlife density\":{\"value\":\"High\",\"count\":6025}}]}}"
+  },
+  {
+    "collectionId": "nft-worlds",
+    "tokenId": 1819,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/nft-worlds/tokens/1819/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":2246,\"attributes\":[{\"foliage density\":{\"value\":\"Very Low\",\"count\":2961}},{\"wildlife density\":{\"value\":\"Low\",\"count\":1182}},{\"aquatic life density\":{\"value\":\"High\",\"count\":1176}}]}}"
+  },
+  {
+    "collectionId": "nft-worlds",
+    "tokenId": 7093,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/nft-worlds/tokens/7093/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":8761,\"attributes\":[{\"aquatic life density\":{\"value\":\"Low\",\"count\":5980}},{\"foliage density\":{\"value\":\"Medium\",\"count\":2510}},{\"wildlife density\":{\"value\":\"High\",\"count\":6025}}]}}"
+  },
+  {
+    "collectionId": "hape-prime",
+    "tokenId": 5480,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/hape-prime/tokens/5480/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":8192,\"rarityRank\":601,\"attributes\":[{\"birthday\":{\"value\":\"20/09\",\"count\":22}},{\"eyes\":{\"value\":\"Red\",\"count\":206}},{\"haircut\":{\"value\":\"Curtains\",\"count\":143}},{\"head\":{\"value\":\"Pained\",\"count\":643}},{\"earrings\":{\"value\":\"Small Ring (Platinum)\",\"count\":75}},{\"accessory\":{\"value\":\"Waist Bag (Desert Camo)\",\"count\":13}},{\"external_url\":{\"value\":\"https://hapeprime.com\",\"count\":8200}},{\"fur\":{\"value\":\"Graphite\",\"count\":804}}]}}"
+  },
+  {
+    "collectionId": "hape-prime",
+    "tokenId": 422,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/hape-prime/tokens/422/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":8192,\"rarityRank\":3129,\"attributes\":[{\"birthday\":{\"value\":\"09/09\",\"count\":25}},{\"eyes\":{\"value\":\"Computer green\",\"count\":409}},{\"eyewear\":{\"value\":\"Aviator (Black on Black)\",\"count\":43}},{\"head\":{\"value\":\"Tired\",\"count\":590}},{\"external_url\":{\"value\":\"https://hapeprime.com\",\"count\":8200}},{\"fur\":{\"value\":\"Orange\",\"count\":159}}]}}"
+  },
+  {
+    "collectionId": "hape-prime",
+    "tokenId": 8115,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/hape-prime/tokens/8115/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":8192,\"rarityRank\":8018,\"attributes\":[{\"birthday\":{\"value\":\"25/10\",\"count\":27}},{\"eyes\":{\"value\":\"Ultimate Grey\",\"count\":630}},{\"haircut\":{\"value\":\"Pigtails\",\"count\":826}},{\"head\":{\"value\":\"HAPE\",\"count\":4566}},{\"earrings\":{\"value\":\"Cross (Titanium)\",\"count\":124}},{\"external_url\":{\"value\":\"https://hapeprime.com\",\"count\":8200}},{\"fur\":{\"value\":\"Ultimate Grey\",\"count\":710}},{\"tattoos\":{\"value\":\"PRIME\",\"count\":248}}]}}"
+  },
+  {
+    "collectionId": "hape-prime",
+    "tokenId": 1658,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/hape-prime/tokens/1658/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":8192,\"rarityRank\":6182,\"attributes\":[{\"birthday\":{\"value\":\"28/02\",\"count\":21}},{\"eyes\":{\"value\":\"Brown\",\"count\":880}},{\"haircut\":{\"value\":\"Curtains\",\"count\":143}},{\"head\":{\"value\":\"Bossy\",\"count\":621}},{\"external_url\":{\"value\":\"https://hapeprime.com\",\"count\":8200}},{\"fur\":{\"value\":\"white\",\"count\":925}},{\"tattoos\":{\"value\":\"anarchy\",\"count\":154}}]}}"
+  },
+  {
+    "collectionId": "hape-prime",
+    "tokenId": 5856,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/hape-prime/tokens/5856/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":8192,\"rarityRank\":562,\"attributes\":[{\"birthday\":{\"value\":\"12/04\",\"count\":23}},{\"eyes\":{\"value\":\"Brown\",\"count\":880}},{\"eyewear\":{\"value\":\"Aviator (Gold)\",\"count\":49}},{\"handmade\":{\"value\":\"Handmade\",\"count\":45}},{\"head\":{\"value\":\"HAPE\",\"count\":4566}},{\"earrings\":{\"value\":\"Golden Stud\",\"count\":16}},{\"external_url\":{\"value\":\"https://hapeprime.com\",\"count\":8200}},{\"fur\":{\"value\":\"Cheetah\",\"count\":97}},{\"tattoos\":{\"value\":\"Large Knife\",\"count\":103}}]}}"
+  },
+  {
+    "collectionId": "degenerate-ape-academy",
+    "tokenId": 171,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/degenerate-ape-academy/tokens/171/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-d0e166516d2db575b1763a0d7364f6d4-27231d1be683387b-00\"}"
+  },
+  {
+    "collectionId": "degenerate-ape-academy",
+    "tokenId": 6774,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/degenerate-ape-academy/tokens/6774/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-31e901027720d9ac37eedca4c8547268-de92a253ce354dcb-00\"}"
+  },
+  {
+    "collectionId": "degenerate-ape-academy",
+    "tokenId": 7546,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/degenerate-ape-academy/tokens/7546/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-ff3965f8ac679be626975e4cf54b3a9d-dfd0c9c3531ea077-00\"}"
+  },
+  {
+    "collectionId": "degenerate-ape-academy",
+    "tokenId": 1382,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/degenerate-ape-academy/tokens/1382/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-f5a8a2fca8a0f8073dd75812e791edce-313a7533d0951924-00\"}"
+  },
+  {
+    "collectionId": "degenerate-ape-academy",
+    "tokenId": 1428,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/degenerate-ape-academy/tokens/1428/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-52e02d4402c6b32cae2d674ae918dc2c-961d5374ba076542-00\"}"
+  },
+  {
+    "collectionId": "captainz",
+    "tokenId": 9429,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/captainz/tokens/9429/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-74598edfa4a59fe3d57d56d268f8b831-03450b847be3e82a-00\"}"
+  },
+  {
+    "collectionId": "captainz",
+    "tokenId": 7120,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/captainz/tokens/7120/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-7fce9d13d744bda7f501b2c09bc4f822-00e90eb37e70cf65-00\"}"
+  },
+  {
+    "collectionId": "captainz",
+    "tokenId": 1844,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/captainz/tokens/1844/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-7d228522ede7096dbaf80ac4b906a06f-836a81ca9921b78b-00\"}"
+  },
+  {
+    "collectionId": "captainz",
+    "tokenId": 4471,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/captainz/tokens/4471/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-267aee4dae08ab83a2eecb83ce6b6fdc-35b8bb7de373e20e-00\"}"
+  },
+  {
+    "collectionId": "captainz",
+    "tokenId": 4460,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/captainz/tokens/4460/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-dcc59fa99c2e210c618f416823217e86-583aec81646e866d-00\"}"
+  },
+  {
+    "collectionId": "mfer",
+    "tokenId": 6007,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mfer/tokens/6007/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10021,\"rarityRank\":186,\"attributes\":[{\"4:20 watch\":{\"value\":\"sub cola (blue/red)\",\"count\":83}},{\"eyes\":{\"value\":\"regular eyes\",\"count\":7254}},{\"headphones\":{\"value\":\"Black Headphones\",\"count\":3949}},{\"type\":{\"value\":\"charcoal mfer\",\"count\":3958}},{\"mouth\":{\"value\":\"flat\",\"count\":2064}},{\"background\":{\"value\":\"Yellow\",\"count\":1956}},{\"short hair\":{\"value\":\"Mohawk Pink\",\"count\":74}},{\"smoke\":{\"value\":\"cig black\",\"count\":3810}}]}}"
+  },
+  {
+    "collectionId": "mfer",
+    "tokenId": 8947,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mfer/tokens/8947/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10021,\"rarityRank\":2194,\"attributes\":[{\"4:20 watch\":{\"value\":\"sub rose\",\"count\":320}},{\"eyes\":{\"value\":\"regular eyes\",\"count\":7254}},{\"hat under headphones\":{\"value\":\"knit cleveland\",\"count\":120}},{\"headphones\":{\"value\":\"Pink Headphones\",\"count\":1040}},{\"type\":{\"value\":\"charcoal mfer\",\"count\":3958}},{\"mouth\":{\"value\":\"Smile\",\"count\":7936}},{\"background\":{\"value\":\"Yellow\",\"count\":1956}},{\"smoke\":{\"value\":\"cig black\",\"count\":3810}}]}}"
+  },
+  {
+    "collectionId": "mfer",
+    "tokenId": 2259,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mfer/tokens/2259/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10021,\"rarityRank\":6841,\"attributes\":[{\"4:20 watch\":{\"value\":\"sub black\",\"count\":1954}},{\"eyes\":{\"value\":\"regular eyes\",\"count\":7254}},{\"hat under headphones\":{\"value\":\"bandana dark gray\",\"count\":319}},{\"headphones\":{\"value\":\"White Headphones\",\"count\":2421}},{\"beard\":{\"value\":\"full beard\",\"count\":1036}},{\"type\":{\"value\":\"plain mfer\",\"count\":5916}},{\"mouth\":{\"value\":\"Smile\",\"count\":7936}},{\"background\":{\"value\":\"Red\",\"count\":1846}}]}}"
+  },
+  {
+    "collectionId": "mfer",
+    "tokenId": 4219,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mfer/tokens/4219/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10021,\"rarityRank\":7689,\"attributes\":[{\"4:20 watch\":{\"value\":\"sub blue\",\"count\":761}},{\"eyes\":{\"value\":\"Nerd Glasses\",\"count\":613}},{\"headphones\":{\"value\":\"White Headphones\",\"count\":2421}},{\"type\":{\"value\":\"charcoal mfer\",\"count\":3958}},{\"mouth\":{\"value\":\"Smile\",\"count\":7936}},{\"background\":{\"value\":\"Orange\",\"count\":2023}}]}}"
+  },
+  {
+    "collectionId": "mfer",
+    "tokenId": 558,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mfer/tokens/558/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10021,\"rarityRank\":2047,\"attributes\":[{\"4:20 watch\":{\"value\":\"sub rose\",\"count\":320}},{\"eyes\":{\"value\":\"regular eyes\",\"count\":7254}},{\"headphones\":{\"value\":\"Red Headphones\",\"count\":732}},{\"chain\":{\"value\":\"Silver Chain\",\"count\":395}},{\"type\":{\"value\":\"charcoal mfer\",\"count\":3958}},{\"mouth\":{\"value\":\"Smile\",\"count\":7936}},{\"background\":{\"value\":\"Orange\",\"count\":2023}},{\"short hair\":{\"value\":\"messy purple\",\"count\":152}},{\"smoke\":{\"value\":\"cig white\",\"count\":3735}}]}}"
+  },
+  {
+    "collectionId": "wolf-game",
+    "tokenId": 11264,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/wolf-game/tokens/11264/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-ede03cf3f508eeeafef67cdb52129b9d-d255230f354e0b57-00\"}"
+  },
+  {
+    "collectionId": "wolf-game",
+    "tokenId": 10371,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/wolf-game/tokens/10371/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-af2503b8504f8f71ef8783c2e9703965-5f11154a0cb5f59c-00\"}"
+  },
+  {
+    "collectionId": "wolf-game",
+    "tokenId": 1201,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/wolf-game/tokens/1201/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-bab700dfcd265d8712c6a1cb57702a41-b8213a7d43feb3b0-00\"}"
+  },
+  {
+    "collectionId": "wolf-game",
+    "tokenId": 11252,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/wolf-game/tokens/11252/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-3472c5250d70d70fb967b715f3e558cb-bdc2d390a6fc446e-00\"}"
+  },
+  {
+    "collectionId": "wolf-game",
+    "tokenId": 13365,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/wolf-game/tokens/13365/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-3164c00c7b33c873b03d0ea7f1902443-fc1d2cc32e5a2bef-00\"}"
+  },
+  {
+    "collectionId": "nfl-all-day",
+    "tokenId": 1401084383,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/nfl-all-day/tokens/1401084383/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-6a0f9a331f13307c8eb82a3f08c0fc6c-b15687d371dbfae3-00\"}"
+  },
+  {
+    "collectionId": "nfl-all-day",
+    "tokenId": 5141427,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/nfl-all-day/tokens/5141427/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-da09d4f43b352159c9b648b1ba97641d-cb4d54e1f6f94013-00\"}"
+  },
+  {
+    "collectionId": "nfl-all-day",
+    "tokenId": 5290988,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/nfl-all-day/tokens/5290988/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-1bb6dc4494469b4cfe7e1f8d3a37d6ae-dacede7fb9c9591a-00\"}"
+  },
+  {
+    "collectionId": "nfl-all-day",
+    "tokenId": 5546870,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/nfl-all-day/tokens/5546870/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-49d72ba793e7331aa394006f37b8c0c0-ea89f5d43916d9aa-00\"}"
+  },
+  {
+    "collectionId": "nfl-all-day",
+    "tokenId": 5079909,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/nfl-all-day/tokens/5079909/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-fe4ef7e04a713a947686a798aea94233-a1998d9acc351b27-00\"}"
+  },
+  {
+    "collectionId": "okay-bears",
+    "tokenId": 4736,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/okay-bears/tokens/4736/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-8a47f71ca4fc8eb21c8fa3285658b37c-9d4964c15d7d9d7b-00\"}"
+  },
+  {
+    "collectionId": "okay-bears",
+    "tokenId": 4070,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/okay-bears/tokens/4070/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-a66165bb81f6d2f3532d7770812e3bdc-e1a8ffefc50b0d76-00\"}"
+  },
+  {
+    "collectionId": "okay-bears",
+    "tokenId": 5808,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/okay-bears/tokens/5808/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-d7f99aca3a266663fb6d422e0d68b084-e14043d8ea660851-00\"}"
+  },
+  {
+    "collectionId": "okay-bears",
+    "tokenId": 1826,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/okay-bears/tokens/1826/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-837b5b51a9d096691670427fd9cfa32e-4306bdb76a15c1ab-00\"}"
+  },
+  {
+    "collectionId": "okay-bears",
+    "tokenId": 6056,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/okay-bears/tokens/6056/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-446d42b37a4eb197e6edf4ddc8d56b86-bd77035a1cb9b986-00\"}"
+  },
+  {
+    "collectionId": "pixelmon",
+    "tokenId": 1995,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/pixelmon/tokens/1995/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":12245,\"rarityRank\":9132,\"attributes\":[{\"evolution\":{\"value\":\"Evolution 1\",\"count\":8300}},{\"species\":{\"value\":\"Xanshi\",\"count\":248}},{\"origin\":{\"value\":\"Water\",\"count\":2589}},{\"rarity\":{\"value\":\"Common\",\"count\":4257}}]}}"
+  },
+  {
+    "collectionId": "pixelmon",
+    "tokenId": 4745,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/pixelmon/tokens/4745/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":12245,\"rarityRank\":7553,\"attributes\":[{\"evolution\":{\"value\":\"Evolution 1\",\"count\":8300}},{\"species\":{\"value\":\"Teeki\",\"count\":166}},{\"origin\":{\"value\":\"Air\",\"count\":2315}},{\"rarity\":{\"value\":\"Common\",\"count\":4257}}]}}"
+  },
+  {
+    "collectionId": "pixelmon",
+    "tokenId": 8358,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/pixelmon/tokens/8358/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":12245,\"rarityRank\":7057,\"attributes\":[{\"evolution\":{\"value\":\"Evolution 1\",\"count\":8300}},{\"species\":{\"value\":\"Shelker\",\"count\":163}},{\"origin\":{\"value\":\"Water\",\"count\":2589}},{\"rarity\":{\"value\":\"Common\",\"count\":4257}}]}}"
+  },
+  {
+    "collectionId": "pixelmon",
+    "tokenId": 2003,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/pixelmon/tokens/2003/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":12245,\"rarityRank\":4191,\"attributes\":[{\"evolution\":{\"value\":\"Evolution 1\",\"count\":8300}},{\"species\":{\"value\":\"Goloid\",\"count\":129}},{\"origin\":{\"value\":\"Earth\",\"count\":2518}},{\"rarity\":{\"value\":\"Rare\",\"count\":1493}}]}}"
+  },
+  {
+    "collectionId": "pixelmon",
+    "tokenId": 4830,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/pixelmon/tokens/4830/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":12245,\"rarityRank\":3525,\"attributes\":[{\"evolution\":{\"value\":\"Evolution 1\",\"count\":8300}},{\"species\":{\"value\":\"Octopod\",\"count\":86}},{\"origin\":{\"value\":\"Water\",\"count\":2589}},{\"rarity\":{\"value\":\"Rare\",\"count\":1493}}]}}"
+  },
+  {
+    "collectionId": "karafuru",
+    "tokenId": 3838,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/karafuru/tokens/3838/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-4620a6e8ed6b5a93b821ce38d9ee34d1-6b4cc4b8e15fbec4-00\"}"
+  },
+  {
+    "collectionId": "karafuru",
+    "tokenId": 3678,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/karafuru/tokens/3678/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-18c1e504bfadb379048a4dd376de9ecd-7ece4aee788e2969-00\"}"
+  },
+  {
+    "collectionId": "karafuru",
+    "tokenId": 4821,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/karafuru/tokens/4821/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-07a8ab070bedfbc347d86d7f5fba5f72-7892c34a0e05f774-00\"}"
+  },
+  {
+    "collectionId": "karafuru",
+    "tokenId": 4872,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/karafuru/tokens/4872/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-6ca337095489573b541cd0c6168d722a-3c6e606fc1e7c27c-00\"}"
+  },
+  {
+    "collectionId": "karafuru",
+    "tokenId": 1617,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/karafuru/tokens/1617/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-38ae54d13a588bc39276ed2df46939a6-64c6371861fb1908-00\"}"
+  },
+  {
+    "collectionId": "invisible-friends",
+    "tokenId": 1983,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/invisible-friends/tokens/1983/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":5000,\"rarityRank\":3124,\"attributes\":[{\"feet\":{\"value\":\"Green shoes\",\"count\":386}},{\"sleeves\":{\"value\":\"Long Sleeves\",\"count\":4121}},{\"legs\":{\"value\":\"Tan Pants\",\"count\":397}},{\"upper body\":{\"value\":\"orange puffer jacket\",\"count\":66}},{\"hat\":{\"value\":\"Yellow / Blue Pointy Beanie\",\"count\":73}},{\"right arm\":{\"value\":\"Swinging\",\"count\":2619}},{\"background\":{\"value\":\"Pink\",\"count\":486}},{\"left arm\":{\"value\":\"skateboard\",\"count\":229}}]}}"
+  },
+  {
+    "collectionId": "invisible-friends",
+    "tokenId": 4154,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/invisible-friends/tokens/4154/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":5000,\"rarityRank\":1198,\"attributes\":[{\"feet\":{\"value\":\"Summer Night Sneakers\",\"count\":201}},{\"hat\":{\"value\":\"Turquoise 5 Panel Cap\",\"count\":142}},{\"legs\":{\"value\":\"Green Sweatpants\",\"count\":209}},{\"sleeves\":{\"value\":\"Long Sleeves\",\"count\":4121}},{\"upper body\":{\"value\":\"Yelow / Blue Hoodie Jacket with Hood Up\",\"count\":44}},{\"right arm\":{\"value\":\"Metal Detector\",\"count\":90}},{\"background\":{\"value\":\"Green\",\"count\":461}},{\"left arm\":{\"value\":\"Baseball Bat\",\"count\":212}}]}}"
+  },
+  {
+    "collectionId": "invisible-friends",
+    "tokenId": 1044,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/invisible-friends/tokens/1044/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":5000,\"rarityRank\":1955,\"attributes\":[{\"upper body\":{\"value\":\"Blue / Yellow Tracksuit Jacket\",\"count\":116}},{\"feet\":{\"value\":\"black shoes\",\"count\":216}},{\"legs\":{\"value\":\"Dark Blue Pants\",\"count\":207}},{\"sleeves\":{\"value\":\"Long Sleeves\",\"count\":4121}},{\"hat\":{\"value\":\"Light Blue Beanie\",\"count\":168}},{\"bag\":{\"value\":\"Cream Chest Bag\",\"count\":30}},{\"eyes\":{\"value\":\"White Nerd Glasses\",\"count\":482}},{\"background\":{\"value\":\"Blue\",\"count\":2548}},{\"left arm\":{\"value\":\"Swinging\",\"count\":2468}},{\"right arm\":{\"value\":\"Swinging\",\"count\":2619}}]}}"
+  },
+  {
+    "collectionId": "invisible-friends",
+    "tokenId": 387,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/invisible-friends/tokens/387/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":5000,\"rarityRank\":4166,\"attributes\":[{\"feet\":{\"value\":\"White Shoes\",\"count\":405}},{\"right arm\":{\"value\":\"Swinging\",\"count\":2619}},{\"legs\":{\"value\":\"Charcoal Pants\",\"count\":197}},{\"sleeves\":{\"value\":\"Long Sleeves\",\"count\":4121}},{\"mouth\":{\"value\":\"Toothpick\",\"count\":435}},{\"left arm\":{\"value\":\"Swinging\",\"count\":2468}},{\"eyes\":{\"value\":\"Eye Patch\",\"count\":187}},{\"upper body\":{\"value\":\"Green / White V-Neck Sweater and Shirt\",\"count\":65}},{\"background\":{\"value\":\"Blue\",\"count\":2548}},{\"ears\":{\"value\":\"Earrings\",\"count\":99}}]}}"
+  },
+  {
+    "collectionId": "invisible-friends",
+    "tokenId": 3532,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/invisible-friends/tokens/3532/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":5000,\"rarityRank\":1097,\"attributes\":[{\"legs\":{\"value\":\"White Skirt\",\"count\":98}},{\"feet\":{\"value\":\"White Shoes\",\"count\":405}},{\"upper body\":{\"value\":\"Pink Tucked Shirt\",\"count\":37}},{\"neck\":{\"value\":\"Scarf Bandana\",\"count\":224}},{\"outerwear\":{\"value\":\"Red Coat\",\"count\":89}},{\"right arm\":{\"value\":\"Swinging\",\"count\":2619}},{\"sleeves\":{\"value\":\"Long Sleeves\",\"count\":4121}},{\"hat\":{\"value\":\"Knitted Bobble Hat\",\"count\":83}},{\"background\":{\"value\":\"Blue\",\"count\":2548}},{\"left arm\":{\"value\":\"Axe\",\"count\":229}}]}}"
+  },
+  {
+    "collectionId": "fluf-world",
+    "tokenId": 316,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/fluf-world/tokens/316/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":1273,\"attributes\":[{\"top\":{\"value\":\"Flannel Jacket\",\"count\":396}},{\"ears\":{\"value\":\"Gold rings\",\"count\":647}},{\"dance\":{\"value\":\"Bob\",\"count\":1522}},{\"head\":{\"value\":\"Tuft (Black)\",\"count\":194}},{\"music\":{\"value\":\"Disco Rabbit\",\"count\":447}},{\"sex\":{\"value\":\"Male\",\"count\":6989}},{\"eyes\":{\"value\":\"Blue\",\"count\":1332}},{\"neck\":{\"value\":\"Bone Necklace\",\"count\":326}},{\"fur\":{\"value\":\"Red\",\"count\":355}},{\"background\":{\"value\":\"The Wall\",\"count\":57}},{\"expression\":{\"value\":\"Smile\",\"count\":658}}]}}"
+  },
+  {
+    "collectionId": "fluf-world",
+    "tokenId": 1016,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/fluf-world/tokens/1016/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":7604,\"attributes\":[{\"fur\":{\"value\":\"Honeycomb\",\"count\":198}},{\"sex\":{\"value\":\"Male\",\"count\":6989}},{\"eyes\":{\"value\":\"Cat (Brown)\",\"count\":399}},{\"head\":{\"value\":\"Afro (Base)\",\"count\":313}},{\"expression\":{\"value\":\"Anger\",\"count\":790}},{\"top\":{\"value\":\"Leather Vest\",\"count\":425}},{\"dance\":{\"value\":\"Side To Side\",\"count\":1519}},{\"music\":{\"value\":\"Space Fluffle\",\"count\":433}},{\"neck\":{\"value\":\"Bowtie (Gold)\",\"count\":679}},{\"mouth\":{\"value\":\"Lollipop\",\"count\":921}},{\"background\":{\"value\":\"Backalley\",\"count\":666}},{\"ears\":{\"value\":\"Gold rings\",\"count\":647}},{\"nose\":{\"value\":\"Bull Ring\",\"count\":1179}}]}}"
+  },
+  {
+    "collectionId": "fluf-world",
+    "tokenId": 9116,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/fluf-world/tokens/9116/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":2235,\"attributes\":[{\"dance\":{\"value\":\"Big Nod\",\"count\":1198}},{\"mouth\":{\"value\":\"Carrot\",\"count\":674}},{\"head\":{\"value\":\"Afro (Ginger)\",\"count\":132}},{\"sex\":{\"value\":\"Male\",\"count\":6989}},{\"background\":{\"value\":\"Star Explorer\",\"count\":148}},{\"nose\":{\"value\":\"Steel Stud\",\"count\":1164}},{\"eyes\":{\"value\":\"Green\",\"count\":1368}},{\"eyewear\":{\"value\":\"Safety Glasses\",\"count\":144}},{\"music\":{\"value\":\"Run Rabbit\",\"count\":456}},{\"neck\":{\"value\":\"Gold chain\",\"count\":276}},{\"fur\":{\"value\":\"Red\",\"count\":355}},{\"expression\":{\"value\":\"Mouth Open (Right)\",\"count\":2662}}]}}"
+  },
+  {
+    "collectionId": "fluf-world",
+    "tokenId": 7083,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/fluf-world/tokens/7083/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":3396,\"attributes\":[{\"nose\":{\"value\":\"Steel Ring\",\"count\":1118}},{\"background\":{\"value\":\"SPACESHIP\",\"count\":638}},{\"head\":{\"value\":\"Mullet (Orange)\",\"count\":128}},{\"music\":{\"value\":\"Coffee and Carrots\",\"count\":463}},{\"sex\":{\"value\":\"Male\",\"count\":6989}},{\"top\":{\"value\":\"Flannel Jacket\",\"count\":396}},{\"dance\":{\"value\":\"Side To Side\",\"count\":1519}},{\"eyes\":{\"value\":\"Fire\",\"count\":265}},{\"eyewear\":{\"value\":\"Cyberpunk Glasses\",\"count\":138}},{\"fur\":{\"value\":\"Red\",\"count\":355}},{\"mouth\":{\"value\":\"Joint\",\"count\":865}},{\"ears\":{\"value\":\"Steel Studs\",\"count\":945}},{\"expression\":{\"value\":\"Mouth Open (Right)\",\"count\":2662}}]}}"
+  },
+  {
+    "collectionId": "fluf-world",
+    "tokenId": 3983,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/fluf-world/tokens/3983/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":1803,\"attributes\":[{\"sex\":{\"value\":\"Male\",\"count\":6989}},{\"background\":{\"value\":\"Mansion\",\"count\":736}},{\"music\":{\"value\":\"FLUF Ocean\",\"count\":97}},{\"mouth\":{\"value\":\"Pacifier\",\"count\":346}},{\"expression\":{\"value\":\"Mouth Open (Middle) + Wink\",\"count\":203}},{\"top\":{\"value\":\"Camo Jacket\",\"count\":325}},{\"dance\":{\"value\":\"Side To Side\",\"count\":1519}},{\"eyes\":{\"value\":\"Yellow\",\"count\":470}},{\"eyewear\":{\"value\":\"Shutter Glasses\",\"count\":464}},{\"head\":{\"value\":\"Bandana\",\"count\":380}},{\"fur\":{\"value\":\"MarshMellow\",\"count\":215}},{\"nose\":{\"value\":\"Clown Nose\",\"count\":565}}]}}"
+  },
+  {
+    "collectionId": "projectpxn",
+    "tokenId": 3612,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/projectpxn/tokens/3612/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":1539,\"attributes\":[{\"glasses\":{\"value\":\"Tinted Specs\",\"count\":76}},{\"head\":{\"value\":\"Cyber Vox Helmet\",\"count\":14}},{\"branch\":{\"value\":\"Army\",\"count\":2475}},{\"eyes\":{\"value\":\"Vexxed Poppy\",\"count\":197}},{\"mouth\":{\"value\":\"Fang Smirk\",\"count\":1275}},{\"background\":{\"value\":\"Army\",\"count\":1772}},{\"type\":{\"value\":\"Human\",\"count\":7790}},{\"outfit\":{\"value\":\"Urban Camo\",\"count\":88}},{\"back\":{\"value\":\"Rifle Orange\",\"count\":224}}]}}"
+  },
+  {
+    "collectionId": "projectpxn",
+    "tokenId": 4674,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/projectpxn/tokens/4674/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":5072,\"attributes\":[{\"branch\":{\"value\":\"Army\",\"count\":2475}},{\"type\":{\"value\":\"Ao Oni\",\"count\":1096}},{\"eyes\":{\"value\":\"Foxy Crimson\",\"count\":112}},{\"head\":{\"value\":\"Bobcut Ao\",\"count\":41}},{\"mouth\":{\"value\":\"Fang Smirk\",\"count\":1275}},{\"background\":{\"value\":\"Bluefire\",\"count\":1096}},{\"outfit\":{\"value\":\"Utility Vest Camo Red\",\"count\":102}},{\"back\":{\"value\":\"Rifle Lucky 8\",\"count\":192}}]}}"
+  },
+  {
+    "collectionId": "projectpxn",
+    "tokenId": 7061,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/projectpxn/tokens/7061/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":9723,\"attributes\":[{\"eyes\":{\"value\":\"Base Fern\",\"count\":460}},{\"back\":{\"value\":\"Rifle Red\",\"count\":292}},{\"head\":{\"value\":\"Lawliet \",\"count\":178}},{\"type\":{\"value\":\"Human\",\"count\":7790}},{\"mouth\":{\"value\":\"popsicle\",\"count\":382}},{\"outfit\":{\"value\":\"Kevlar BANii\",\"count\":82}},{\"branch\":{\"value\":\"Army\",\"count\":2475}},{\"background\":{\"value\":\"Army\",\"count\":1772}}]}}"
+  },
+  {
+    "collectionId": "projectpxn",
+    "tokenId": 1199,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/projectpxn/tokens/1199/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":9416,\"attributes\":[{\"eyes\":{\"value\":\"Gazing Russet\",\"count\":373}},{\"head\":{\"value\":\"Celestial Dreamer \",\"count\":147}},{\"mouth\":{\"value\":\"Plump\",\"count\":4765}},{\"outfit\":{\"value\":\"Hazard Zone\",\"count\":67}},{\"back\":{\"value\":\"Rifle Medic\",\"count\":342}},{\"background\":{\"value\":\"Healing Pulse\",\"count\":627}},{\"branch\":{\"value\":\"Support\",\"count\":2274}},{\"type\":{\"value\":\"Human\",\"count\":7790}}]}}"
+  },
+  {
+    "collectionId": "projectpxn",
+    "tokenId": 7972,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/projectpxn/tokens/7972/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":7225,\"attributes\":[{\"mouth\":{\"value\":\"Plump\",\"count\":4765}},{\"glasses\":{\"value\":\"Starstruck Pink\",\"count\":48}},{\"eyes\":{\"value\":\"Smug Fern\",\"count\":195}},{\"head\":{\"value\":\"Shrine Maiden\",\"count\":150}},{\"outfit\":{\"value\":\"Military Street Polar\",\"count\":96}},{\"back\":{\"value\":\"Rifle Leather\",\"count\":217}},{\"branch\":{\"value\":\"Army\",\"count\":2475}},{\"type\":{\"value\":\"Human\",\"count\":7790}},{\"background\":{\"value\":\"Army\",\"count\":1772}}]}}"
+  },
+  {
+    "collectionId": "creatureworld",
+    "tokenId": 2546,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/creatureworld/tokens/2546/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":683,\"attributes\":[{\"decoration\":{\"value\":\"Tulip Tranteum\",\"count\":113}},{\"eyes\":{\"value\":\"Third Eye\",\"count\":353}},{\"creature\":{\"value\":\"Aqua\",\"count\":807}},{\"mouth\":{\"value\":\"Happy\",\"count\":6938}},{\"overlay\":{\"value\":\"Tulip Flower\",\"count\":57}},{\"background\":{\"value\":\"terracotta\",\"count\":152}},{\"foreground\":{\"value\":\"Telescope\",\"count\":1513}}]}}"
+  },
+  {
+    "collectionId": "creatureworld",
+    "tokenId": 4166,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/creatureworld/tokens/4166/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":1960,\"attributes\":[{\"decoration\":{\"value\":\"Sand Stripes\",\"count\":110}},{\"creature\":{\"value\":\"feather\",\"count\":472}},{\"mouth\":{\"value\":\"Smirking\",\"count\":950}},{\"outfit\":{\"value\":\"Vines\",\"count\":1397}},{\"overlay\":{\"value\":\"CUBES\",\"count\":165}},{\"background\":{\"value\":\"OCEAN\",\"count\":157}},{\"foreground\":{\"value\":\"Rain\",\"count\":1501}}]}}"
+  },
+  {
+    "collectionId": "creatureworld",
+    "tokenId": 2671,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/creatureworld/tokens/2671/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":3343,\"attributes\":[{\"decoration\":{\"value\":\"Ocean Stripes\",\"count\":131}},{\"eyes\":{\"value\":\"Gold\",\"count\":586}},{\"creature\":{\"value\":\"Scarlet\",\"count\":504}},{\"mouth\":{\"value\":\"Happy\",\"count\":6938}},{\"outfit\":{\"value\":\"Arcith\",\"count\":1468}},{\"overlay\":{\"value\":\"Curved Stripe\",\"count\":201}},{\"background\":{\"value\":\"feather\",\"count\":145}},{\"foreground\":{\"value\":\"crush\",\"count\":1523}}]}}"
+  },
+  {
+    "collectionId": "creatureworld",
+    "tokenId": 2443,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/creatureworld/tokens/2443/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":9264,\"attributes\":[{\"decoration\":{\"value\":\"Clementine Balseum\",\"count\":196}},{\"eyes\":{\"value\":\"Moss\",\"count\":321}},{\"creature\":{\"value\":\"Blood Orange\",\"count\":468}},{\"mouth\":{\"value\":\"Happy\",\"count\":6938}},{\"outfit\":{\"value\":\"Oxoto\",\"count\":1383}},{\"background\":{\"value\":\"Pile Skyline\",\"count\":1629}}]}}"
+  },
+  {
+    "collectionId": "creatureworld",
+    "tokenId": 2747,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/creatureworld/tokens/2747/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":3669,\"attributes\":[{\"decoration\":{\"value\":\"Aqua Stripes\",\"count\":196}},{\"eyes\":{\"value\":\"OCEAN\",\"count\":308}},{\"creature\":{\"value\":\"Blood Orange\",\"count\":468}},{\"mouth\":{\"value\":\"Happy\",\"count\":6938}},{\"outfit\":{\"value\":\"Oxoto\",\"count\":1383}},{\"overlay\":{\"value\":\"Polkadot\",\"count\":186}},{\"background\":{\"value\":\"Moss\",\"count\":152}},{\"foreground\":{\"value\":\"crush\",\"count\":1523}}]}}"
+  },
+  {
+    "collectionId": "ice-poet",
+    "tokenId": 1474372083359800613770852387571386052464531335607687557560353685603,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/ice-poet/tokens/1474372083359800613770852387571386052464531335607687557560353685603/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":4286,\"rarityRank\":1583,\"attributes\":[{\"category\":{\"value\":\"upper_body\",\"count\":840}},{\"description\":{\"value\":\"DCL Wearable 99/1000\",\"count\":23}}]}}"
+  },
+  {
+    "collectionId": "ice-poet",
+    "tokenId": 2527495000045372480750032664408090375653482289613178670103463460882,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/ice-poet/tokens/2527495000045372480750032664408090375653482289613178670103463460882/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":4286,\"rarityRank\":3431,\"attributes\":[{\"category\":{\"value\":\"feet\",\"count\":827}},{\"description\":{\"value\":\"DCL Wearable 18/1000\",\"count\":25}}]}}"
+  },
+  {
+    "collectionId": "ice-poet",
+    "tokenId": 24,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/ice-poet/tokens/24/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":4286,\"rarityRank\":3657,\"attributes\":[{\"category\":{\"value\":\"eyewear\",\"count\":796}},{\"description\":{\"value\":\"DCL Wearable 24/1000\",\"count\":25}}]}}"
+  },
+  {
+    "collectionId": "ice-poet",
+    "tokenId": 947810625017014680281262249153033890870055858604942001288798797901,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/ice-poet/tokens/947810625017014680281262249153033890870055858604942001288798797901/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":4286,\"rarityRank\":1598,\"attributes\":[{\"category\":{\"value\":\"Hat\",\"count\":825}},{\"description\":{\"value\":\"DCL Wearable 77/1000\",\"count\":23}}]}}"
+  },
+  {
+    "collectionId": "ice-poet",
+    "tokenId": 526561458342785933489590138418352161594475477002745556271554887892,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/ice-poet/tokens/526561458342785933489590138418352161594475477002745556271554887892/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":4286,\"rarityRank\":354,\"attributes\":[{\"category\":{\"value\":\"Hat\",\"count\":825}},{\"description\":{\"value\":\"DCL Wearable 212/1000\",\"count\":5}}]}}"
+  },
+  {
+    "collectionId": "creature-world-nft",
+    "tokenId": 2747,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/creature-world-nft/tokens/2747/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-c374db5be48ea60193274cb161694ad8-f79a4a76bbb08e1c-00\"}"
+  },
+  {
+    "collectionId": "creature-world-nft",
+    "tokenId": 2443,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/creature-world-nft/tokens/2443/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-28d26349cdd1a860e505157d8842a4d1-3f2c9f97b099ac8f-00\"}"
+  },
+  {
+    "collectionId": "creature-world-nft",
+    "tokenId": 2546,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/creature-world-nft/tokens/2546/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-1dd59ff58d53553b51110dad104a92c2-63c82a3e6d8ca7ff-00\"}"
+  },
+  {
+    "collectionId": "creature-world-nft",
+    "tokenId": 504,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/creature-world-nft/tokens/504/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-c56ae7c83be4e6d1b7968caf77cd0053-1ec6b7f31a6719f9-00\"}"
+  },
+  {
+    "collectionId": "creature-world-nft",
+    "tokenId": 8876,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/creature-world-nft/tokens/8876/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-c66082f88d8cd0a678aee4f6058ee4d6-a39211ce155fa0fe-00\"}"
+  },
+  {
+    "collectionId": "cyberkongz-vx-1",
+    "tokenId": 13196,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cyberkongz-vx-1/tokens/13196/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":14846,\"rarityRank\":8863,\"attributes\":[{\"hat\":{\"value\":\"KIPD Cap\",\"count\":291}},{\"mouth\":{\"value\":\"Single Tooth\",\"count\":661}},{\"body accessory\":{\"value\":\"Red Puffy Vest\",\"count\":215}}]}}"
+  },
+  {
+    "collectionId": "cyberkongz-vx-1",
+    "tokenId": 7301,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cyberkongz-vx-1/tokens/7301/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":14846,\"rarityRank\":13366,\"attributes\":[{\"hat\":{\"value\":\"Yield Farmers Hat\",\"count\":318}},{\"mouth\":{\"value\":\"Tongue Out\",\"count\":662}}]}}"
+  },
+  {
+    "collectionId": "cyberkongz-vx-1",
+    "tokenId": 14714,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cyberkongz-vx-1/tokens/14714/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":14846,\"rarityRank\":5910,\"attributes\":[{\"hat\":{\"value\":\"Thinking Cap\",\"count\":309}},{\"mouth\":{\"value\":\"KEK\",\"count\":181}}]}}"
+  },
+  {
+    "collectionId": "cyberkongz-vx-1",
+    "tokenId": 4763,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cyberkongz-vx-1/tokens/4763/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":14846,\"rarityRank\":4454,\"attributes\":[{\"eyes\":{\"value\":\"Censored\",\"count\":177}},{\"hat\":{\"value\":\"Funky Long Hat\",\"count\":179}},{\"head accessory\":{\"value\":\"Gold Septum\",\"count\":284}},{\"mouth\":{\"value\":\"Single Tooth\",\"count\":661}}]}}"
+  },
+  {
+    "collectionId": "cyberkongz-vx-1",
+    "tokenId": 9817,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cyberkongz-vx-1/tokens/9817/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":14846,\"rarityRank\":9200,\"attributes\":[{\"eyes\":{\"value\":\"Crossed\",\"count\":206}},{\"hat\":{\"value\":\"Grey Beanie\",\"count\":394}},{\"head accessory\":{\"value\":\"Neck Bolts\",\"count\":294}},{\"mouth\":{\"value\":\"Tongue Out\",\"count\":662}},{\"body accessory\":{\"value\":\"Fanny Pack\",\"count\":573}}]}}"
+  },
+  {
+    "collectionId": "sewerpass",
+    "tokenId": 15020,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/sewerpass/tokens/15020/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":26485,\"rarityRank\":697,\"attributes\":[{\"rank\":{\"value\":\"N/A\",\"count\":1231}},{\"score\":{\"value\":\"N/A\",\"count\":1231}}]}}"
+  },
+  {
+    "collectionId": "sewerpass",
+    "tokenId": 18095,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/sewerpass/tokens/18095/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-d35ae4fae69cf591545e2a7a21af8f00-ec476a333ed613a2-00\"}"
+  },
+  {
+    "collectionId": "sewerpass",
+    "tokenId": 24047,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/sewerpass/tokens/24047/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-67e3b9b05e11dee0864296ff0ea4b510-b101c0a9902ba007-00\"}"
+  },
+  {
+    "collectionId": "sewerpass",
+    "tokenId": 7179,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/sewerpass/tokens/7179/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-ab48f6a8c87b8991cd5a9c4d06ed5869-3cce0a68b035f493-00\"}"
+  },
+  {
+    "collectionId": "sewerpass",
+    "tokenId": 18099,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/sewerpass/tokens/18099/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-d8d3bb8fd82ff72a7b1aa6c7179b48a4-d81a33ae89df2374-00\"}"
+  },
+  {
+    "collectionId": "kaijukingz",
+    "tokenId": 1136,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/kaijukingz/tokens/1136/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9990,\"rarityRank\":2776,\"attributes\":[{\"hat\":{\"value\":\"Pink Visor\",\"count\":88}},{\"background\":{\"value\":\"Olive\",\"count\":1042}},{\"body\":{\"value\":\"Burgundy\",\"count\":487}},{\"eyes\":{\"value\":\"Black Thick Rims\",\"count\":114}},{\"nosering\":{\"value\":\"Bronze Ring\",\"count\":134}},{\"neck\":{\"value\":\"BLACK HOODIE\",\"count\":273}},{\"origin\":{\"value\":\"Genesis\",\"count\":3333}}]}}"
+  },
+  {
+    "collectionId": "kaijukingz",
+    "tokenId": 1981,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/kaijukingz/tokens/1981/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9990,\"rarityRank\":4821,\"attributes\":[{\"neck\":{\"value\":\"Red Bowtie\",\"count\":320}},{\"hat\":{\"value\":\"Teal Beanie\",\"count\":166}},{\"body\":{\"value\":\"Burgundy\",\"count\":487}},{\"eyes\":{\"value\":\"Kaiju Eyes\",\"count\":220}},{\"origin\":{\"value\":\"Genesis\",\"count\":3333}},{\"background\":{\"value\":\"Yellow\",\"count\":178}}]}}"
+  },
+  {
+    "collectionId": "kaijukingz",
+    "tokenId": 2642,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/kaijukingz/tokens/2642/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9990,\"rarityRank\":5864,\"attributes\":[{\"eyes\":{\"value\":\"Thug Life\",\"count\":796}},{\"background\":{\"value\":\"Orange\",\"count\":629}},{\"body\":{\"value\":\"Burgundy\",\"count\":487}},{\"neck\":{\"value\":\"Kaiju Chain Goldxsilver\",\"count\":106}},{\"origin\":{\"value\":\"Genesis\",\"count\":3333}}]}}"
+  },
+  {
+    "collectionId": "kaijukingz",
+    "tokenId": 830,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/kaijukingz/tokens/830/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9990,\"rarityRank\":942,\"attributes\":[{\"body\":{\"value\":\"Brown\",\"count\":541}},{\"origin\":{\"value\":\"Genesis\",\"count\":3333}},{\"eyes\":{\"value\":\"Vegas Glasses\",\"count\":138}},{\"hat\":{\"value\":\"Pink Durag\",\"count\":28}},{\"background\":{\"value\":\"Olive\",\"count\":1042}}]}}"
+  },
+  {
+    "collectionId": "kaijukingz",
+    "tokenId": 2442,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/kaijukingz/tokens/2442/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9990,\"rarityRank\":4929,\"attributes\":[{\"origin\":{\"value\":\"Genesis\",\"count\":3333}},{\"mouth\":{\"value\":\"Cigar\",\"count\":336}},{\"body\":{\"value\":\"Purple\",\"count\":159}},{\"eyes\":{\"value\":\"sad\",\"count\":260}},{\"neck\":{\"value\":\"Squat Hoodie\",\"count\":167}},{\"background\":{\"value\":\"Sky Blue\",\"count\":625}}]}}"
+  },
+  {
+    "collectionId": "cool-pets",
+    "tokenId": 90,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cool-pets/tokens/90/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":18884,\"rarityRank\":5648,\"attributes\":[{\"stage\":{\"value\":\"Egg\",\"count\":13038}}]}}"
+  },
+  {
+    "collectionId": "cool-pets",
+    "tokenId": 4300,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cool-pets/tokens/4300/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":18884,\"rarityRank\":8129,\"attributes\":[{\"stage\":{\"value\":\"Egg\",\"count\":13038}}]}}"
+  },
+  {
+    "collectionId": "cool-pets",
+    "tokenId": 116,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cool-pets/tokens/116/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":18884,\"rarityRank\":3323,\"attributes\":[{\"stage\":{\"value\":\"Two\",\"count\":2200}}]}}"
+  },
+  {
+    "collectionId": "cool-pets",
+    "tokenId": 12309,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cool-pets/tokens/12309/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":18884,\"rarityRank\":969,\"attributes\":[{\"element\":{\"value\":\"Water\",\"count\":359}},{\"face\":{\"value\":\"Glossy\",\"count\":63}},{\"body\":{\"value\":\"blobs\",\"count\":207}},{\"stage\":{\"value\":\"final_form\",\"count\":1692}},{\"hat\":{\"value\":\"cat\",\"count\":45}},{\"back\":{\"value\":\"cat\",\"count\":89}},{\"chest\":{\"value\":\"Diamonds\",\"count\":73}},{\"arms\":{\"value\":\"tentacle\",\"count\":32}}]}}"
+  },
+  {
+    "collectionId": "cool-pets",
+    "tokenId": 18837,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cool-pets/tokens/18837/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":18884,\"rarityRank\":17661,\"attributes\":[{\"stage\":{\"value\":\"Egg\",\"count\":13038}}]}}"
+  },
+  {
+    "collectionId": "cyberbrokers",
+    "tokenId": 7174,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cyberbrokers/tokens/7174/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10001,\"rarityRank\":944,\"attributes\":[{\"pants\":{\"value\":\"Orange Speedy\",\"count\":47}},{\"external_url\":{\"value\":\"https://cyberbrokers.io/\",\"count\":9976}},{\"hat\":{\"value\":\"Slice\",\"count\":71}},{\"species\":{\"value\":\"Human\",\"count\":9751}},{\"class\":{\"value\":\"Services\",\"count\":1749}},{\"hair\":{\"value\":\"Mellow Yellow\",\"count\":45}},{\"tops\":{\"value\":\"FREE FOR ALL\",\"count\":126}},{\"markings\":{\"value\":\"Shadow\",\"count\":310}},{\"hands\":{\"value\":\"courier\",\"count\":288}},{\"hands\":{\"value\":\"Go\",\"count\":20}},{\"talent\":{\"value\":\"courier\",\"count\":274}},{\"sling\":{\"value\":\"Courier Green\",\"count\":101}}]}}"
+  },
+  {
+    "collectionId": "cyberbrokers",
+    "tokenId": 5874,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cyberbrokers/tokens/5874/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10001,\"rarityRank\":835,\"attributes\":[{\"back\":{\"value\":\"Friller\",\"count\":92}},{\"class\":{\"value\":\"Creators\",\"count\":1010}},{\"tops\":{\"value\":\"Silver Mist\",\"count\":131}},{\"necklace\":{\"value\":\"Sky's The Limit\",\"count\":41}},{\"external_url\":{\"value\":\"https://cyberbrokers.io/\",\"count\":9976}},{\"hair\":{\"value\":\"Over The Eye Swoop\",\"count\":55}},{\"accessory\":{\"value\":\"Clouds\",\"count\":25}},{\"species\":{\"value\":\"Human\",\"count\":9751}},{\"jumpsuit\":{\"value\":\"Warm Clouds\",\"count\":71}},{\"talent\":{\"value\":\"Dreamer\",\"count\":218}}]}}"
+  },
+  {
+    "collectionId": "cyberbrokers",
+    "tokenId": 2201,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cyberbrokers/tokens/2201/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10001,\"rarityRank\":7055,\"attributes\":[{\"external_url\":{\"value\":\"https://cyberbrokers.io/\",\"count\":9976}},{\"pants\":{\"value\":\"Ready for Action\",\"count\":115}},{\"mask\":{\"value\":\"BTC\",\"count\":75}},{\"tops\":{\"value\":\"mermaid\",\"count\":408}},{\"necklace\":{\"value\":\"Tie Down\",\"count\":373}},{\"species\":{\"value\":\"Human\",\"count\":9751}},{\"hat\":{\"value\":\"Gunter\",\"count\":147}},{\"outerwear\":{\"value\":\"Hide and Seek\",\"count\":120}},{\"class\":{\"value\":\"Explorers\",\"count\":1942}},{\"talent\":{\"value\":\"Gunter\",\"count\":373}}]}}"
+  },
+  {
+    "collectionId": "cyberbrokers",
+    "tokenId": 9809,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cyberbrokers/tokens/9809/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10001,\"rarityRank\":9213,\"attributes\":[{\"hair\":{\"value\":\"Short\",\"count\":107}},{\"underwear\":{\"value\":\"Navy Strap\",\"count\":533}},{\"tops\":{\"value\":\"Rust\",\"count\":169}},{\"hat\":{\"value\":\"Solver\",\"count\":226}},{\"necklace\":{\"value\":\"Tie Down\",\"count\":373}},{\"pants\":{\"value\":\"Ready for Action Shorts\",\"count\":158}},{\"species\":{\"value\":\"Human\",\"count\":9751}},{\"external_url\":{\"value\":\"https://cyberbrokers.io/\",\"count\":9976}},{\"class\":{\"value\":\"Explorers\",\"count\":1942}},{\"talent\":{\"value\":\"Gunter\",\"count\":373}}]}}"
+  },
+  {
+    "collectionId": "cyberbrokers",
+    "tokenId": 7218,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cyberbrokers/tokens/7218/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10001,\"rarityRank\":2104,\"attributes\":[{\"helmet\":{\"value\":\"Snow Crash\",\"count\":205}},{\"talent\":{\"value\":\"SNOWCRASHED\",\"count\":204}},{\"tops\":{\"value\":\"Sunday Straps\",\"count\":40}},{\"belts\":{\"value\":\"Technician\",\"count\":23}},{\"pants\":{\"value\":\"Avalanche\",\"count\":199}},{\"external_url\":{\"value\":\"https://cyberbrokers.io/\",\"count\":9976}},{\"underwear\":{\"value\":\"Charcoal\",\"count\":1679}},{\"outerwear\":{\"value\":\"Carving\",\"count\":122}},{\"bracelet\":{\"value\":\"Foil\",\"count\":513}},{\"species\":{\"value\":\"Human\",\"count\":9751}},{\"class\":{\"value\":\"Explorers\",\"count\":1942}},{\"facial piercing\":{\"value\":\"Piercing\",\"count\":177}},{\"hair\":{\"value\":\"Drape\",\"count\":125}}]}}"
+  },
+  {
+    "collectionId": "book-games",
+    "tokenId": 55796,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/book-games/tokens/55796/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-a56f88a8754d8c3ebc07e647b11f0990-707c2336e75b9574-00\"}"
+  },
+  {
+    "collectionId": "book-games",
+    "tokenId": 119475,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/book-games/tokens/119475/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-742ac7fbd432953a721f4458c25bb56e-47ac18c782097b07-00\"}"
+  },
+  {
+    "collectionId": "book-games",
+    "tokenId": 77230,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/book-games/tokens/77230/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-69386a69126ecbc05d0e6a97bb88e008-a1afcd1258d1b5b8-00\"}"
+  },
+  {
+    "collectionId": "book-games",
+    "tokenId": 101353,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/book-games/tokens/101353/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-7a60bda3af2f819d9dcab819b92e1b20-c453c8897499547c-00\"}"
+  },
+  {
+    "collectionId": "book-games",
+    "tokenId": 47396,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/book-games/tokens/47396/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-3fc75f411109c8413d5d7b63cda64fa2-f61e98fa4e40eb2e-00\"}"
+  },
+  {
+    "collectionId": "prime-ape-planet",
+    "tokenId": 1728,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/prime-ape-planet/tokens/1728/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":7979,\"rarityRank\":2675,\"attributes\":[{\"clothing\":{\"value\":\"Basketball Shirt Green\",\"count\":121}},{\"eyes\":{\"value\":\"Green\",\"count\":435}},{\"hat\":{\"value\":\"Cap Backwards Biege\",\"count\":114}},{\"necklace\":{\"value\":\"Headphones Black\",\"count\":144}},{\"emotion\":{\"value\":\"Serious\",\"count\":1411}},{\"skin\":{\"value\":\"zebra\",\"count\":407}}]}}"
+  },
+  {
+    "collectionId": "prime-ape-planet",
+    "tokenId": 1330,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/prime-ape-planet/tokens/1330/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":7979,\"rarityRank\":3905,\"attributes\":[{\"eyes\":{\"value\":\"Brown\",\"count\":1019}},{\"glasses\":{\"value\":\"Glasses Sun\",\"count\":227}},{\"hat\":{\"value\":\"Ski Bobble Black\",\"count\":95}},{\"necklace\":{\"value\":\"Spiritual Silver\",\"count\":140}},{\"emotion\":{\"value\":\"excited\",\"count\":1430}},{\"teeth\":{\"value\":\"white\",\"count\":2036}},{\"skin\":{\"value\":\"white\",\"count\":587}}]}}"
+  },
+  {
+    "collectionId": "prime-ape-planet",
+    "tokenId": 3987,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/prime-ape-planet/tokens/3987/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":7979,\"rarityRank\":4941,\"attributes\":[{\"clothing\":{\"value\":\"Hoodie White\",\"count\":182}},{\"eyes\":{\"value\":\"Turquoise\",\"count\":574}},{\"glasses\":{\"value\":\"Glasses Sun\",\"count\":227}},{\"hat\":{\"value\":\"Bucket Hat Red\",\"count\":148}},{\"emotion\":{\"value\":\"excited\",\"count\":1430}},{\"teeth\":{\"value\":\"white\",\"count\":2036}},{\"skin\":{\"value\":\"Panda\",\"count\":549}}]}}"
+  },
+  {
+    "collectionId": "prime-ape-planet",
+    "tokenId": 5887,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/prime-ape-planet/tokens/5887/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":7979,\"rarityRank\":882,\"attributes\":[{\"clothing\":{\"value\":\"Suit Blue\",\"count\":103}},{\"hat\":{\"value\":\"Cap Backwards Biege\",\"count\":114}},{\"skin\":{\"value\":\"Lizard\",\"count\":79}}]}}"
+  },
+  {
+    "collectionId": "prime-ape-planet",
+    "tokenId": 7495,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/prime-ape-planet/tokens/7495/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":7979,\"rarityRank\":444,\"attributes\":[{\"clothing\":{\"value\":\"Sweater Silver\",\"count\":72}},{\"hat\":{\"value\":\"Squid Green\",\"count\":54}},{\"skin\":{\"value\":\"rock\",\"count\":186}}]}}"
+  },
+  {
+    "collectionId": "kaiju-kingz",
+    "tokenId": 1981,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/kaiju-kingz/tokens/1981/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-fff160787c10c28c83e75640d2bfbef7-9e76b52281cf17db-00\"}"
+  },
+  {
+    "collectionId": "kaiju-kingz",
+    "tokenId": 2442,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/kaiju-kingz/tokens/2442/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-1b139102afddc5499e1b5daec66263f8-dec8d9006df4d733-00\"}"
+  },
+  {
+    "collectionId": "kaiju-kingz",
+    "tokenId": 4585,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/kaiju-kingz/tokens/4585/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-aa932af69c5134d3cb37c5919adf4fa4-129518083364dbcd-00\"}"
+  },
+  {
+    "collectionId": "kaiju-kingz",
+    "tokenId": 2403,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/kaiju-kingz/tokens/2403/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-3aaf32c931c92c4018a357abebb2eb07-ba398800feb3faff-00\"}"
+  },
+  {
+    "collectionId": "kaiju-kingz",
+    "tokenId": 8867,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/kaiju-kingz/tokens/8867/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-2e6bf720a2bbcbf609a929b4e0411b59-919d7b43c2c30331-00\"}"
+  },
+  {
+    "collectionId": "deadfellaz",
+    "tokenId": 4030,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/deadfellaz/tokens/4030/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":7044,\"attributes\":[{\"body\":{\"value\":\"Tee With Vest\",\"count\":234}},{\"eyes\":{\"value\":\"Lazy \",\"count\":594}},{\"mouth grade\":{\"value\":\"Fresh\",\"count\":3983}},{\"eyes grade\":{\"value\":\"Fresh\",\"count\":3950}},{\"background\":{\"value\":\"Pink\",\"count\":1505}},{\"head grade\":{\"value\":\"Fresh\",\"count\":3904}},{\"head\":{\"value\":\"Space Buns\",\"count\":346}},{\"nose grade\":{\"value\":\"Damaged\",\"count\":3467}},{\"body grade\":{\"value\":\"Damaged\",\"count\":3471}},{\"mouth\":{\"value\":\"Fang\",\"count\":808}},{\"nose\":{\"value\":\"Nose Bleeding\",\"count\":1754}}]}}"
+  },
+  {
+    "collectionId": "deadfellaz",
+    "tokenId": 4031,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/deadfellaz/tokens/4031/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":7705,\"attributes\":[{\"eyes\":{\"value\":\"Mutant\",\"count\":576}},{\"body grade\":{\"value\":\"Rotten\",\"count\":2479}},{\"nose grade\":{\"value\":\"Damaged\",\"count\":3467}},{\"eyes grade\":{\"value\":\"Rotten\",\"count\":2522}},{\"mouth\":{\"value\":\"Smiley\",\"count\":779}},{\"nose\":{\"value\":\"Nose Broken\",\"count\":1713}},{\"body\":{\"value\":\"Denim Dungarees\",\"count\":240}},{\"head\":{\"value\":\"Box Fade\",\"count\":347}},{\"mouth grade\":{\"value\":\"Fresh\",\"count\":3983}},{\"background\":{\"value\":\"Blue\",\"count\":3037}},{\"head grade\":{\"value\":\"Fresh\",\"count\":3904}}]}}"
+  },
+  {
+    "collectionId": "deadfellaz",
+    "tokenId": 1024,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/deadfellaz/tokens/1024/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":4,\"attributes\":[{\"background\":{\"value\":\"Purple\",\"count\":1502}},{\"body\":{\"value\":\"Dark Grey Brand Tee\",\"count\":216}},{\"head\":{\"value\":\"High Slick\",\"count\":324}},{\"body grade\":{\"value\":\"Damaged\",\"count\":3471}},{\"mouth\":{\"value\":\"Mo\",\"count\":752}},{\"head grade\":{\"value\":\"Damaged\",\"count\":3530}},{\"eyes\":{\"value\":\"Bright\",\"count\":562}},{\"mouth grade\":{\"value\":\"Rotten\",\"count\":2492}},{\"nose grade\":{\"value\":\"Damaged\",\"count\":3467}},{\"eyes grade\":{\"value\":\"Rotten\",\"count\":2522}},{\"nose\":{\"value\":\"Bleeding\",\"count\":8}},{\"nose\":{\"value\":\"Nose Bleeding\",\"count\":1754}},{\"grade combo\":{\"value\":\"R2D3\",\"count\":1}}]}}"
+  },
+  {
+    "collectionId": "deadfellaz",
+    "tokenId": 2382,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/deadfellaz/tokens/2382/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":426,\"attributes\":[{\"body grade\":{\"value\":\"Rotten\",\"count\":2479}},{\"eyes grade\":{\"value\":\"Rotten\",\"count\":2522}},{\"body\":{\"value\":\"Purple Buttonup\",\"count\":199}},{\"background\":{\"value\":\"Blue\",\"count\":3037}},{\"head grade\":{\"value\":\"Rotten\",\"count\":2566}},{\"nose\":{\"value\":\"Nose Bleeding\",\"count\":1754}},{\"eyes\":{\"value\":\"Demon\",\"count\":549}},{\"head\":{\"value\":\"Bantu Knot\",\"count\":343}},{\"mouth grade\":{\"value\":\"Damaged\",\"count\":3525}},{\"nose grade\":{\"value\":\"Damaged\",\"count\":3467}},{\"mouth\":{\"value\":\"Glum\",\"count\":776}}]}}"
+  },
+  {
+    "collectionId": "deadfellaz",
+    "tokenId": 9378,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/deadfellaz/tokens/9378/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":2319,\"attributes\":[{\"head grade\":{\"value\":\"Damaged\",\"count\":3530}},{\"mouth grade\":{\"value\":\"Damaged\",\"count\":3525}},{\"body\":{\"value\":\"BLACK HOODIE\",\"count\":220}},{\"head\":{\"value\":\"Slick\",\"count\":312}},{\"body grade\":{\"value\":\"Fresh\",\"count\":4050}},{\"mouth\":{\"value\":\"Toothy\",\"count\":748}},{\"eyes\":{\"value\":\"reptile\",\"count\":568}},{\"nose grade\":{\"value\":\"Rotten\",\"count\":2474}},{\"eyes grade\":{\"value\":\"Rotten\",\"count\":2522}},{\"background\":{\"value\":\"Orange\",\"count\":2952}},{\"nose\":{\"value\":\"Nose Skull\",\"count\":2473}}]}}"
+  },
+  {
+    "collectionId": "Goblintown",
+    "tokenId": 9873,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/Goblintown/tokens/9873/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9999,\"rarityRank\":8367,\"attributes\":[{\"hedz\":{\"value\":\"avvokado\",\"count\":578}},{\"eyz on dis side\":{\"value\":\"eeeeeediot\",\"count\":395}},{\"boddee\":{\"value\":\"dawwww\",\"count\":610}},{\"munchyhole\":{\"value\":\"mouffs\",\"count\":452}},{\"eers\":{\"value\":\"earz\",\"count\":678}},{\"stankfinder\":{\"value\":\"udder pointy kind\",\"count\":505}},{\"collrzes\":{\"value\":\"rottn elfboddie\",\"count\":585}},{\"eye on dat side\":{\"value\":\"peep\",\"count\":401}}]}}"
+  },
+  {
+    "collectionId": "Goblintown",
+    "tokenId": 4059,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/Goblintown/tokens/4059/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9999,\"rarityRank\":5363,\"attributes\":[{\"stankfinder\":{\"value\":\"ouchie\",\"count\":488}},{\"eyz on dis side\":{\"value\":\"grekd\",\"count\":303}},{\"collrzes\":{\"value\":\"fLEsh stik\",\"count\":798}},{\"munchyhole\":{\"value\":\"bleebleebloobloo\",\"count\":400}},{\"eers\":{\"value\":\"earz\",\"count\":678}},{\"hedz\":{\"value\":\"avvokado\",\"count\":578}},{\"boddee\":{\"value\":\"fansee\",\"count\":512}},{\"eye on dat side\":{\"value\":\"don lookitme\",\"count\":387}}]}}"
+  },
+  {
+    "collectionId": "Goblintown",
+    "tokenId": 1028,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/Goblintown/tokens/1028/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9999,\"rarityRank\":5519,\"attributes\":[{\"collrzes\":{\"value\":\"darkerer\",\"count\":590}},{\"boddee\":{\"value\":\"dat spase soot gots holes\",\"count\":524}},{\"eyz on dis side\":{\"value\":\"upside downside\",\"count\":307}},{\"eers\":{\"value\":\"EERS\",\"count\":1288}},{\"hedz\":{\"value\":\"wart top\",\"count\":621}},{\"stankfinder\":{\"value\":\"goz down\",\"count\":520}},{\"munchyhole\":{\"value\":\"oobie doo\",\"count\":484}},{\"eye on dat side\":{\"value\":\"look dis way\",\"count\":282}}]}}"
+  },
+  {
+    "collectionId": "Goblintown",
+    "tokenId": 6049,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/Goblintown/tokens/6049/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9999,\"rarityRank\":170,\"attributes\":[{\"boddee\":{\"value\":\"dat spase soot gots holes\",\"count\":524}},{\"eyz on dis side\":{\"value\":\"eeep\",\"count\":309}},{\"collrzes\":{\"value\":\"bloody milk yumm\",\"count\":731}},{\"munchyhole\":{\"value\":\"mrnnhrhmn\",\"count\":397}},{\"eers\":{\"value\":\"buttfly eerz\",\"count\":92}},{\"hedz\":{\"value\":\"deflateded\",\"count\":609}},{\"eye on dat side\":{\"value\":\"not enthuzd\",\"count\":381}},{\"stankfinder\":{\"value\":\"kwaigun\",\"count\":356}}]}}"
+  },
+  {
+    "collectionId": "Goblintown",
+    "tokenId": 1342,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/Goblintown/tokens/1342/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9999,\"rarityRank\":4518,\"attributes\":[{\"eyz on dis side\":{\"value\":\"teeny peephoal\",\"count\":276}},{\"boddee\":{\"value\":\"yur mom\",\"count\":489}},{\"collrzes\":{\"value\":\"stupid color\",\"count\":600}},{\"munchyhole\":{\"value\":\"aaaabaaaaabbbaaa\",\"count\":485}},{\"eye on dat side\":{\"value\":\"gathp\",\"count\":398}},{\"hedz\":{\"value\":\"bierdy\",\"count\":612}},{\"eers\":{\"value\":\"floaty eerz\",\"count\":592}},{\"stankfinder\":{\"value\":\"udder pointy kind\",\"count\":505}}]}}"
+  },
+  {
+    "collectionId": "world-of-women-galaxy",
+    "tokenId": 21861,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/world-of-women-galaxy/tokens/21861/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":21448,\"rarityRank\":607,\"attributes\":[{\"skin tone\":{\"value\":\"Medium Gold\",\"count\":1919}},{\"earrings\":{\"value\":\"Lunar Rings\",\"count\":1734}},{\"eyes\":{\"value\":\"Hypnotic Right\",\"count\":1088}},{\"face accessories\":{\"value\":\"AR Glasses\",\"count\":457}},{\"necklace\":{\"value\":\"Potion Seller\",\"count\":233}},{\"background\":{\"value\":\"Purple Blue Spikes\",\"count\":1888}},{\"clothes\":{\"value\":\"Neoprene Bodysuit\",\"count\":1320}},{\"lips color\":{\"value\":\"Celebration\",\"count\":430}},{\"hairstyle\":{\"value\":\"Enchanted Turban\",\"count\":439}},{\"implants\":{\"value\":\"Steel Force Bindings\",\"count\":2758}},{\"mouth\":{\"value\":\"Munching\",\"count\":1876}}]}}"
+  },
+  {
+    "collectionId": "world-of-women-galaxy",
+    "tokenId": 9776,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/world-of-women-galaxy/tokens/9776/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":21448,\"rarityRank\":5331,\"attributes\":[{\"skin tone\":{\"value\":\"Light Warm Yellow\",\"count\":2028}},{\"mouth\":{\"value\":\"Kiss\",\"count\":1889}},{\"earrings\":{\"value\":\"Double Gold Hoops\",\"count\":1048}},{\"facial features\":{\"value\":\"Feathers Of Resilience\",\"count\":656}},{\"hairstyle\":{\"value\":\"Sugar Rush\",\"count\":1252}},{\"implants\":{\"value\":\"Steel Force Bindings\",\"count\":2758}},{\"clothes\":{\"value\":\"Star Hunter\",\"count\":839}},{\"eyes\":{\"value\":\"Golden Cyborg Eye Roll\",\"count\":385}},{\"lips color\":{\"value\":\"Blue\",\"count\":3784}},{\"necklace\":{\"value\":\"Synthetic Thorns\",\"count\":476}},{\"background\":{\"value\":\"Wave\",\"count\":1964}}]}}"
+  },
+  {
+    "collectionId": "world-of-women-galaxy",
+    "tokenId": 2562,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/world-of-women-galaxy/tokens/2562/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":21448,\"rarityRank\":6684,\"attributes\":[{\"clothes\":{\"value\":\"Sand Queen\",\"count\":1346}},{\"lips color\":{\"value\":\"Rust\",\"count\":5411}},{\"facial features\":{\"value\":\"Turquoise\",\"count\":617}},{\"necklace\":{\"value\":\"Traveler\",\"count\":425}},{\"background\":{\"value\":\"Pink V\",\"count\":1937}},{\"skin tone\":{\"value\":\"Medium Olive\",\"count\":1952}},{\"eyes\":{\"value\":\"Hypnotic Right\",\"count\":1088}},{\"hairstyle\":{\"value\":\"Big Burgundy\",\"count\":426}},{\"implants\":{\"value\":\"Alu Threads\",\"count\":2670}},{\"mouth\":{\"value\":\"Down To Business\",\"count\":3543}}]}}"
+  },
+  {
+    "collectionId": "world-of-women-galaxy",
+    "tokenId": 15505,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/world-of-women-galaxy/tokens/15505/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":21448,\"rarityRank\":13,\"attributes\":[{\"guardian\":{\"value\":\"True\",\"count\":8}}]}}"
+  },
+  {
+    "collectionId": "world-of-women-galaxy",
+    "tokenId": 13889,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/world-of-women-galaxy/tokens/13889/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":21448,\"rarityRank\":11835,\"attributes\":[{\"facial features\":{\"value\":\"Feathers Of Resilience\",\"count\":656}},{\"necklace\":{\"value\":\"Creators\",\"count\":911}},{\"clothes\":{\"value\":\"Fiery Corset\",\"count\":1250}},{\"earrings\":{\"value\":\"Recycled\",\"count\":1644}},{\"background\":{\"value\":\"Green Blue Circles\",\"count\":1942}},{\"skin tone\":{\"value\":\"Deep Neutral\",\"count\":1991}},{\"eyes\":{\"value\":\"Hypnotic Right\",\"count\":1088}},{\"lips color\":{\"value\":\"Peachy\",\"count\":1907}},{\"hairstyle\":{\"value\":\"Bald And Bold\",\"count\":422}},{\"implants\":{\"value\":\"Space Crystals\",\"count\":2636}},{\"mouth\":{\"value\":\"Slightly Open\",\"count\":3705}}]}}"
+  },
+  {
+    "collectionId": "thedogepound",
+    "tokenId": 4767,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/thedogepound/tokens/4767/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":4587,\"attributes\":[{\"tokenuri\":{\"value\":\"None\",\"count\":9999}}]}}"
+  },
+  {
+    "collectionId": "thedogepound",
+    "tokenId": 1094,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/thedogepound/tokens/1094/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":993,\"attributes\":[{\"tokenuri\":{\"value\":\"None\",\"count\":9999}}]}}"
+  },
+  {
+    "collectionId": "thedogepound",
+    "tokenId": 8192,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/thedogepound/tokens/8192/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":8012,\"attributes\":[{\"tokenuri\":{\"value\":\"None\",\"count\":9999}}]}}"
+  },
+  {
+    "collectionId": "thedogepound",
+    "tokenId": 9926,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/thedogepound/tokens/9926/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":9746,\"attributes\":[{\"tokenuri\":{\"value\":\"None\",\"count\":9999}}]}}"
+  },
+  {
+    "collectionId": "thedogepound",
+    "tokenId": 8881,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/thedogepound/tokens/8881/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":8701,\"attributes\":[{\"tokenuri\":{\"value\":\"None\",\"count\":9999}}]}}"
+  },
+  {
+    "collectionId": "webbland1",
+    "tokenId": 8500,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/webbland1/tokens/8500/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9508,\"rarityRank\":1305,\"attributes\":[{\"type\":{\"value\":\"large apartment\",\"count\":1050}}]}}"
+  },
+  {
+    "collectionId": "webbland1",
+    "tokenId": 8446,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/webbland1/tokens/8446/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9508,\"rarityRank\":1407,\"attributes\":[{\"type\":{\"value\":\"large apartment\",\"count\":1050}}]}}"
+  },
+  {
+    "collectionId": "webbland1",
+    "tokenId": 8695,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/webbland1/tokens/8695/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9508,\"rarityRank\":1962,\"attributes\":[{\"type\":{\"value\":\"large apartment\",\"count\":1050}}]}}"
+  },
+  {
+    "collectionId": "webbland1",
+    "tokenId": 1288,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/webbland1/tokens/1288/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9508,\"rarityRank\":718,\"attributes\":[{\"type\":{\"value\":\"small apartment\",\"count\":5200}}]}}"
+  },
+  {
+    "collectionId": "webbland1",
+    "tokenId": 3930,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/webbland1/tokens/3930/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9508,\"rarityRank\":7825,\"attributes\":[{\"type\":{\"value\":\"small apartment\",\"count\":5200}}]}}"
+  },
+  {
+    "collectionId": "chubbies",
+    "tokenId": 8233,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/chubbies/tokens/8233/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":4705,\"attributes\":[{\"face\":{\"value\":\"o_o Blushed\",\"count\":769}},{\"set\":{\"value\":\"Nah\",\"count\":5519}},{\"hairstyle\":{\"value\":\"Afro\",\"count\":852}},{\"background\":{\"value\":\"Lavender Blue\",\"count\":412}},{\"top costume\":{\"value\":\"monkey\",\"count\":742}},{\"method\":{\"value\":\"Natural\",\"count\":7511}},{\"bottom race\":{\"value\":\"cat\",\"count\":357}},{\"cat color type\":{\"value\":\"black\",\"count\":337}},{\"head race\":{\"value\":\"Human\",\"count\":3478}},{\"human skin tone\":{\"value\":\"Brown\",\"count\":1433}}]}}"
+  },
+  {
+    "collectionId": "chubbies",
+    "tokenId": 8241,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/chubbies/tokens/8241/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":1765,\"attributes\":[{\"bottom costume\":{\"value\":\"pig\",\"count\":295}},{\"face\":{\"value\":\"|_| Blushed\",\"count\":781}},{\"set\":{\"value\":\"Nah\",\"count\":5519}},{\"accessories\":{\"value\":\"Crown\",\"count\":205}},{\"background\":{\"value\":\"Indigo\",\"count\":416}},{\"top costume\":{\"value\":\"Apple\",\"count\":217}},{\"token\":{\"value\":\"Heart\",\"count\":1146}},{\"method\":{\"value\":\"Natural\",\"count\":7511}},{\"head race\":{\"value\":\"monkey\",\"count\":708}}]}}"
+  },
+  {
+    "collectionId": "chubbies",
+    "tokenId": 8230,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/chubbies/tokens/8230/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":5324,\"attributes\":[{\"face\":{\"value\":\"|_|\",\"count\":732}},{\"set\":{\"value\":\"Nah\",\"count\":5519}},{\"hairstyle\":{\"value\":\"Long\",\"count\":1578}},{\"background\":{\"value\":\"French Violet\",\"count\":403}},{\"top costume\":{\"value\":\"monkey\",\"count\":742}},{\"method\":{\"value\":\"Natural\",\"count\":7511}},{\"bottom race\":{\"value\":\"Robot\",\"count\":262}},{\"head race\":{\"value\":\"Human\",\"count\":3478}},{\"human skin tone\":{\"value\":\"Medium\",\"count\":1437}}]}}"
+  },
+  {
+    "collectionId": "chubbies",
+    "tokenId": 8258,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/chubbies/tokens/8258/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":3293,\"attributes\":[{\"face\":{\"value\":\"+w+\",\"count\":259}},{\"set\":{\"value\":\"Nah\",\"count\":5519}},{\"background\":{\"value\":\"Lavender Blue\",\"count\":412}},{\"top costume\":{\"value\":\"chicken\",\"count\":542}},{\"method\":{\"value\":\"Natural\",\"count\":7511}},{\"bottom race\":{\"value\":\"Human\",\"count\":2231}},{\"head race\":{\"value\":\"Robot\",\"count\":463}},{\"human bottom\":{\"value\":\"Duck Tube\",\"count\":399}},{\"human skin tone\":{\"value\":\"Light\",\"count\":1372}}]}}"
+  },
+  {
+    "collectionId": "chubbies",
+    "tokenId": 8298,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/chubbies/tokens/8298/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":4783,\"attributes\":[{\"face\":{\"value\":\"cat\",\"count\":657}},{\"set\":{\"value\":\"Nah\",\"count\":5519}},{\"background\":{\"value\":\"Chocolate Web\",\"count\":383}},{\"top costume\":{\"value\":\"monkey\",\"count\":742}},{\"method\":{\"value\":\"Natural\",\"count\":7511}},{\"bottom race\":{\"value\":\"Human\",\"count\":2231}},{\"head race\":{\"value\":\"Squid\",\"count\":232}},{\"human bottom\":{\"value\":\"Jeans\",\"count\":2036}},{\"human skin tone\":{\"value\":\"Light\",\"count\":1372}}]}}"
+  },
+  {
+    "collectionId": "the-doge-pound",
+    "tokenId": 4767,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/the-doge-pound/tokens/4767/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-78724486da669ae8043c78e0eef91163-e4a6035f16498f83-00\"}"
+  },
+  {
+    "collectionId": "the-doge-pound",
+    "tokenId": 1094,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/the-doge-pound/tokens/1094/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-314f037c7c98bbea8a9bf229ec6166a7-465dd23f98f32cba-00\"}"
+  },
+  {
+    "collectionId": "the-doge-pound",
+    "tokenId": 8192,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/the-doge-pound/tokens/8192/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-da69d63d095e3d3ed4190ab2854c7888-df0ee45b6a4e5b4c-00\"}"
+  },
+  {
+    "collectionId": "the-doge-pound",
+    "tokenId": 9926,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/the-doge-pound/tokens/9926/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-a5cbc3278b26a0ad9756901fa7aa1eec-ed8a52a415297ff8-00\"}"
+  },
+  {
+    "collectionId": "the-doge-pound",
+    "tokenId": 8881,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/the-doge-pound/tokens/8881/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-a9ddd945191d75897e631bb5c3f0e1c6-b8b8855bc229eeb5-00\"}"
+  },
+  {
+    "collectionId": "aurorians",
+    "tokenId": 2486,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/aurorians/tokens/2486/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-7cc9d1c988ad334912c03a6ddb4ec3d0-3eeee1d44513a6be-00\"}"
+  },
+  {
+    "collectionId": "aurorians",
+    "tokenId": 9042,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/aurorians/tokens/9042/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-0ce64e4f512ad5e57567edde3a5d3357-8da2a4e2d005f8f6-00\"}"
+  },
+  {
+    "collectionId": "aurorians",
+    "tokenId": 3027,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/aurorians/tokens/3027/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-bbd78b39ddfc85f27c5b5274fcd4a3ce-200e84e3e4b738ca-00\"}"
+  },
+  {
+    "collectionId": "aurorians",
+    "tokenId": 9165,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/aurorians/tokens/9165/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-456f6b1f40bf5ef7e0dbf2eb12b6df2a-059f3d846d180f82-00\"}"
+  },
+  {
+    "collectionId": "aurorians",
+    "tokenId": 4713,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/aurorians/tokens/4713/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-8cc68c10447f9adb55759d765c1328aa-1fe17a20f470290e-00\"}"
+  },
+  {
+    "collectionId": "3landers",
+    "tokenId": 6839,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/3landers/tokens/6839/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":2076,\"attributes\":[{\"mouth\":{\"value\":\"Yum\",\"count\":490}},{\"dna\":{\"value\":\"3L-Bot\",\"count\":1158}},{\"head\":{\"value\":\"Olive 3Landers Bucket Hat\",\"count\":344}},{\"dna type\":{\"value\":\"Metal\",\"count\":400}},{\"background\":{\"value\":\"Gray\",\"count\":132}},{\"vision\":{\"value\":\"Spiral\",\"count\":52}},{\"body\":{\"value\":\"Blue Wave Tee\",\"count\":223}}]}}"
+  },
+  {
+    "collectionId": "3landers",
+    "tokenId": 532,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/3landers/tokens/532/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":713,\"attributes\":[{\"head\":{\"value\":\"Orange Phoenix\",\"count\":24}},{\"mouth\":{\"value\":\"Straight\",\"count\":479}},{\"body\":{\"value\":\"3LW Sweater\",\"count\":185}},{\"dna\":{\"value\":\"Human\",\"count\":4554}},{\"dna type\":{\"value\":\"Tan\",\"count\":956}},{\"vision\":{\"value\":\"Bored\",\"count\":445}},{\"accessory\":{\"value\":\"White Stud\",\"count\":130}},{\"background\":{\"value\":\"mint\",\"count\":445}}]}}"
+  },
+  {
+    "collectionId": "3landers",
+    "tokenId": 9582,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/3landers/tokens/9582/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":8568,\"attributes\":[{\"head\":{\"value\":\"3 Cap\",\"count\":219}},{\"body\":{\"value\":\"Volt Tank Top\",\"count\":381}},{\"dna\":{\"value\":\"Human\",\"count\":4554}},{\"dna type\":{\"value\":\"Tan\",\"count\":956}},{\"mouth\":{\"value\":\"Sharp Tooth\",\"count\":247}},{\"vision\":{\"value\":\"Upset\",\"count\":403}},{\"background\":{\"value\":\"Skyblue\",\"count\":320}}]}}"
+  },
+  {
+    "collectionId": "3landers",
+    "tokenId": 8047,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/3landers/tokens/8047/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":8961,\"attributes\":[{\"dna type\":{\"value\":\"Polkadot\",\"count\":300}},{\"dna\":{\"value\":\"Human\",\"count\":4554}},{\"body\":{\"value\":\"LFG Tee\",\"count\":262}},{\"head\":{\"value\":\"Fren Bowler Hat\",\"count\":376}},{\"mouth\":{\"value\":\"Grin\",\"count\":264}},{\"vision\":{\"value\":\"twinkle\",\"count\":416}},{\"background\":{\"value\":\"Blue\",\"count\":1134}}]}}"
+  },
+  {
+    "collectionId": "3landers",
+    "tokenId": 7088,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/3landers/tokens/7088/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":8423,\"attributes\":[{\"mouth\":{\"value\":\"Rrr\",\"count\":495}},{\"body\":{\"value\":\"White 3Landers Sweater\",\"count\":328}},{\"head\":{\"value\":\"3 Cap\",\"count\":219}},{\"dna\":{\"value\":\"ape\",\"count\":2650}},{\"dna type\":{\"value\":\"teal\",\"count\":411}},{\"vision\":{\"value\":\"Clutz\",\"count\":238}},{\"background\":{\"value\":\"Green\",\"count\":550}}]}}"
+  },
+  {
+    "collectionId": "the-n-project",
+    "tokenId": 2774,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/the-n-project/tokens/2774/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-c2ec80b73d285edcc9ac7819f2b55398-82a1766650cdbf4c-00\"}"
+  },
+  {
+    "collectionId": "the-n-project",
+    "tokenId": 5560,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/the-n-project/tokens/5560/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-ee4e3eb7954c10623890569fc87413b7-3d5332bf4dd423d4-00\"}"
+  },
+  {
+    "collectionId": "the-n-project",
+    "tokenId": 2697,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/the-n-project/tokens/2697/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-ff9087214d0723b99d9db457851034f2-694e0b7abeb3423c-00\"}"
+  },
+  {
+    "collectionId": "the-n-project",
+    "tokenId": 3889,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/the-n-project/tokens/3889/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-b395a98dd1e29a6692103a4183cf0272-81a6cede3b3af109-00\"}"
+  },
+  {
+    "collectionId": "the-n-project",
+    "tokenId": 2210,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/the-n-project/tokens/2210/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-f67bbc12d6ced957356e0b8c55ade5d1-2d3120018ef1c52a-00\"}"
+  },
+  {
+    "collectionId": "v1-cryptopunks-wrapped",
+    "tokenId": 1544,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/v1-cryptopunks-wrapped/tokens/1544/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-047100f59a6394a75b9d39d46cc1ecb1-58563b0878c2a8f9-00\"}"
+  },
+  {
+    "collectionId": "v1-cryptopunks-wrapped",
+    "tokenId": 8797,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/v1-cryptopunks-wrapped/tokens/8797/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":4896,\"rarityRank\":1303,\"attributes\":[{\"hair\":{\"value\":\"Half Shaved\",\"count\":60}},{\"mouth\":{\"value\":\"Black Lipstick\",\"count\":279}},{\"body\":{\"value\":\"Female\",\"count\":1506}},{\"eyes\":{\"value\":\"Clown Eyes Blue\",\"count\":161}},{\"mouth ext.\":{\"value\":\"Cigarette\",\"count\":369}}]}}"
+  },
+  {
+    "collectionId": "v1-cryptopunks-wrapped",
+    "tokenId": 1372,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/v1-cryptopunks-wrapped/tokens/1372/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-172945a1dd5668a4ded6746ebae25511-4b59e4ff7c6e6a18-00\"}"
+  },
+  {
+    "collectionId": "v1-cryptopunks-wrapped",
+    "tokenId": 4280,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/v1-cryptopunks-wrapped/tokens/4280/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":4896,\"rarityRank\":1559,\"attributes\":[{\"mouth\":{\"value\":\"Shadow Beard\",\"count\":211}},{\"eyes\":{\"value\":\"Regular Shades\",\"count\":218}},{\"body\":{\"value\":\"Male\",\"count\":2593}},{\"frown\":{\"value\":\"Yes\",\"count\":116}},{\"hat\":{\"value\":\"Cap Forward\",\"count\":125}}]}}"
+  },
+  {
+    "collectionId": "v1-cryptopunks-wrapped",
+    "tokenId": 5521,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/v1-cryptopunks-wrapped/tokens/5521/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":4896,\"rarityRank\":3867,\"attributes\":[{\"body\":{\"value\":\"Male\",\"count\":2593}},{\"eyes\":{\"value\":\"Eye Patch\",\"count\":211}},{\"hat\":{\"value\":\"Bandana\",\"count\":254}}]}}"
+  },
+  {
+    "collectionId": "alienfrens",
+    "tokenId": 1696,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/alienfrens/tokens/1696/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":3376,\"attributes\":[{\"body\":{\"value\":\"Lochias\",\"count\":1990}},{\"clothes\":{\"value\":\"Scarf Blue Yellow\",\"count\":125}},{\"eyes\":{\"value\":\"Angry\",\"count\":300}},{\"hats\":{\"value\":\"Claw Machine\",\"count\":300}},{\"mouth\":{\"value\":\"Black Beard\",\"count\":299}},{\"background\":{\"value\":\"Blue\",\"count\":799}}]}}"
+  },
+  {
+    "collectionId": "alienfrens",
+    "tokenId": 1322,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/alienfrens/tokens/1322/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":2975,\"attributes\":[{\"body\":{\"value\":\"Lochias\",\"count\":1990}},{\"clothes\":{\"value\":\"Alien Coat\",\"count\":162}},{\"eyes\":{\"value\":\"xxx Flat\",\"count\":1051}},{\"hats\":{\"value\":\"Yellow Cap\",\"count\":119}},{\"mouth\":{\"value\":\"Black Beard\",\"count\":299}},{\"background\":{\"value\":\"mint\",\"count\":1801}}]}}"
+  },
+  {
+    "collectionId": "alienfrens",
+    "tokenId": 9019,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/alienfrens/tokens/9019/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":8533,\"attributes\":[{\"body\":{\"value\":\"Xenos\",\"count\":3990}},{\"clothes\":{\"value\":\"White Tank\",\"count\":169}},{\"eyes\":{\"value\":\"Oldies\",\"count\":499}},{\"hats\":{\"value\":\"Mustard Beanie\",\"count\":400}},{\"mouth\":{\"value\":\"Goo\",\"count\":1000}},{\"background\":{\"value\":\"Baby Blue\",\"count\":799}}]}}"
+  },
+  {
+    "collectionId": "alienfrens",
+    "tokenId": 2771,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/alienfrens/tokens/2771/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":2414,\"attributes\":[{\"body\":{\"value\":\"Xenos\",\"count\":3990}},{\"clothes\":{\"value\":\"Tattoos\",\"count\":75}},{\"eyes\":{\"value\":\"PEEK A BOO \",\"count\":1050}},{\"hats\":{\"value\":\"Army Helmet\",\"count\":230}},{\"mouth\":{\"value\":\"Cowboy\",\"count\":899}},{\"background\":{\"value\":\"Yellow\",\"count\":800}}]}}"
+  },
+  {
+    "collectionId": "alienfrens",
+    "tokenId": 9705,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/alienfrens/tokens/9705/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":2045,\"attributes\":[{\"body\":{\"value\":\"Xenos\",\"count\":3990}},{\"clothes\":{\"value\":\"Blue GM Hoodie\",\"count\":75}},{\"eyes\":{\"value\":\"Gummy Worms\",\"count\":500}},{\"hats\":{\"value\":\"Nacho Cheese\",\"count\":250}},{\"mouth\":{\"value\":\"Oh No\",\"count\":700}},{\"background\":{\"value\":\"Red\",\"count\":799}}]}}"
+  },
+  {
+    "collectionId": "vox-collectibles",
+    "tokenId": 2566,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/vox-collectibles/tokens/2566/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-21297ea1c5861361cb269249b88409f5-fd491a3d9b938b56-00\"}"
+  },
+  {
+    "collectionId": "vox-collectibles",
+    "tokenId": 2773,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/vox-collectibles/tokens/2773/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-2fb625e0e69b74e2a172635948845765-590f7efdef9850f8-00\"}"
+  },
+  {
+    "collectionId": "vox-collectibles",
+    "tokenId": 5830,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/vox-collectibles/tokens/5830/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-b1fec15e12e5932b69f4473fa9ea8a16-87560e2636f95b55-00\"}"
+  },
+  {
+    "collectionId": "vox-collectibles",
+    "tokenId": 2196,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/vox-collectibles/tokens/2196/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-3a883422c3fa73a9671cda81ec633ed8-d3aa2e1288cca50b-00\"}"
+  },
+  {
+    "collectionId": "vox-collectibles",
+    "tokenId": 4608,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/vox-collectibles/tokens/4608/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-7a7ba9f4d5aa47677aaec8ac2533cd23-37f398ce23cfb87f-00\"}"
+  },
+  {
+    "collectionId": "psychedelics-anonymous-genesis",
+    "tokenId": 3426,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/psychedelics-anonymous-genesis/tokens/3426/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9595,\"rarityRank\":1152,\"attributes\":[{\"head\":{\"value\":\"We Are The Night\",\"count\":499}},{\"element\":{\"value\":\"Golden Epiphany\",\"count\":993}},{\"eyelets\":{\"value\":\"Celestial Purple\",\"count\":498}},{\"hood\":{\"value\":\"Lunar Grey Forest\",\"count\":100}},{\"neck\":{\"value\":\"Midnight Tiger\",\"count\":165}},{\"drawstring\":{\"value\":\"Midnight Black\",\"count\":275}},{\"background\":{\"value\":\"Hazed Horizon\",\"count\":595}},{\"sweatshirt\":{\"value\":\"Acid Yellow Ink\",\"count\":29}},{\"zipper\":{\"value\":\"Crystal Cerebrum\",\"count\":10}}]}}"
+  },
+  {
+    "collectionId": "psychedelics-anonymous-genesis",
+    "tokenId": 7930,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/psychedelics-anonymous-genesis/tokens/7930/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9595,\"rarityRank\":455,\"attributes\":[{\"jacket\":{\"value\":\"Lunar Faction\",\"count\":198}},{\"lapels\":{\"value\":\"Copper Diamond\",\"count\":30}},{\"mask\":{\"value\":\"Golden Revolt XL\",\"count\":25}},{\"element\":{\"value\":\"Golden Atrophy\",\"count\":396}},{\"masked head\":{\"value\":\"Pagan Mycelium\",\"count\":164}},{\"neck\":{\"value\":\"Blood Red Mycelium\",\"count\":250}},{\"background\":{\"value\":\"Crimson Destiny\",\"count\":647}},{\"shirt\":{\"value\":\"Crystal Orchid Connection\",\"count\":75}},{\"tie\":{\"value\":\"Celestial Argon\",\"count\":10}}]}}"
+  },
+  {
+    "collectionId": "psychedelics-anonymous-genesis",
+    "tokenId": 7094,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/psychedelics-anonymous-genesis/tokens/7094/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9595,\"rarityRank\":532,\"attributes\":[{\"mask\":{\"value\":\"Crimson Silver Horns\",\"count\":34}},{\"element\":{\"value\":\"Golden Absolution\",\"count\":499}},{\"eyelets\":{\"value\":\"Golden Silence\",\"count\":548}},{\"hood\":{\"value\":\"Golden Trinity XL\",\"count\":50}},{\"masked head\":{\"value\":\"Scratched Serpent\",\"count\":20}},{\"neck\":{\"value\":\"Argon Neon Cross\",\"count\":184}},{\"drawstring\":{\"value\":\"Pale Pink Complexion\",\"count\":175}},{\"background\":{\"value\":\"Deep Earth\",\"count\":2506}},{\"sweatshirt\":{\"value\":\"Argon Pink Ink\",\"count\":30}},{\"zipper\":{\"value\":\"Silver Magic\",\"count\":35}}]}}"
+  },
+  {
+    "collectionId": "psychedelics-anonymous-genesis",
+    "tokenId": 2615,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/psychedelics-anonymous-genesis/tokens/2615/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9595,\"rarityRank\":5535,\"attributes\":[{\"jacket\":{\"value\":\"Lunar Tiger\",\"count\":75}},{\"lapels\":{\"value\":\"Lunar Diamond\",\"count\":100}},{\"mask\":{\"value\":\"Crimson Gold Horns\",\"count\":35}},{\"masked head\":{\"value\":\"Pagan Earth Mute\",\"count\":179}},{\"neck\":{\"value\":\"Midnight Tiger\",\"count\":165}},{\"background\":{\"value\":\"Deep Earth\",\"count\":2506}},{\"shirt\":{\"value\":\"Midnight Black\",\"count\":546}},{\"tie\":{\"value\":\"Pagan Earth Mycelium\",\"count\":84}}]}}"
+  },
+  {
+    "collectionId": "psychedelics-anonymous-genesis",
+    "tokenId": 3557,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/psychedelics-anonymous-genesis/tokens/3557/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9595,\"rarityRank\":4160,\"attributes\":[{\"jacket\":{\"value\":\"Dark Scratched Copper\",\"count\":80}},{\"lapels\":{\"value\":\"Midnight Black\",\"count\":748}},{\"mask\":{\"value\":\"Pale Pink Filter\",\"count\":15}},{\"element\":{\"value\":\"Fallen Lunar\",\"count\":298}},{\"masked head\":{\"value\":\"Midnight Tiger\",\"count\":151}},{\"neck\":{\"value\":\"Bone white\",\"count\":1000}},{\"background\":{\"value\":\"Hazed Horizon\",\"count\":595}},{\"shirt\":{\"value\":\"Bone Dust\",\"count\":149}},{\"tie\":{\"value\":\"Midnight Black\",\"count\":995}}]}}"
+  },
+  {
+    "collectionId": "vox-series-1",
+    "tokenId": 3357,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/vox-series-1/tokens/3357/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-0b4a8cbc54808e45af2c06a980df39ae-a535762d3821ae02-00\"}"
+  },
+  {
+    "collectionId": "vox-series-1",
+    "tokenId": 6414,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/vox-series-1/tokens/6414/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-daf10823b19f2c7ac48167cd51baea39-c5f12f09e7708eaf-00\"}"
+  },
+  {
+    "collectionId": "vox-series-1",
+    "tokenId": 3150,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/vox-series-1/tokens/3150/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-ff541b5aad21346448ea5bd1f90af9e2-69e2bed769bff35a-00\"}"
+  },
+  {
+    "collectionId": "vox-series-1",
+    "tokenId": 5192,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/vox-series-1/tokens/5192/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-e3db7ab46f0d1df09449a995eb26420d-ce614d1e6dba9a2c-00\"}"
+  },
+  {
+    "collectionId": "vox-series-1",
+    "tokenId": 2780,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/vox-series-1/tokens/2780/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-0969f123849e3d78a42cba471119f392-351e9a46a0c1fea2-00\"}"
+  },
+  {
+    "collectionId": "mad-lads-1",
+    "tokenId": 3917,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mad-lads-1/tokens/3917/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-54ddfc876ca32676824f93dbc1b8aef1-44e01d0450f6e33b-00\"}"
+  },
+  {
+    "collectionId": "mad-lads-1",
+    "tokenId": 6474,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mad-lads-1/tokens/6474/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-e78e1f6c4ecf6dd4fefdfdf130ee89d7-c1ad72955fb5d569-00\"}"
+  },
+  {
+    "collectionId": "mad-lads-1",
+    "tokenId": 9749,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mad-lads-1/tokens/9749/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-e177e2ba89cbc5360baa283039f6ccd0-d4c0d7ce0f16369c-00\"}"
+  },
+  {
+    "collectionId": "mad-lads-1",
+    "tokenId": 3961,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mad-lads-1/tokens/3961/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-28ebc77e0dad5db8605c339305a1665b-965686cf3a96fae9-00\"}"
+  },
+  {
+    "collectionId": "mad-lads-1",
+    "tokenId": 5275,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mad-lads-1/tokens/5275/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-0739ab9bcbe2477ac396ba6071d236fc-8985e2ba7444f7fa-00\"}"
+  },
+  {
+    "collectionId": "superrare",
+    "tokenId": 46976,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/superrare/tokens/46976/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-5e49fdc17d08dcb2fc64dc2ab0cd29d5-173e8ae4285609a2-00\"}"
+  },
+  {
+    "collectionId": "superrare",
+    "tokenId": 47095,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/superrare/tokens/47095/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-233291df295b2926bd6b32d3c7bb437e-7e52f93c27b2ccd0-00\"}"
+  },
+  {
+    "collectionId": "superrare",
+    "tokenId": 46693,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/superrare/tokens/46693/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-ac3db69e64b6388b424a29218e9fc2a9-daaf813f7c6185d4-00\"}"
+  },
+  {
+    "collectionId": "superrare",
+    "tokenId": 47089,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/superrare/tokens/47089/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-a5d1a6b52f3925fa8dbcf070ec39c01c-e1e3c13d5d8a4218-00\"}"
+  },
+  {
+    "collectionId": "superrare",
+    "tokenId": 41419,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/superrare/tokens/41419/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-193b09bf7aeeca330288296792ae991e-90d2a120da078f20-00\"}"
+  },
+  {
+    "collectionId": "veefriends-series-2",
+    "tokenId": 12110,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/veefriends-series-2/tokens/12110/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":55259,\"rarityRank\":45089,\"attributes\":[{\"background_color\":{\"value\":\"#ffffff\",\"count\":54743}},{\"spectacular\":{\"value\":\"None\",\"count\":53638}},{\"pose\":{\"value\":\"Resting\",\"count\":8958}},{\"scene\":{\"value\":\"Struggle Stream\",\"count\":1004}}]}}"
+  },
+  {
+    "collectionId": "veefriends-series-2",
+    "tokenId": 21418,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/veefriends-series-2/tokens/21418/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":55259,\"rarityRank\":42604,\"attributes\":[{\"spectacular\":{\"value\":\"None\",\"count\":53638}},{\"background_color\":{\"value\":\"#ffffff\",\"count\":54743}},{\"pose\":{\"value\":\"Resting\",\"count\":8958}},{\"scene\":{\"value\":\"Collectors Corner\",\"count\":1002}}]}}"
+  },
+  {
+    "collectionId": "veefriends-series-2",
+    "tokenId": 26703,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/veefriends-series-2/tokens/26703/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":55259,\"rarityRank\":6729,\"attributes\":[{\"pose\":{\"value\":\"Competing\",\"count\":10732}},{\"scene\":{\"value\":\"Green Bubble Lake\",\"count\":984}},{\"background_color\":{\"value\":\"#ffffff\",\"count\":54743}},{\"spectacular\":{\"value\":\"None\",\"count\":53638}}]}}"
+  },
+  {
+    "collectionId": "veefriends-series-2",
+    "tokenId": 40466,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/veefriends-series-2/tokens/40466/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":55259,\"rarityRank\":28011,\"attributes\":[{\"scene\":{\"value\":\"City Streets\",\"count\":986}},{\"background_color\":{\"value\":\"#ffffff\",\"count\":54743}},{\"pose\":{\"value\":\"Resting\",\"count\":8958}},{\"spectacular\":{\"value\":\"None\",\"count\":53638}}]}}"
+  },
+  {
+    "collectionId": "veefriends-series-2",
+    "tokenId": 2434,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/veefriends-series-2/tokens/2434/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":55259,\"rarityRank\":16803,\"attributes\":[{\"background_color\":{\"value\":\"#ffffff\",\"count\":54743}},{\"pose\":{\"value\":\"Evolving\",\"count\":8462}},{\"scene\":{\"value\":\"Dogwood Meadows Drive\",\"count\":968}},{\"spectacular\":{\"value\":\"None\",\"count\":53638}}]}}"
+  },
+  {
+    "collectionId": "webbland",
+    "tokenId": 1288,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/webbland/tokens/1288/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9508,\"rarityRank\":5609,\"attributes\":[{\"type\":{\"value\":\"small apartment\",\"count\":5051}}]}}"
+  },
+  {
+    "collectionId": "webbland",
+    "tokenId": 3930,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/webbland/tokens/3930/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9508,\"rarityRank\":8087,\"attributes\":[{\"type\":{\"value\":\"small apartment\",\"count\":5051}}]}}"
+  },
+  {
+    "collectionId": "webbland",
+    "tokenId": 8446,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/webbland/tokens/8446/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9508,\"rarityRank\":516,\"attributes\":[{\"type\":{\"value\":\"large apartment\",\"count\":1050}}]}}"
+  },
+  {
+    "collectionId": "webbland",
+    "tokenId": 5663,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/webbland/tokens/5663/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9508,\"rarityRank\":1783,\"attributes\":[{\"type\":{\"value\":\"medium apartment\",\"count\":3189}}]}}"
+  },
+  {
+    "collectionId": "webbland",
+    "tokenId": 5439,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/webbland/tokens/5439/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":9508,\"rarityRank\":1559,\"attributes\":[{\"type\":{\"value\":\"medium apartment\",\"count\":3189}}]}}"
+  },
+  {
+    "collectionId": "yield-hunt",
+    "tokenId": 15406,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/yield-hunt/tokens/15406/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":50000,\"rarityRank\":43034,\"attributes\":[{\"generation\":{\"value\":\"Gen 1\",\"count\":40000}},{\"type\":{\"value\":\"Adventurer\",\"count\":43878}},{\"jacket\":{\"value\":\"Jacket4\",\"count\":1529}},{\"backpack\":{\"value\":\"BackPack23\",\"count\":1433}},{\"hair\":{\"value\":\"Hair7\",\"count\":1492}}]}}"
+  },
+  {
+    "collectionId": "yield-hunt",
+    "tokenId": 47312,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/yield-hunt/tokens/47312/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":50000,\"rarityRank\":23322,\"attributes\":[{\"type\":{\"value\":\"Adventurer\",\"count\":43878}},{\"backpack\":{\"value\":\"BackPack15\",\"count\":1422}},{\"generation\":{\"value\":\"Gen 1\",\"count\":40000}},{\"jacket\":{\"value\":\"Jacket14\",\"count\":1468}},{\"hair\":{\"value\":\"Hair12\",\"count\":1457}}]}}"
+  },
+  {
+    "collectionId": "yield-hunt",
+    "tokenId": 38931,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/yield-hunt/tokens/38931/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":50000,\"rarityRank\":40589,\"attributes\":[{\"type\":{\"value\":\"Adventurer\",\"count\":43878}},{\"generation\":{\"value\":\"Gen 1\",\"count\":40000}},{\"jacket\":{\"value\":\"Jacket14\",\"count\":1468}},{\"backpack\":{\"value\":\"BackPack28\",\"count\":1496}},{\"hair\":{\"value\":\"Hair28\",\"count\":1472}}]}}"
+  },
+  {
+    "collectionId": "yield-hunt",
+    "tokenId": 45259,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/yield-hunt/tokens/45259/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":50000,\"rarityRank\":22458,\"attributes\":[{\"type\":{\"value\":\"Adventurer\",\"count\":43878}},{\"generation\":{\"value\":\"Gen 1\",\"count\":40000}},{\"jacket\":{\"value\":\"Jacket22\",\"count\":1463}},{\"backpack\":{\"value\":\"BackPack1\",\"count\":1390}},{\"hair\":{\"value\":\"Hair9\",\"count\":1492}}]}}"
+  },
+  {
+    "collectionId": "yield-hunt",
+    "tokenId": 21135,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/yield-hunt/tokens/21135/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":50000,\"rarityRank\":22853,\"attributes\":[{\"type\":{\"value\":\"Adventurer\",\"count\":43878}},{\"generation\":{\"value\":\"Gen 1\",\"count\":40000}},{\"jacket\":{\"value\":\"Jacket15\",\"count\":1475}},{\"backpack\":{\"value\":\"BackPack13\",\"count\":1436}},{\"hair\":{\"value\":\"Hair15\",\"count\":1433}}]}}"
+  },
+  {
+    "collectionId": "capsule",
+    "tokenId": 4464,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/capsule/tokens/4464/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":2483,\"attributes\":[{\"generation\":{\"value\":\"Beta\",\"count\":503}},{\"purity\":{\"value\":\"Augmented\",\"count\":7657}},{\"element\":{\"value\":\"Earth\",\"count\":169}},{\"species\":{\"value\":\"Posthumans\",\"count\":2520}},{\"chroma\":{\"value\":\"Rich Navy\",\"count\":155}},{\"dimension\":{\"value\":\"Tentacle Rift\",\"count\":156}},{\"device\":{\"value\":\"TABLET\",\"count\":261}},{\"variant\":{\"value\":\"Evil Clown\",\"count\":80}}]}}"
+  },
+  {
+    "collectionId": "capsule",
+    "tokenId": 83,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/capsule/tokens/83/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":1827,\"attributes\":[{\"generation\":{\"value\":\"XI\",\"count\":497}},{\"purity\":{\"value\":\"Augmented\",\"count\":7657}},{\"element\":{\"value\":\"Ice\",\"count\":141}},{\"species\":{\"value\":\"Posthumans\",\"count\":2520}},{\"chroma\":{\"value\":\"Orchid Mauve\",\"count\":152}},{\"dimension\":{\"value\":\"Repair Drone\",\"count\":180}},{\"device\":{\"value\":\"SmartPhone\",\"count\":221}},{\"variant\":{\"value\":\"DJ\",\"count\":80}}]}}"
+  },
+  {
+    "collectionId": "capsule",
+    "tokenId": 646,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/capsule/tokens/646/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":7580,\"attributes\":[{\"generation\":{\"value\":\"Delta\",\"count\":503}},{\"purity\":{\"value\":\"Natural\",\"count\":2343}},{\"species\":{\"value\":\"Yokai\",\"count\":1290}},{\"chroma\":{\"value\":\"Concord Grape\",\"count\":175}},{\"variant\":{\"value\":\"Kuro-Bozu\",\"count\":80}}]}}"
+  },
+  {
+    "collectionId": "capsule",
+    "tokenId": 7021,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/capsule/tokens/7021/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":1431,\"attributes\":[{\"generation\":{\"value\":\"Omega\",\"count\":493}},{\"purity\":{\"value\":\"Augmented\",\"count\":7657}},{\"element\":{\"value\":\"Water\",\"count\":154}},{\"species\":{\"value\":\"Posthumans\",\"count\":2520}},{\"chroma\":{\"value\":\"Chartreuse Sage\",\"count\":107}},{\"dimension\":{\"value\":\"Checkered Rift\",\"count\":182}},{\"device\":{\"value\":\"Battery\",\"count\":255}},{\"variant\":{\"value\":\"Dark Spirit\",\"count\":80}}]}}"
+  },
+  {
+    "collectionId": "capsule",
+    "tokenId": 4106,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/capsule/tokens/4106/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":8607,\"attributes\":[{\"generation\":{\"value\":\"Omicron\",\"count\":497}},{\"purity\":{\"value\":\"Natural\",\"count\":2343}},{\"species\":{\"value\":\"Demihumans\",\"count\":3040}},{\"chroma\":{\"value\":\"Forest Shamrock\",\"count\":192}},{\"variant\":{\"value\":\"Horse\",\"count\":80}}]}}"
+  },
+  {
+    "collectionId": "coolmansuniverse",
+    "tokenId": 8581,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/coolmansuniverse/tokens/8581/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":2496,\"attributes\":[{\"body\":{\"value\":\"Yellow Cheetah\",\"count\":79}},{\"clothes\":{\"value\":\"Nude\",\"count\":745}},{\"eyes\":{\"value\":\"Neutral\",\"count\":1576}},{\"baby\":{\"value\":\"Golden Monkey\",\"count\":57}},{\"mouth\":{\"value\":\"Neutral\",\"count\":766}},{\"background\":{\"value\":\"Skin\",\"count\":249}},{\"world\":{\"value\":\"Dino World\",\"count\":1564}}]}}"
+  },
+  {
+    "collectionId": "coolmansuniverse",
+    "tokenId": 451,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/coolmansuniverse/tokens/451/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":9275,\"attributes\":[{\"body\":{\"value\":\"Light Green\",\"count\":885}},{\"clothes\":{\"value\":\"Urspecial Tealorange\",\"count\":284}},{\"eyes\":{\"value\":\"Happy\",\"count\":1395}},{\"baby\":{\"value\":\"Snail\",\"count\":193}},{\"mouth\":{\"value\":\"OMG\",\"count\":737}},{\"background\":{\"value\":\"Blue\",\"count\":785}},{\"world\":{\"value\":\"Donut World\",\"count\":7362}}]}}"
+  },
+  {
+    "collectionId": "coolmansuniverse",
+    "tokenId": 8785,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/coolmansuniverse/tokens/8785/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":2425,\"attributes\":[{\"body\":{\"value\":\"white\",\"count\":1102}},{\"clothes\":{\"value\":\"Og Wizard\",\"count\":91}},{\"eyes\":{\"value\":\"Ghoul\",\"count\":147}},{\"mouth\":{\"value\":\"OMG\",\"count\":737}},{\"background\":{\"value\":\"Trippy Dark\",\"count\":81}},{\"world\":{\"value\":\"Wall Street Wasteland\",\"count\":775}}]}}"
+  },
+  {
+    "collectionId": "coolmansuniverse",
+    "tokenId": 3408,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/coolmansuniverse/tokens/3408/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":3410,\"attributes\":[{\"body\":{\"value\":\"Yellow\",\"count\":911}},{\"clothes\":{\"value\":\"Cozy Sweater 3\",\"count\":117}},{\"eyes\":{\"value\":\"Furrowed\",\"count\":97}},{\"accessories\":{\"value\":\"Scarf\",\"count\":276}},{\"mouth\":{\"value\":\"OMG\",\"count\":737}},{\"background\":{\"value\":\"Wavy Blue Green\",\"count\":156}},{\"world\":{\"value\":\"Donut World\",\"count\":7362}}]}}"
+  },
+  {
+    "collectionId": "coolmansuniverse",
+    "tokenId": 1103,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/coolmansuniverse/tokens/1103/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":1090,\"attributes\":[{\"background\":{\"value\":\"Night\",\"count\":113}},{\"body\":{\"value\":\"Sea Foam\",\"count\":128}},{\"clothes\":{\"value\":\"Lederhosen\",\"count\":108}},{\"eyes\":{\"value\":\"X X\",\"count\":116}},{\"line\":{\"value\":\"Blue Glow\",\"count\":70}},{\"mouth\":{\"value\":\"OO\",\"count\":763}},{\"accessories\":{\"value\":\"Cancer Horoscope\",\"count\":73}},{\"world\":{\"value\":\"Wall Street Wasteland\",\"count\":775}}]}}"
+  },
+  {
+    "collectionId": "supducks",
+    "tokenId": 0,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/supducks/tokens/0/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10001,\"rarityRank\":3,\"attributes\":[{\"eyes\":{\"value\":\"Galactic Duck Eyes\",\"count\":1}},{\"clothes\":{\"value\":\"Galactic Duck Clothes\",\"count\":1}},{\"hat\":{\"value\":\"Galactic Duck Hat\",\"count\":1}},{\"mouth\":{\"value\":\"Galactic Duck Mouth\",\"count\":1}},{\"background\":{\"value\":\"Galactic Duck Background\",\"count\":1}},{\"skin\":{\"value\":\"Galactic Duck Skin\",\"count\":1}},{\"external url\":{\"value\":\"https://supducks.com/\",\"count\":2214}}]}}"
+  },
+  {
+    "collectionId": "supducks",
+    "tokenId": 1798,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/supducks/tokens/1798/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10001,\"rarityRank\":9863,\"attributes\":[{\"clothes\":{\"value\":\"White Tee\",\"count\":608}},{\"eyes\":{\"value\":\"Cave Duck\",\"count\":882}},{\"hat\":{\"value\":\"hair\",\"count\":806}},{\"mouth\":{\"value\":\"Bubble Gum\",\"count\":696}},{\"background\":{\"value\":\"Deep Purple\",\"count\":693}},{\"skin\":{\"value\":\"Yellow\",\"count\":1243}},{\"external url\":{\"value\":\"https://www.supducks.com/\",\"count\":7779}}]}}"
+  },
+  {
+    "collectionId": "supducks",
+    "tokenId": 5262,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/supducks/tokens/5262/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10001,\"rarityRank\":1110,\"attributes\":[{\"clothes\":{\"value\":\"80s Breaker\",\"count\":219}},{\"eyes\":{\"value\":\"Hippy\",\"count\":1012}},{\"hat\":{\"value\":\"Shark Dome\",\"count\":226}},{\"mouth\":{\"value\":\"Eff\",\"count\":579}},{\"background\":{\"value\":\"sky\",\"count\":649}},{\"skin\":{\"value\":\"pink donut\",\"count\":69}},{\"external url\":{\"value\":\"https://supducks.com/\",\"count\":2214}}]}}"
+  },
+  {
+    "collectionId": "supducks",
+    "tokenId": 7786,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/supducks/tokens/7786/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10001,\"rarityRank\":9515,\"attributes\":[{\"clothes\":{\"value\":\"White Tee Ripped\",\"count\":671}},{\"eyes\":{\"value\":\"Cave Duck\",\"count\":882}},{\"hat\":{\"value\":\"hair\",\"count\":806}},{\"mouth\":{\"value\":\"Sad Face\",\"count\":669}},{\"background\":{\"value\":\"Sunset\",\"count\":529}},{\"skin\":{\"value\":\"White Pebble\",\"count\":887}},{\"external url\":{\"value\":\"https://www.supducks.com/\",\"count\":7779}}]}}"
+  },
+  {
+    "collectionId": "supducks",
+    "tokenId": 3530,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/supducks/tokens/3530/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10001,\"rarityRank\":4262,\"attributes\":[{\"clothes\":{\"value\":\"Overalls\",\"count\":490}},{\"eyes\":{\"value\":\"Super Happy\",\"count\":966}},{\"hat\":{\"value\":\"Bucket Hat\",\"count\":601}},{\"mouth\":{\"value\":\"Buck Teeth\",\"count\":883}},{\"background\":{\"value\":\"Tie Dye Night\",\"count\":600}},{\"skin\":{\"value\":\"Pizza\",\"count\":141}},{\"external url\":{\"value\":\"https://www.supducks.com/\",\"count\":7779}}]}}"
+  },
+  {
+    "collectionId": "mooncats",
+    "tokenId": 10623,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mooncats/tokens/10623/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-4cd667ee64328ae1c18e9b771135d342-32ae2934a5f708ea-00\"}"
+  },
+  {
+    "collectionId": "mooncats",
+    "tokenId": 11220,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mooncats/tokens/11220/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-8e5da8ac91d4cec07841b2af67a8bf51-e91aab6839ea0a9b-00\"}"
+  },
+  {
+    "collectionId": "mooncats",
+    "tokenId": 21440,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mooncats/tokens/21440/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-80af25dc4b660089e7c4c63a9c87cd87-e253e1f5f64895c1-00\"}"
+  },
+  {
+    "collectionId": "mooncats",
+    "tokenId": 1180,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mooncats/tokens/1180/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-06860fcdf4735a1c58571a993ac43ee1-4238fe8b6edc5505-00\"}"
+  },
+  {
+    "collectionId": "mooncats",
+    "tokenId": 17599,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/mooncats/tokens/17599/rarity-attributes",
+    "status_code": 400,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.1\",\"title\":\"Bad Request\",\"status\":400,\"detail\":\"The request is not valid for this collection\",\"traceId\":\"00-e75029b26fa01829ebeaad930b9f6685-58d9317910388074-00\"}"
+  },
+  {
+    "collectionId": "milady",
+    "tokenId": 7201,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/milady/tokens/7201/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":9942,\"attributes\":[{\"hair\":{\"value\":\"Tuft Brown\",\"count\":360}},{\"core\":{\"value\":\"prep\",\"count\":1150}},{\"eyes\":{\"value\":\"Classic\",\"count\":1998}},{\"race\":{\"value\":\"clay\",\"count\":2901}},{\"background\":{\"value\":\"Mountain\",\"count\":1527}},{\"shirt\":{\"value\":\"green blazer\",\"count\":231}},{\"external_url\":{\"value\":\"https://miladymaker.net\",\"count\":8000}},{\"eye color\":{\"value\":\"Green\",\"count\":3022}},{\"drip grade\":{\"value\":\"Normal\",\"count\":3096}}]}}"
+  },
+  {
+    "collectionId": "milady",
+    "tokenId": 6594,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/milady/tokens/6594/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":9949,\"attributes\":[{\"hair\":{\"value\":\"og blonde\",\"count\":378}},{\"shirt\":{\"value\":\"Red Puffer\",\"count\":230}},{\"core\":{\"value\":\"Hypebeast\",\"count\":1171}},{\"eyes\":{\"value\":\"Classic\",\"count\":1998}},{\"external_url\":{\"value\":\"https://miladymaker.net\",\"count\":8000}},{\"background\":{\"value\":\"bushland\",\"count\":1439}},{\"eye color\":{\"value\":\"Brown\",\"count\":2539}},{\"race\":{\"value\":\"clay\",\"count\":2901}},{\"drip grade\":{\"value\":\"Normal\",\"count\":3096}}]}}"
+  },
+  {
+    "collectionId": "milady",
+    "tokenId": 8904,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/milady/tokens/8904/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":6896,\"attributes\":[{\"drip grade\":{\"value\":\"Normal\",\"count\":3096}},{\"external_url\":{\"value\":\"https://miladymaker.net\",\"count\":8000}},{\"core\":{\"value\":\"harajuku-gyaru\",\"count\":479}},{\"hat\":{\"value\":\"trucker pink camo\",\"count\":109}},{\"hair\":{\"value\":\"OG Orange\",\"count\":408}},{\"shirt\":{\"value\":\"Tie Dye Shirt \",\"count\":219}},{\"eyes\":{\"value\":\"Sleepy\",\"count\":1197}},{\"eye color\":{\"value\":\"Green\",\"count\":3022}},{\"race\":{\"value\":\"Pale\",\"count\":3054}},{\"background\":{\"value\":\"Mountain\",\"count\":1527}}]}}"
+  },
+  {
+    "collectionId": "milady",
+    "tokenId": 131,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/milady/tokens/131/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":2466,\"attributes\":[{\"race\":{\"value\":\"Pale\",\"count\":3054}},{\"hair\":{\"value\":\"tuft dark\",\"count\":395}},{\"core\":{\"value\":\"Hypebeast\",\"count\":1171}},{\"eyes\":{\"value\":\"Spiral\",\"count\":161}},{\"background\":{\"value\":\"Clouds\",\"count\":650}},{\"shirt\":{\"value\":\"gold spray puffer\",\"count\":136}},{\"eye color\":{\"value\":\"Brown\",\"count\":2539}},{\"drip grade\":{\"value\":\"Normal\",\"count\":3096}}]}}"
+  },
+  {
+    "collectionId": "milady",
+    "tokenId": 3910,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/milady/tokens/3910/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":3246,\"attributes\":[{\"eyes\":{\"value\":\"Smug\",\"count\":184}},{\"external_url\":{\"value\":\"https://miladymaker.net\",\"count\":8000}},{\"hat\":{\"value\":\"blue pink bow\",\"count\":152}},{\"earring\":{\"value\":\"cherry earring\",\"count\":243}},{\"race\":{\"value\":\"clay\",\"count\":2901}},{\"background\":{\"value\":\"Sunset\",\"count\":1537}},{\"core\":{\"value\":\"lolita-harajuku\",\"count\":237}},{\"eye color\":{\"value\":\"Blue\",\"count\":2970}},{\"drip grade\":{\"value\":\"Normal\",\"count\":3096}},{\"hair\":{\"value\":\"og blonde\",\"count\":378}},{\"shirt\":{\"value\":\"Tie Dye Shirt \",\"count\":219}}]}}"
+  },
+  {
+    "collectionId": "degods-ethereum",
+    "tokenId": 7759,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/degods-ethereum/tokens/7759/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":8954,\"rarityRank\":8603,\"attributes\":[{\"version\":{\"value\":\"DeadGod\",\"count\":8893}},{\"background\":{\"value\":\"Blue\",\"count\":1226}},{\"eyes\":{\"value\":\"None\",\"count\":4736}},{\"mouth\":{\"value\":\"Party Blower\",\"count\":662}},{\"skin\":{\"value\":\"Solar Spiral\",\"count\":771}},{\"external_url\":{\"value\":\"https://degods.com/\",\"count\":6502}},{\"neck\":{\"value\":\"None\",\"count\":4895}},{\"specialty\":{\"value\":\"None\",\"count\":4777}},{\"head\":{\"value\":\"Bleached\",\"count\":422}},{\"clothes\":{\"value\":\"Tattered Tee\",\"count\":416}}]}}"
+  },
+  {
+    "collectionId": "degods-ethereum",
+    "tokenId": 8332,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/degods-ethereum/tokens/8332/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":8954,\"rarityRank\":4056,\"attributes\":[{\"version\":{\"value\":\"DeadGod\",\"count\":8893}},{\"background\":{\"value\":\"Red\",\"count\":1134}},{\"eyes\":{\"value\":\"Round Glasses\",\"count\":270}},{\"skin\":{\"value\":\"Pink Granite\",\"count\":1013}},{\"mouth\":{\"value\":\"Santa Beard\",\"count\":359}},{\"external_url\":{\"value\":\"https://degods.com/\",\"count\":6502}},{\"neck\":{\"value\":\"None\",\"count\":4895}},{\"specialty\":{\"value\":\"Earring\",\"count\":701}},{\"head\":{\"value\":\"Hippie Hair\",\"count\":426}},{\"clothes\":{\"value\":\"God Jersey\",\"count\":214}}]}}"
+  },
+  {
+    "collectionId": "degods-ethereum",
+    "tokenId": 7658,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/degods-ethereum/tokens/7658/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-c8feb05ffb739928f85f1d2d3641951a-3a66771191b5e989-00\"}"
+  },
+  {
+    "collectionId": "degods-ethereum",
+    "tokenId": 8064,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/degods-ethereum/tokens/8064/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":8954,\"rarityRank\":5495,\"attributes\":[{\"version\":{\"value\":\"DeadGod\",\"count\":8893}},{\"background\":{\"value\":\"Deep Ocean Blue\",\"count\":1104}},{\"eyes\":{\"value\":\"Eye Patch\",\"count\":269}},{\"mouth\":{\"value\":\"Santa Beard\",\"count\":359}},{\"skin\":{\"value\":\"Solar Spiral\",\"count\":771}},{\"external_url\":{\"value\":\"https://degods.com/\",\"count\":6502}},{\"neck\":{\"value\":\"None\",\"count\":4895}},{\"specialty\":{\"value\":\"None\",\"count\":4777}},{\"clothes\":{\"value\":\"Tourist Tee\",\"count\":416}},{\"head\":{\"value\":\"Godfro\",\"count\":303}}]}}"
+  },
+  {
+    "collectionId": "degods-ethereum",
+    "tokenId": 8421,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/degods-ethereum/tokens/8421/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-fd89d69be672396820037f4c18b96982-357a8822c12fc615-00\"}"
+  },
+  {
+    "collectionId": "adam-bomb-squad",
+    "tokenId": 1490,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/adam-bomb-squad/tokens/1490/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":25000,\"rarityRank\":10465,\"attributes\":[{\"background name\":{\"value\":\"Pattern\",\"count\":3767}},{\"distribution\":{\"value\":\"General Release\",\"count\":12367}},{\"background colorway\":{\"value\":\"DISRUPT\",\"count\":146}},{\"background branded\":{\"value\":\"No\",\"count\":24408}},{\"character\":{\"value\":\"3D Adam\",\"count\":81}},{\"error terror\":{\"value\":\"No\",\"count\":24983}},{\"branded\":{\"value\":\"Yes\",\"count\":1170}},{\"double trouble\":{\"value\":\"No\",\"count\":24909}},{\"broken background\":{\"value\":\"No\",\"count\":24733}},{\"bomb type\":{\"value\":\"Classic\",\"count\":13771}},{\"spark\":{\"value\":\"Yes\",\"count\":18729}}]}}"
+  },
+  {
+    "collectionId": "adam-bomb-squad",
+    "tokenId": 1696,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/adam-bomb-squad/tokens/1696/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":25000,\"rarityRank\":799,\"attributes\":[{\"character\":{\"value\":\"Pop Adam\",\"count\":12}},{\"background name\":{\"value\":\"T-shirt\",\"count\":8363}},{\"branded\":{\"value\":\"No\",\"count\":23830}},{\"background branded\":{\"value\":\"No\",\"count\":24408}},{\"error terror\":{\"value\":\"No\",\"count\":24983}},{\"distribution\":{\"value\":\"General Release\",\"count\":12367}},{\"background colorway\":{\"value\":\"Burgundy\",\"count\":249}},{\"double trouble\":{\"value\":\"No\",\"count\":24909}},{\"broken background\":{\"value\":\"No\",\"count\":24733}},{\"bomb type\":{\"value\":\"Classic\",\"count\":13771}},{\"spark\":{\"value\":\"Yes\",\"count\":18729}}]}}"
+  },
+  {
+    "collectionId": "adam-bomb-squad",
+    "tokenId": 13764,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/adam-bomb-squad/tokens/13764/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":25000,\"rarityRank\":14482,\"attributes\":[{\"character\":{\"value\":\"Stained Adam\",\"count\":104}},{\"background name\":{\"value\":\"Camo\",\"count\":3984}},{\"background colorway\":{\"value\":\"Burnt Camo\",\"count\":131}},{\"bomb type\":{\"value\":\"Classic\",\"count\":13771}},{\"distribution\":{\"value\":\"General Release\",\"count\":12367}},{\"spark\":{\"value\":\"Yes\",\"count\":18729}},{\"branded\":{\"value\":\"No\",\"count\":23830}},{\"background branded\":{\"value\":\"No\",\"count\":24408}},{\"double trouble\":{\"value\":\"No\",\"count\":24909}},{\"broken background\":{\"value\":\"No\",\"count\":24733}},{\"error terror\":{\"value\":\"No\",\"count\":24983}}]}}"
+  },
+  {
+    "collectionId": "adam-bomb-squad",
+    "tokenId": 10898,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/adam-bomb-squad/tokens/10898/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":25000,\"rarityRank\":5273,\"attributes\":[{\"distribution\":{\"value\":\"Limited Edition\",\"count\":3904}},{\"background name\":{\"value\":\"T-shirt\",\"count\":8363}},{\"background colorway\":{\"value\":\"Silver\",\"count\":236}},{\"character\":{\"value\":\"Wings Adam\",\"count\":38}},{\"bomb type\":{\"value\":\"Collab\",\"count\":1265}},{\"spark\":{\"value\":\"Yes\",\"count\":18729}},{\"branded\":{\"value\":\"No\",\"count\":23830}},{\"background branded\":{\"value\":\"No\",\"count\":24408}},{\"double trouble\":{\"value\":\"No\",\"count\":24909}},{\"broken background\":{\"value\":\"No\",\"count\":24733}},{\"error terror\":{\"value\":\"No\",\"count\":24983}}]}}"
+  },
+  {
+    "collectionId": "adam-bomb-squad",
+    "tokenId": 18851,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/adam-bomb-squad/tokens/18851/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":25000,\"rarityRank\":22051,\"attributes\":[{\"background name\":{\"value\":\"T-shirt\",\"count\":8363}},{\"colorway\":{\"value\":\"Splatter Black\",\"count\":131}},{\"background colorway\":{\"value\":\"Ash Heather\",\"count\":227}},{\"character\":{\"value\":\"Splatter Adam\",\"count\":324}},{\"bomb type\":{\"value\":\"Classic\",\"count\":13771}},{\"distribution\":{\"value\":\"General Release\",\"count\":12367}},{\"branded\":{\"value\":\"No\",\"count\":23830}},{\"background branded\":{\"value\":\"No\",\"count\":24408}},{\"double trouble\":{\"value\":\"No\",\"count\":24909}},{\"broken background\":{\"value\":\"No\",\"count\":24733}},{\"error terror\":{\"value\":\"No\",\"count\":24983}},{\"spark\":{\"value\":\"Yes\",\"count\":18729}}]}}"
+  },
+  {
+    "collectionId": "supernormalbyzipcy",
+    "tokenId": 5556,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/supernormalbyzipcy/tokens/5556/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":8888,\"rarityRank\":5130,\"attributes\":[{\"cover\":{\"value\":\"Future Leather\",\"count\":125}},{\"neck\":{\"value\":\"Cat In The Moon\",\"count\":67}},{\"hat\":{\"value\":\"Beaded Purse\",\"count\":86}},{\"hex\":{\"value\":\"0xF29876\",\"count\":770}},{\"hair\":{\"value\":\"CHO\",\"count\":104}},{\"top\":{\"value\":\"Trippy\",\"count\":61}},{\"???\":{\"value\":\"X\",\"count\":3822}},{\"earrings\":{\"value\":\"rainbow\",\"count\":71}},{\"background\":{\"value\":\"Turkish Rose\",\"count\":142}}]}}"
+  },
+  {
+    "collectionId": "supernormalbyzipcy",
+    "tokenId": 7494,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/supernormalbyzipcy/tokens/7494/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":8888,\"rarityRank\":7495,\"attributes\":[{\"attributes\":{\"value\":\"[]\",\"count\":2975}}]}}"
+  },
+  {
+    "collectionId": "supernormalbyzipcy",
+    "tokenId": 4231,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/supernormalbyzipcy/tokens/4231/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":8888,\"rarityRank\":2119,\"attributes\":[{\"hex\":{\"value\":\"0xF8C3A2\",\"count\":1809}},{\"hat\":{\"value\":\"Baphomet\",\"count\":64}},{\"face accessory\":{\"value\":\"Chums\",\"count\":52}},{\"background\":{\"value\":\"Cadillac Pink\",\"count\":119}},{\"hair\":{\"value\":\"Nur\",\"count\":40}},{\"top\":{\"value\":\"Grey Shirt\",\"count\":109}},{\"???\":{\"value\":\"Ÿ\",\"count\":2089}},{\"earrings\":{\"value\":\"Right Red Stud\",\"count\":77}},{\"neck\":{\"value\":\"Silver Bar\",\"count\":136}},{\"cover\":{\"value\":\"Studded\",\"count\":54}}]}}"
+  },
+  {
+    "collectionId": "supernormalbyzipcy",
+    "tokenId": 4469,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/supernormalbyzipcy/tokens/4469/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":8888,\"rarityRank\":3834,\"attributes\":[{\"top\":{\"value\":\"Breast Plate\",\"count\":38}},{\"hex\":{\"value\":\"0xAA7560\",\"count\":929}},{\"face accessory\":{\"value\":\"Red Flames\",\"count\":111}},{\"hat\":{\"value\":\"Red Beret\",\"count\":87}},{\"cover\":{\"value\":\"Red Off The Shoulder\",\"count\":123}},{\"hair\":{\"value\":\"Ki\",\"count\":67}},{\"???\":{\"value\":\"X\",\"count\":3822}},{\"earrings\":{\"value\":\"rainbow\",\"count\":71}},{\"background\":{\"value\":\"Moon Mist\",\"count\":143}}]}}"
+  },
+  {
+    "collectionId": "supernormalbyzipcy",
+    "tokenId": 2251,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/supernormalbyzipcy/tokens/2251/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":8888,\"rarityRank\":471,\"attributes\":[{\"hex\":{\"value\":\"0xAA7560\",\"count\":929}},{\"???\":{\"value\":\"Ÿ\",\"count\":2089}},{\"earrings\":{\"value\":\"Solar\",\"count\":73}},{\"face accessory\":{\"value\":\"gold frames\",\"count\":45}},{\"background\":{\"value\":\"Hibiscus\",\"count\":140}},{\"hair\":{\"value\":\"Janos\",\"count\":47}},{\"top\":{\"value\":\"Pink Thick Collar\",\"count\":21}}]}}"
+  },
+  {
+    "collectionId": "the-currency-eth",
+    "tokenId": 1734,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/the-currency-eth/tokens/1734/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-2db2999279bec23493f7547a8f064edd-53a73f64ada74f26-00\"}"
+  },
+  {
+    "collectionId": "the-currency-eth",
+    "tokenId": 5861,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/the-currency-eth/tokens/5861/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-9f96d23c2b518351cc2eda243818b895-f7064d91ad6a0672-00\"}"
+  },
+  {
+    "collectionId": "the-currency-eth",
+    "tokenId": 29456,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/the-currency-eth/tokens/29456/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-bc43eb0410efba500d2e586da225649d-c0c68135f3182b4a-00\"}"
+  },
+  {
+    "collectionId": "the-currency-eth",
+    "tokenId": 29457,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/the-currency-eth/tokens/29457/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-d8d53523dec3c4613af288c9e1521aac-5c104e2a89b80f5d-00\"}"
+  },
+  {
+    "collectionId": "the-currency-eth",
+    "tokenId": 4451,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/the-currency-eth/tokens/4451/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-8641053b320357b9ccbaa338e9fe91d6-d1504ff2cb15e01f-00\"}"
+  },
+  {
+    "collectionId": "neo-tokyo-outer-identities",
+    "tokenId": 1290,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/neo-tokyo-outer-identities/tokens/1290/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-f7b386aabc38512428bdd69cb6edd332-16ec0e2355cfce60-00\"}"
+  },
+  {
+    "collectionId": "neo-tokyo-outer-identities",
+    "tokenId": 2430,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/neo-tokyo-outer-identities/tokens/2430/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-39226b329a6248e5ca38ea9e38b8fb0f-bea8989de29437fe-00\"}"
+  },
+  {
+    "collectionId": "neo-tokyo-outer-identities",
+    "tokenId": 2951,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/neo-tokyo-outer-identities/tokens/2951/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-a2f7452d58b8be746b6b415dc28fbfd8-6d7ab55fed52cf8f-00\"}"
+  },
+  {
+    "collectionId": "neo-tokyo-outer-identities",
+    "tokenId": 1114,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/neo-tokyo-outer-identities/tokens/1114/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-715c80539825c85622194e80c5eb0580-b093a78b687a1493-00\"}"
+  },
+  {
+    "collectionId": "neo-tokyo-outer-identities",
+    "tokenId": 2944,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/neo-tokyo-outer-identities/tokens/2944/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-59614110d49c4b021a8304bedf7fe936-57afee316e15fffc-00\"}"
+  },
+  {
+    "collectionId": "y00ts",
+    "tokenId": 6569,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/y00ts/tokens/6569/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-d8476451ebcb3981d6f32e1d1207f66d-666e967db7e2986c-00\"}"
+  },
+  {
+    "collectionId": "y00ts",
+    "tokenId": 10766,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/y00ts/tokens/10766/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-5585069e6bf6e2db07d683524638e6e7-62fbfb0ad160ac5e-00\"}"
+  },
+  {
+    "collectionId": "y00ts",
+    "tokenId": 4042,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/y00ts/tokens/4042/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-ef0a4000e1b13940477b629d9df94fea-f741b502a98c5886-00\"}"
+  },
+  {
+    "collectionId": "y00ts",
+    "tokenId": 9338,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/y00ts/tokens/9338/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-a288f760ab19723ef230d802a001a011-101e4d27516d3b98-00\"}"
+  },
+  {
+    "collectionId": "y00ts",
+    "tokenId": 13993,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/y00ts/tokens/13993/rarity-attributes",
+    "status_code": 404,
+    "content": "{\"type\":\"https://tools.ietf.org/html/rfc7231#section-6.5.4\",\"title\":\"Not Found\",\"status\":404,\"traceId\":\"00-ba776919cba8dfc59120b7ddc9d6bbb7-df4ac905a13ab40d-00\"}"
+  },
+  {
+    "collectionId": "cryptophunksv2",
+    "tokenId": 9029,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cryptophunksv2/tokens/9029/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":9361,\"attributes\":[{\"hair\":{\"value\":\"mohawk\",\"count\":441}},{\"lips\":{\"value\":\"Purple Lipstick\",\"count\":655}},{\"sex\":{\"value\":\"Female\",\"count\":3840}}]}}"
+  },
+  {
+    "collectionId": "cryptophunksv2",
+    "tokenId": 7936,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cryptophunksv2/tokens/7936/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":8405,\"attributes\":[{\"sex\":{\"value\":\"Male\",\"count\":6039}},{\"hair\":{\"value\":\"CAP\",\"count\":351}},{\"eyes\":{\"value\":\"Nerd Glasses\",\"count\":572}}]}}"
+  },
+  {
+    "collectionId": "cryptophunksv2",
+    "tokenId": 5585,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cryptophunksv2/tokens/5585/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":7314,\"attributes\":[{\"hair\":{\"value\":\"Peak Spike\",\"count\":303}},{\"beard\":{\"value\":\"Shadow Beard\",\"count\":526}},{\"eyes\":{\"value\":\"Nerd Glasses\",\"count\":572}},{\"sex\":{\"value\":\"Male\",\"count\":6039}}]}}"
+  },
+  {
+    "collectionId": "cryptophunksv2",
+    "tokenId": 3603,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cryptophunksv2/tokens/3603/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":439,\"attributes\":[{\"eyes\":{\"value\":\"Big Shades\",\"count\":535}},{\"teeth\":{\"value\":\"Buck Teeth\",\"count\":78}},{\"sex\":{\"value\":\"Male\",\"count\":6039}},{\"mouth\":{\"value\":\"pipe\",\"count\":317}},{\"ears\":{\"value\":\"Earring\",\"count\":2459}},{\"hair\":{\"value\":\"Peak Spike\",\"count\":303}}]}}"
+  },
+  {
+    "collectionId": "cryptophunksv2",
+    "tokenId": 1085,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cryptophunksv2/tokens/1085/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":9160,\"attributes\":[{\"hair\":{\"value\":\"Mohawk Dark\",\"count\":429}},{\"eyes\":{\"value\":\"Big Shades\",\"count\":535}},{\"sex\":{\"value\":\"Male\",\"count\":6039}},{\"mouth\":{\"value\":\"Cigarette\",\"count\":961}}]}}"
+  },
+  {
+    "collectionId": "cryptoskulls",
+    "tokenId": 2670,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cryptoskulls/tokens/2670/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":5946,\"attributes\":[{\"background id\":{\"value\":\"#12\",\"count\":78}},{\"beard gene\":{\"value\":\"#8\",\"count\":8654}},{\"bones gene\":{\"value\":\"#15\",\"count\":7745}},{\"nose gene\":{\"value\":\"#6\",\"count\":1175}},{\"eyes gene\":{\"value\":\"#7\",\"count\":119}},{\"hair gene\":{\"value\":\"#3\",\"count\":63}},{\"skull gene\":{\"value\":\"#10\",\"count\":669}},{\"teeth gene\":{\"value\":\"#10\",\"count\":929}}]}}"
+  },
+  {
+    "collectionId": "cryptoskulls",
+    "tokenId": 1616,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cryptoskulls/tokens/1616/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":3662,\"attributes\":[{\"background id\":{\"value\":\"#73\",\"count\":59}},{\"beard gene\":{\"value\":\"#8\",\"count\":8654}},{\"bones gene\":{\"value\":\"#15\",\"count\":7745}},{\"nose gene\":{\"value\":\"#4\",\"count\":1272}},{\"eyes gene\":{\"value\":\"#15\",\"count\":126}},{\"hair gene\":{\"value\":\"#85\",\"count\":63}},{\"skull gene\":{\"value\":\"#4\",\"count\":660}},{\"teeth gene\":{\"value\":\"#6\",\"count\":885}}]}}"
+  },
+  {
+    "collectionId": "cryptoskulls",
+    "tokenId": 3028,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cryptoskulls/tokens/3028/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":6124,\"attributes\":[{\"background id\":{\"value\":\"#125\",\"count\":78}},{\"beard gene\":{\"value\":\"#8\",\"count\":8654}},{\"bones gene\":{\"value\":\"#15\",\"count\":7745}},{\"nose gene\":{\"value\":\"#2\",\"count\":1317}},{\"eyes gene\":{\"value\":\"#56\",\"count\":122}},{\"hair gene\":{\"value\":\"#9\",\"count\":64}},{\"skull gene\":{\"value\":\"#3\",\"count\":614}},{\"teeth gene\":{\"value\":\"#0\",\"count\":959}}]}}"
+  },
+  {
+    "collectionId": "cryptoskulls",
+    "tokenId": 810,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cryptoskulls/tokens/810/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":5251,\"attributes\":[{\"background id\":{\"value\":\"#62\",\"count\":62}},{\"beard gene\":{\"value\":\"#8\",\"count\":8654}},{\"bones gene\":{\"value\":\"#15\",\"count\":7745}},{\"nose gene\":{\"value\":\"#7\",\"count\":1214}},{\"eyes gene\":{\"value\":\"#82\",\"count\":127}},{\"hair gene\":{\"value\":\"#89\",\"count\":70}},{\"skull gene\":{\"value\":\"#9\",\"count\":641}},{\"teeth gene\":{\"value\":\"#9\",\"count\":921}}]}}"
+  },
+  {
+    "collectionId": "cryptoskulls",
+    "tokenId": 2211,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/cryptoskulls/tokens/2211/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":10000,\"rarityRank\":6936,\"attributes\":[{\"background id\":{\"value\":\"#110\",\"count\":91}},{\"skull gene\":{\"value\":\"#13\",\"count\":659}},{\"bones gene\":{\"value\":\"#15\",\"count\":7745}},{\"nose gene\":{\"value\":\"#7\",\"count\":1214}},{\"hair gene\":{\"value\":\"#78\",\"count\":68}},{\"teeth gene\":{\"value\":\"#4\",\"count\":907}},{\"beard gene\":{\"value\":\"#8\",\"count\":8654}},{\"eyes gene\":{\"value\":\"#84\",\"count\":119}}]}}"
+  },
+  {
+    "collectionId": "hero",
+    "tokenId": 564,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/hero/tokens/564/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":6691,\"rarityRank\":4350,\"attributes\":[{\"hair\":{\"value\":\"Overgrown\",\"count\":318}},{\"top\":{\"value\":\"Future Suit\",\"count\":148}},{\"face\":{\"value\":\"shining\",\"count\":3997}},{\"hat\":{\"value\":\"Star Headphones\",\"count\":288}},{\"eye color\":{\"value\":\"Pink\",\"count\":261}},{\"background\":{\"value\":\"Genesis\",\"count\":1111}},{\"body\":{\"value\":\"Light\",\"count\":1732}},{\"genesis\":{\"value\":\"True\",\"count\":1111}},{\"face accessory\":{\"value\":\"None\",\"count\":4004}},{\"hair color\":{\"value\":\"Blue\",\"count\":876}}]}}"
+  },
+  {
+    "collectionId": "hero",
+    "tokenId": 3973,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/hero/tokens/3973/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":6691,\"rarityRank\":1330,\"attributes\":[{\"background\":{\"value\":\"Normal\",\"count\":4890}},{\"top\":{\"value\":\"Skeleton Suit\",\"count\":271}},{\"hair color\":{\"value\":\"black\",\"count\":899}},{\"hat\":{\"value\":\"Shadowy Scarf\",\"count\":83}},{\"eye color\":{\"value\":\"None\",\"count\":66}},{\"hair\":{\"value\":\"Antennae Hair\",\"count\":190}},{\"body\":{\"value\":\"skeleton\",\"count\":66}},{\"face\":{\"value\":\"None\",\"count\":66}},{\"genesis\":{\"value\":\"False\",\"count\":5457}},{\"face accessory\":{\"value\":\"None\",\"count\":4004}}]}}"
+  },
+  {
+    "collectionId": "hero",
+    "tokenId": 2884,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/hero/tokens/2884/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":6691,\"rarityRank\":344,\"attributes\":[{\"hair color\":{\"value\":\"Purple\",\"count\":821}},{\"face\":{\"value\":\"shining\",\"count\":3997}},{\"body\":{\"value\":\"Light\",\"count\":1732}},{\"hat\":{\"value\":\"Polarbear Beanie\",\"count\":243}},{\"background\":{\"value\":\"Normal\",\"count\":4890}},{\"hair\":{\"value\":\"Samurai Cut\",\"count\":104}},{\"genesis\":{\"value\":\"False\",\"count\":5457}},{\"face accessory\":{\"value\":\"None\",\"count\":4004}},{\"eye color\":{\"value\":\"black\",\"count\":1300}},{\"top\":{\"value\":\"Baseball Shirt\",\"count\":16}}]}}"
+  },
+  {
+    "collectionId": "hero",
+    "tokenId": 1368,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/hero/tokens/1368/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":6691,\"rarityRank\":115,\"attributes\":[{\"hair\":{\"value\":\"Spike Hawk\",\"count\":311}},{\"hair color\":{\"value\":\"Pink\",\"count\":290}},{\"face\":{\"value\":\"nervous\",\"count\":166}},{\"eye color\":{\"value\":\"Brown\",\"count\":1265}},{\"background\":{\"value\":\"Normal\",\"count\":4890}},{\"top\":{\"value\":\"Distinguished Coat\",\"count\":11}},{\"body\":{\"value\":\"Tan\",\"count\":1621}},{\"genesis\":{\"value\":\"False\",\"count\":5457}},{\"face accessory\":{\"value\":\"None\",\"count\":4004}},{\"hat\":{\"value\":\"None\",\"count\":816}}]}}"
+  },
+  {
+    "collectionId": "hero",
+    "tokenId": 3321,
+    "url": "https://api.cryptoslam.io/9vtih9mrf0giktml/v2/collections/hero/tokens/3321/rarity-attributes",
+    "status_code": 200,
+    "content": "{\"data\":{\"tokenSupply\":6691,\"rarityRank\":1845,\"attributes\":[{\"background\":{\"value\":\"Normal\",\"count\":4890}},{\"face\":{\"value\":\"shining\",\"count\":3997}},{\"genesis\":{\"value\":\"False\",\"count\":5457}},{\"face accessory\":{\"value\":\"Face Bandana\",\"count\":61}},{\"hair color\":{\"value\":\"Pink\",\"count\":290}},{\"top\":{\"value\":\"Olympians Robe\",\"count\":320}},{\"body\":{\"value\":\"Tan\",\"count\":1621}},{\"hat\":{\"value\":\"Bunny Ears\",\"count\":251}},{\"eye color\":{\"value\":\"black\",\"count\":1300}},{\"hair\":{\"value\":\"Bow Hair\",\"count\":91}}]}}"
+  }
+]

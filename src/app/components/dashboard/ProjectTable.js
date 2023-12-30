@@ -1,112 +1,79 @@
 import Image from "next/image";
-import { Card, CardBody, CardTitle, CardSubtitle, Table } from "reactstrap";
-// import user1 from "public/images/users/user1.jpg";
-// import user2 from "public/images/users/user2.jpg";
-// import user3 from "public/images/users/user3.jpg";
-// import user4 from "public/images/users/user4.jpg";
-// import user5 from "public/images/users/user5.jpg";
+import React, { useState } from 'react';
+import { Card, CardBody, CardTitle, CardSubtitle, Table, Button } from "reactstrap";
+import json from '@/app/data/top100_copy.json';
+import attr from '@/app/data/rarity_attrs.json';
 
-const tableData = [
-  {
-    //avatar: user1,
-    name: "Hanna Gover",
-    email: "hgover@gmail.com",
-    project: "Flexy React",
-    status: "pending",
-    weeks: "35",
-    budget: "95K",
-  },
-  {
-    //avatar: user2,
-    name: "Hanna Gover",
-    email: "hgover@gmail.com",
-    project: "Lading pro React",
-    status: "done",
-    weeks: "35",
-    budget: "95K",
-  },
-  {
-    //avatar: user3,
-    name: "Hanna Gover",
-    email: "hgover@gmail.com",
-    project: "Elite React",
-    status: "holt",
-    weeks: "35",
-    budget: "95K",
-  },
-  {
-    //avatar: user4,
-    name: "Hanna Gover",
-    email: "hgover@gmail.com",
-    project: "Flexy React",
-    status: "pending",
-    weeks: "35",
-    budget: "95K",
-  },
-  {
-    //avatar: user5,
-    name: "Hanna Gover",
-    email: "hgover@gmail.com",
-    project: "Ample React",
-    status: "done",
-    weeks: "35",
-    budget: "95K",
-  },
-];
 
 const ProjectTables = () => {
+  const itemsPerPage = 10;
+  const [currentPage, setCurrentPage] = useState(1);
+
+  const lastItemIndex = currentPage * itemsPerPage;
+  const firstItemIndex = lastItemIndex - itemsPerPage;
+  const visibleData = json.data.slice(firstItemIndex, lastItemIndex);
+
+  const nextPage = () => {
+    setCurrentPage(prevPage => prevPage + 1);
+  };
+
+  const prevPage = () => {
+    setCurrentPage(prevPage => prevPage - 1);
+  };
+
+
   return (
     <Card>
       <CardBody>
-        <CardTitle tag="h5">Project Listing</CardTitle>
+        <CardTitle tag="h5">Top 100</CardTitle>
         <CardSubtitle className="mb-2 text-muted" tag="h6">
-          Overview of the projects
+          Top 100 NTF's
         </CardSubtitle>
         <div className="table-responsive">
           <Table className="text-nowrap mt-3 align-middle" borderless>
             <thead>
               <tr>
-                <th>Team Lead</th>
-                <th>Project</th>
-
-                <th>Status</th>
-                <th>Weeks</th>
-                <th>Budget</th>
+                <th>Rank</th>
+                <th>Collection Image</th>
+                <th>Collection Name</th>
+                <th>Buyer Count</th>
+                <th>Seller Count</th>
+                <th>Sales Volume (USD)</th>
               </tr>
             </thead>
             <tbody>
-              {tableData.map((tdata, index) => (
-                <tr key={index} className="border-top">
-                  <td>
-                    <div className="d-flex align-items-center p-2">
-                      <Image
-                        //src={tdata.avatar}
-                        className="rounded-circle"
-                        alt="avatar"
-                        width="45"
-                        height="45"
-                      />
-                      <div className="ms-3">
-                        <h6 className="mb-0">{tdata.name}</h6>
-                        <span className="text-muted">{tdata.email}</span>
-                      </div>
-                    </div>
-                  </td>
-                  <td>{tdata.project}</td>
-                  <td>
-                    {tdata.status === "pending" ? (
-                      <span className="p-2 bg-danger rounded-circle d-inline-block ms-3" />
-                    ) : tdata.status === "holt" ? (
-                      <span className="p-2 bg-warning rounded-circle d-inline-block ms-3" />
-                    ) : (
-                      <span className="p-2 bg-success rounded-circle d-inline-block ms-3" />
-                    )}
-                  </td>
-                  <td>{tdata.weeks}</td>
-                  <td>{tdata.budget}</td>
-                </tr>
-              ))}
+              {visibleData.map((collection, index) => {
+                const result = attr.filter((attr) => attr.collectionId === collection.collectionId && attr.status_code == 200);
+                var content = [];
+                if (result.length > 0) {
+                  content = JSON.parse(result[0].content);
+                }
+
+                console.log("result", result);
+                console.log("content", content);
+
+                return (
+                  <tr key={index} className="border-top">
+                    <td>{collection.rank}</td>
+                    <td>
+                      <img src={collection.collectionImageURL} alt={collection.collectionName} width="50" height="50" />
+                    </td>
+                    <td>{collection.collectionName}</td>
+                    <td>{collection.buyerCount}</td>
+                    <td>{collection.sellerCount}</td>
+                    <td>{collection.quote.USD ? collection.quote.USD.salesVolume.toFixed(2) : 0.00}</td>
+                  </tr>
+                );
+              })}
             </tbody>
+            <tfoot>
+                <Button onClick={prevPage} disabled={currentPage === 1}>
+                  Previous
+                </Button>{' '}
+                <Button onClick={nextPage} disabled={lastItemIndex >= json.data.length}>
+                  Next
+                </Button>
+            </tfoot>
           </Table>
         </div>
       </CardBody>

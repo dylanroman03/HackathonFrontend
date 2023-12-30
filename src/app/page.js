@@ -19,10 +19,6 @@ import ProjectTables from "@/app/components/dashboard/ProjectTable";
 import TopCards from "@/app/components/dashboard/TopCards";
 import Blog from "@/app/components/dashboard/Blog";
 import '../styles/style.scss';
-// import bg1 from "public/images/bg/bg1.jpg";
-// import bg2 from "public/images/bg/bg2.jpg";
-// import bg3 from "public/images/bg/bg3.jpg";
-// import bg4 from "public/images/bg/bg4.jpg";
 
 const BlogData = [
   {
@@ -69,7 +65,7 @@ export default function Home() {
       </Head>
       <div>
         {/***Top Cards***/}
-        <Row>
+        {/* <Row>
           <Col sm="6" lg="3">
             <TopCards
               bg="bg-light-success text-success"
@@ -106,23 +102,17 @@ export default function Home() {
               icon="bi bi-bag"
             />
           </Col>
-        </Row>
+        </Row> */}
         {/***Sales & Feed***/}
         <Row>
           <Col sm="12" lg="6" xl="7" xxl="8">
-            <SalesChart />
+            {/* <SalesChart /> */}
           </Col>
           <Col sm="12" lg="6" xl="5" xxl="4">
-            <Feeds />
+            {/* <Feeds /> */}
           </Col>
         </Row>
         {/***Table ***/}
-        <Row>
-          <Col lg="12" sm="12">
-            <ProjectTables />
-          </Col>
-        </Row>
-        {/***Blog Cards***/}
         <Row>
           {BlogData.map((blg) => (
             <Col sm="6" lg="6" xl="3" key={blg.title}>
@@ -136,6 +126,13 @@ export default function Home() {
             </Col>
           ))}
         </Row>
+
+        <Row>
+          <Col lg="12" sm="12">
+            <ProjectTables/>
+          </Col>
+        </Row>
+        {/***Blog Cards***/}
       </div>
     </div>
   );
