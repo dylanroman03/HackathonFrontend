@@ -57,9 +57,9 @@ const ProjectTables = () => {
               })}
             </tbody>
             <tfoot>
-                <Button onClick={prevPage} disabled={currentPage === 1}>
-                  Previous
-                </Button>{' '}
+              <Button onClick={prevPage} disabled={currentPage === 1}>
+                Previous
+              </Button>{' '}
               <Button onClick={nextPage} disabled={lastItemIndex >= json.data.length}>
                 Next
               </Button>
