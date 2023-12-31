@@ -2,7 +2,6 @@ import Image from "next/image";
 import React, { useState } from 'react';
 import { Card, CardBody, CardTitle, CardSubtitle, Table, Button } from "reactstrap";
 import json from '@/app/data/top100_copy.json';
-import attr from '@/app/data/rarity_attrs.json';
 
 
 const ProjectTables = () => {
@@ -43,22 +42,13 @@ const ProjectTables = () => {
             </thead>
             <tbody>
               {visibleData.map((collection, index) => {
-                const result = attr.filter((attr) => attr.collectionId === collection.collectionId && attr.status_code == 200);
-                var content = [];
-                if (result.length > 0) {
-                  content = JSON.parse(result[0].content);
-                }
-
-                console.log("result", result);
-                console.log("content", content);
-
                 return (
-                  <tr key={index} className="border-top">
+                  <tr key={index} className="border-top" >
                     <td>{collection.rank}</td>
                     <td>
                       <img src={collection.collectionImageURL} alt={collection.collectionName} width="50" height="50" />
                     </td>
-                    <td>{collection.collectionName}</td>
+                    <td><a href={"/collection/" + collection.collectionId}> {collection.collectionName} </a> </td>
                     <td>{collection.buyerCount}</td>
                     <td>{collection.sellerCount}</td>
                     <td>{collection.quote.USD ? collection.quote.USD.salesVolume.toFixed(2) : 0.00}</td>
@@ -67,12 +57,12 @@ const ProjectTables = () => {
               })}
             </tbody>
             <tfoot>
-                <Button onClick={prevPage} disabled={currentPage === 1}>
-                  Previous
-                </Button>{' '}
-                <Button onClick={nextPage} disabled={lastItemIndex >= json.data.length}>
-                  Next
-                </Button>
+              <Button onClick={prevPage} disabled={currentPage === 1}>
+                Previous
+              </Button>{' '}
+              <Button onClick={nextPage} disabled={lastItemIndex >= json.data.length}>
+                Next
+              </Button>
             </tfoot>
           </Table>
         </div>
