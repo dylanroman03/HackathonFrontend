@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Inspiration
+- We took inspiration from existing marketplaces, such as Angur and Polymarket, to build an easy-to-use predictive NFT software. Even in today's crypto-heavy environment, there isn't a marketplace that provides a quick generalization of specific attributes (background, colors, characteristics, etc), which hinders consumer use and overall interest. Our project aimed to tackle this issue by providing a simple generalizing application for top NFTs. 
 
-## Getting Started
+## What it does
+- Our project generalizes the different attributes of NFTs to simplify the way our predictive software displays future pricing. Given an NFT, you can get an idea about what attributes play a role in the pricing of that token, making it easy to understand and get involved in the up-and-coming market.
 
-First, run the development server:
+## How we built it
+- Frontend:
+      - The frontend takes the data processed by the backend, establishing necessary connections between files to organize and relate the information. Subsequently, it displays this data in a table format for user-friendly visualization.
+- Backend: 
+     - Python scraper to get data from [CryptoSlam](https://www.cryptoslam.io/)
+     - Once data was processed, we chose the top 100 Token IDs and their attributes
+     - We then processed these attributes for each token within different collections to determine future pricing
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Challenges we ran into
+- Figuring out how to obtain data from Cryptoslam (data scraping)
+- Ensuring that we use Starknet to complement the entire project, not just one part of it
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Accomplishments that we're proud of
+- We spent a lot of time building up the ML logic and there was a lot of data to sort through, which required us to minimize our scope to make the project feasible
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## What we learned
+- Getting data dependent on attributes from each NFT (CollectionID) was a challenge because our scope was too large, so we had to make changes
+- To obtain the full breadth of data possible for the software, we would need significantly more resources (memory and money) than we have
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## What's next for the AI-NFT prediction market
+- There is room for enhancement to encompass more than just the top 100 NFT collections
 
-## Learn More
+## Deploy Website
+https://hackathon-frontend-xi.vercel.app/
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Data: 
+https://drive.google.com/drive/folders/1INSjMUsGR6k0fhRFqyrCqvgsNdTNqEO4
