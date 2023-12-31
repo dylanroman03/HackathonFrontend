@@ -2,8 +2,8 @@
 'use client'
 import Head from "next/head";
 import { Col, Row } from "reactstrap";
-import ProjectTables from "@/app/components/dashboard/ProjectTable";
 import '../styles/style.scss';
+import ProjectTables from "./components/dashboard/ProjectTable";
 
 export default function Home() {
   return (

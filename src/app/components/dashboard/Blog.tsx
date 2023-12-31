@@ -10,12 +10,28 @@ import {
 import PropTypes from "prop-types";
 import Image from "next/image";
 
-const Blog = ({ image, title, subtitle, text, color, url }) => {
+const Blog = ({
+  image,
+  title,
+  subtitle,
+  text,
+  color,
+  url,
+}: {
+  image: any;
+  title: string;
+  subtitle: string;
+  text: any[];
+  color: string;
+  url: string;
+}) => {
   return (
     <Card>
       <CardBody className="p-4">
         <div className="d-flex">
-          <div className={`circle-box lg-box d-inline-block bg-light-success text-success`}>
+          <div
+            className={`circle-box lg-box d-inline-block bg-light-success text-success`}
+          >
             <i className={"bi bi-star"} />
           </div>
           <div className="ms-3">
@@ -25,29 +41,33 @@ const Blog = ({ image, title, subtitle, text, color, url }) => {
         </div>
 
         <CardText className="mt-3">
-          {text.map(item => {
+          {text.map((item, index) => {
             for (const key in item) {
               if (Object.hasOwnProperty.call(item, key)) {
                 const element = item[key];
 
-                const isDatePattern = /^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}/.test(element.value);
+                const isDatePattern =
+                  /^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}/.test(element.value);
 
                 if (isDatePattern) {
                   element.value = new Date(element.value).toLocaleDateString();
                 }
 
-                return (
-                  <div>
-                    <p><b>{key.charAt(0).toUpperCase() + key.slice(1)}:</b> {element.value}</p>
-                  </div>
-                )
+                return  (
+                    <p  key={index}>
+                      <b>{key.charAt(0).toUpperCase() + key.slice(1)}:</b>{" "}
+                      {element.value}
+                    </p>
+                );
               }
             }
-          }
-          )}
-
+          })}
         </CardText>
-        <a href={url} target="_blank"><Button color={color} size="lg">Read More</Button></a>
+        <a href={url} target="_blank">
+          <Button color={color} size="lg">
+            Read More
+          </Button>
+        </a>
       </CardBody>
     </Card>
   );
