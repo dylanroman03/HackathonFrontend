@@ -20,7 +20,7 @@ export default function CollectionDetails({ params }) {
               <Col sm="6" lg="6" xl="3" key={blg.title}>
                 <Blog
                   image=""
-                  title={data.rarityRank}
+                  title={data.rarityRank.toString()}
                   subtitle="rarity rank"
                   text={data.attributes ?? []}
                   color="primary"

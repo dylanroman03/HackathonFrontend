@@ -1,6 +1,6 @@
-import Image from "next/image";
 import React, { useState } from 'react';
 import { Card, CardBody, CardTitle, CardSubtitle, Table, Button } from "reactstrap";
+import { Col } from "reactstrap";
 import json from '@/app/data/top100_copy.json';
 
 
@@ -57,9 +57,9 @@ const ProjectTables = () => {
               })}
             </tbody>
             <tfoot>
-              <Button onClick={prevPage} disabled={currentPage === 1}>
-                Previous
-              </Button>{' '}
+                <Button onClick={prevPage} disabled={currentPage === 1}>
+                  Previous
+                </Button>{' '}
               <Button onClick={nextPage} disabled={lastItemIndex >= json.data.length}>
                 Next
               </Button>

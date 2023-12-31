@@ -5,6 +5,7 @@ import Link from "next/link";
 import React from "react";
 import { Button } from "../ui/button";
 import { usePathname } from "next/navigation";
+import '../../app/globals.css';
 
 const Navbar = () => {
   const pathName = usePathname();
@@ -20,21 +21,21 @@ const Navbar = () => {
           </Link>
           <div className="flex items-center gap-6">
             <div className="flex gap-2">
-              <Link href={"/docs"}>Docs</Link>
-              <Link href={"/about"}>About</Link>
+              {/* <Link href={"/docs"}>Docs</Link>
+              <Link href={"/about"}>About</Link> */}
             </div>
             <div className="flex gap-4">
               <Link href={"/login"}>
                 <Button variant={"secondary"} className="w-[120px] h-[50px]">
-                  Login
-                </Button>
-              </Link>
-              <Link href={"/signup"}>
-                <Button className="w-[120px] h-[50px]">Sign Up</Button>
-              </Link>
-            </div>
+                Login
+              </Button>
+            </Link>
+            <Link href={"/signup"}>
+              <Button className="w-[120px] h-[50px]">Sign Up</Button>
+            </Link>
           </div>
-        </nav>
+        </div>
+        </nav >
       )}
     </>
   );
