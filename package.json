@@ -20,7 +20,7 @@
     "lucide-react": "^0.303.0",
     "next": "14.0.4",
     "next-auth": "^4.24.5",
-    "prop-types": "15.8.1",
+    "prop-types": "^15.8.1",
     "react": "^18",
     "react-apexcharts": "^1.4.1",
     "react-dom": "^18",
