@@ -6,7 +6,18 @@ const nextConfig = {
     includePaths: [path.join(__dirname, 'src/styles')],
   },
   images: {
-    domains: ['cdn04.cryptoslam.io'],
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'cdn04.cryptoslam.io',
+        pathname: '**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'i.seadn.io',
+        pathname: '**',
+      },
+    ],
   },
 }
 

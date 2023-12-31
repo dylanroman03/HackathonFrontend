@@ -5,6 +5,7 @@ import { Card, CardBody, CardTitle, CardSubtitle, Table, Button } from "reactstr
 import { Col } from "reactstrap";
 import json from '@/app/data/top100_copy.json';
 import Link from 'next/link';
+import Image from 'next/image';
 
 
 const ProjectTables = () => {
@@ -48,7 +49,7 @@ const ProjectTables = () => {
                   <tr key={index} className="border-top">
                     <td>{collection.rank}</td>
                     <td>
-                      <img
+                      <Image
                         src={collection.collectionImageURL ?? ""}
                         alt={collection.collectionName}
                         width="50"
