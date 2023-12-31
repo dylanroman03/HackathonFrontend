@@ -1,7 +1,10 @@
+"use client"
+
 import React, { useState } from 'react';
 import { Card, CardBody, CardTitle, CardSubtitle, Table, Button } from "reactstrap";
 import { Col } from "reactstrap";
 import json from '@/app/data/top100_copy.json';
+import Link from 'next/link';
 
 
 const ProjectTables = () => {
@@ -13,13 +16,12 @@ const ProjectTables = () => {
   const visibleData = json.data.slice(firstItemIndex, lastItemIndex);
 
   const nextPage = () => {
-    setCurrentPage(prevPage => prevPage + 1);
+    setCurrentPage((prevPage) => prevPage + 1);
   };
 
   const prevPage = () => {
-    setCurrentPage(prevPage => prevPage - 1);
+    setCurrentPage((prevPage) => prevPage - 1);
   };
-
 
   return (
     <Card>
@@ -43,24 +45,41 @@ const ProjectTables = () => {
             <tbody>
               {visibleData.map((collection, index) => {
                 return (
-                  <tr key={index} className="border-top" >
+                  <tr key={index} className="border-top">
                     <td>{collection.rank}</td>
                     <td>
-                      <img src={collection.collectionImageURL} alt={collection.collectionName} width="50" height="50" />
+                      <img
+                        src={collection.collectionImageURL ?? ""}
+                        alt={collection.collectionName}
+                        width="50"
+                        height="50"
+                      />
                     </td>
-                    <td><a href={"/collection/" + collection.collectionId}> {collection.collectionName} </a> </td>
+                    <td>
+                      <Link href={"/collection/" + collection.collectionId}>
+                        {" "}
+                        {collection.collectionName}{" "}
+                      </Link>{" "}
+                    </td>
                     <td>{collection.buyerCount}</td>
                     <td>{collection.sellerCount}</td>
-                    <td>{collection.quote.USD ? collection.quote.USD.salesVolume.toFixed(2) : 0.00}</td>
+                    <td>
+                      {collection.quote.USD
+                        ? collection.quote.USD.salesVolume.toFixed(2)
+                        : 0.0}
+                    </td>
                   </tr>
                 );
               })}
             </tbody>
-            <tfoot>
+            <tfoot className="flex items-center gap-2 mt-2">
               <Button onClick={prevPage} disabled={currentPage === 1}>
                 Previous
-              </Button>{' '}
-              <Button onClick={nextPage} disabled={lastItemIndex >= json.data.length}>
+              </Button>{" "}
+              <Button
+                onClick={nextPage}
+                disabled={lastItemIndex >= json.data.length}
+              >
                 Next
               </Button>
             </tfoot>
