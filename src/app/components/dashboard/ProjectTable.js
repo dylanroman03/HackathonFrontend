@@ -26,7 +26,7 @@ const ProjectTables = () => {
       <CardBody>
         <CardTitle tag="h5">Top 100</CardTitle>
         <CardSubtitle className="mb-2 text-muted" tag="h6">
-          Top 100 NTF's
+          Top 100 NTFs
         </CardSubtitle>
         <div className="table-responsive">
           <Table className="text-nowrap mt-3 align-middle" borderless>
