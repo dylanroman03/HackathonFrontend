@@ -1,12 +1,18 @@
-"use client"
+"use client";
 
-import React, { useState } from 'react';
-import { Card, CardBody, CardTitle, CardSubtitle, Table, Button } from "reactstrap";
+import React, { useState } from "react";
+import {
+  Card,
+  CardBody,
+  CardTitle,
+  CardSubtitle,
+  Table,
+  Button,
+} from "reactstrap";
 import { Col } from "reactstrap";
-import json from '@/app/data/top100_copy.json';
-import Link from 'next/link';
-import Image from 'next/image';
-
+import json from "@/app/data/top100_copy.json";
+import Link from "next/link";
+import Image from "next/image";
 
 const ProjectTables = () => {
   const itemsPerPage = 10;
@@ -73,18 +79,19 @@ const ProjectTables = () => {
                 );
               })}
             </tbody>
-            <tfoot className="flex items-center gap-2 mt-2">
-              <Button onClick={prevPage} disabled={currentPage === 1}>
-                Previous
-              </Button>{" "}
-              <Button
-                onClick={nextPage}
-                disabled={lastItemIndex >= json.data.length}
-              >
-                Next
-              </Button>
-            </tfoot>
-          </Table>
+          </Table>  
+
+          <div className="flex items-center gap-2 mt-2">
+            <Button onClick={prevPage} disabled={currentPage === 1}>
+              Previous
+            </Button>{" "}
+            <Button
+              onClick={nextPage}
+              disabled={lastItemIndex >= json.data.length}
+            >
+              Next
+            </Button>
+          </div>
         </div>
       </CardBody>
     </Card>

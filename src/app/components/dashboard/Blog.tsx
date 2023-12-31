@@ -41,7 +41,7 @@ const Blog = ({
         </div>
 
         <CardText className="mt-3">
-          {text.map((item) => {
+          {text.map((item, index) => {
             for (const key in item) {
               if (Object.hasOwnProperty.call(item, key)) {
                 const element = item[key];
@@ -53,13 +53,11 @@ const Blog = ({
                   element.value = new Date(element.value).toLocaleDateString();
                 }
 
-                return (
-                  <div>
-                    <p>
+                return  (
+                    <p  key={index}>
                       <b>{key.charAt(0).toUpperCase() + key.slice(1)}:</b>{" "}
                       {element.value}
                     </p>
-                  </div>
                 );
               }
             }

@@ -14,10 +14,10 @@ const Navbar = () => {
   return (
     <>
       {RenderNull ? null : (
-        <nav className="flex justify-between !items-center py-4 px-20 bg-white shadow-md">
+        <nav className="flex justify-between !items-center py-4 lg:px-20 px-4 bg-white shadow-md">
           <Link href={"/"} className="flex !items-center gap-2">
             <Store className="size-10" />
-            <h2 className="flex text-2xl">AI-NFT prediction marketplace</h2>
+            <h2 className="flex lg:text-2xl">AI-NFT <span className="hidden lg:flex">prediction marketplace</span></h2>
           </Link>
           <div className="flex items-center gap-6">
             <div className="flex gap-2">
